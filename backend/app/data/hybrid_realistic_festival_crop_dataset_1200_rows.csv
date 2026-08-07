@@ -1,0 +1,1201 @@
+Plant,State,District,Climate_Season,Agri_Season,Month,Year,Soil_Type,Rainfall_Level,Festival,Expected_Yield_kg_per_acre,Growth_Score,Image_Class,Demand_Level,Price_Index,Supply_Level,Is_Perishable,Reason_for_Demand
+Sesame,Nagaland,Nagaland,Autumn,Kharif,July,2017,Laterite,Low,Rath Yatra,755,67,4,3,5,5,0,Traditional consumption and cultural preference during this period
+Sesame,Himachal Pradesh,Himachal Pradesh,Summer,Kharif,April,2022,Black,High,Ram Navami,1089,63,4,3,3,4,0,Traditional consumption and cultural preference during this period
+Turmeric,Andaman & Nicobar Islands,Andaman & Nicobar Islands,Winter,Rabi,January,2022,Arid & Desert,Medium,Makar Sankranti,2699,40,2,8,9,8,0,Traditional consumption and cultural preference during this period
+Jasmine,Andaman & Nicobar Islands,Andaman & Nicobar Islands,Summer,Kharif,April,2011,Arid & Desert,Low,Vishu,2285,58,3,4,6,4,1,Traditional consumption and cultural preference during this period
+Jasmine,Nagaland,Nagaland,Autumn,Kharif,October,2023,Black,Medium,Diwali,2474,64,4,8,8,7,1,High floral demand for garlands and decorations
+Jasmine,Dadra & Nagar Haveli and Daman & Diu,Dadra & Nagar Haveli and Daman & Diu,Autumn,Kharif,July,2016,Arid & Desert,Medium,Rath Yatra,2515,67,4,5,4,8,1,Traditional consumption and cultural preference during this period
+Wheat,Punjab,Punjab,Summer,Kharif,April,2020,Red,High,Vishu,3398,53,3,4,3,7,0,Traditional consumption and cultural preference during this period
+Sesame,Mizoram,Mizoram,Summer,Kharif,May,2018,Laterite,Medium,Wedding Season,954,86,5,4,4,6,0,Traditional consumption and cultural preference during this period
+Wheat,Karnataka,Karnataka,Summer,Kharif,April,2015,Black,High,Vishu,2988,44,3,4,5,7,0,Traditional consumption and cultural preference during this period
+Cotton,Arunachal Pradesh,Arunachal Pradesh,Summer,Kharif,May,2011,Laterite,Low,Wedding Season,737,75,4,4,3,5,0,Traditional consumption and cultural preference during this period
+Banana,Delhi,Delhi,Winter,Rabi,January,2020,Alluvial,Medium,Pongal,3089,33,2,10,9,6,1,Banana fruits and leaves used in rituals and feasts
+Wheat,Puducherry,Puducherry,Summer,Kharif,April,2019,Red,Medium,Ram Navami,2995,42,3,6,5,6,0,Traditional consumption and cultural preference during this period
+Wheat,Haryana,Haryana,Summer,Kharif,June,2024,Alluvial,Low,Rath Yatra,3235,40,2,3,3,8,0,Traditional consumption and cultural preference during this period
+Rice,Sikkim,Sikkim,Winter,Rabi,January,2011,Red,High,Lohri,3674,55,3,3,3,4,0,Staple grain used widely in festive meals and offerings
+Banana,Telangana,Telangana,Summer,Kharif,April,2012,Alluvial,Low,Ram Navami,3213,82,5,7,8,5,1,Traditional consumption and cultural preference during this period
+Turmeric,Andhra Pradesh,Andhra Pradesh,Winter,Rabi,February,2013,Alluvial,High,Wedding Season,2702,48,3,10,7,8,0,Turmeric used in auspicious rituals and ceremonies
+Banana,Manipur,Manipur,Summer,Kharif,April,2024,Red,Low,Ram Navami,2785,63,4,6,4,8,1,Traditional consumption and cultural preference during this period
+Cotton,Puducherry,Puducherry,Summer,Kharif,June,2022,Alluvial,Medium,Rath Yatra,1101,84,5,7,6,7,0,Traditional consumption and cultural preference during this period
+Marigold,Bihar,Bihar,Summer,Kharif,April,2020,Alluvial,Low,Vishu,4874,70,4,5,4,5,1,Traditional consumption and cultural preference during this period
+Marigold,Haryana,Haryana,Summer,Kharif,June,2018,Alluvial,Medium,Rath Yatra,4958,73,4,4,6,6,1,Traditional consumption and cultural preference during this period
+Marigold,Mizoram,Mizoram,Spring,Rabi,March,2023,Alluvial,Medium,Ram Navami,5012,45,3,4,6,6,1,Traditional consumption and cultural preference during this period
+Sugarcane,Kerala,Kerala,Summer,Kharif,April,2014,Alluvial,High,Ugadi,40133,92,5,3,1,4,0,Traditional consumption and cultural preference during this period
+Millet,Mizoram,Mizoram,Winter,Rabi,December,2019,Red,Low,Christmas,1319,51,3,3,1,7,0,Traditional consumption and cultural preference during this period
+Wheat,West Bengal,West Bengal,Winter,Rabi,February,2020,Alluvial,High,Wedding Season,3119,78,4,4,6,6,0,Traditional consumption and cultural preference during this period
+Jasmine,Ladakh,Ladakh,Summer,Kharif,April,2010,Arid & Desert,Low,Vishu,2435,64,4,7,6,7,1,Traditional consumption and cultural preference during this period
+Cotton,Uttar Pradesh,Uttar Pradesh,Summer,Kharif,May,2012,Alluvial,Low,Wedding Season,951,62,4,4,6,7,0,Traditional consumption and cultural preference during this period
+Wheat,Assam,Assam,Autumn,Kharif,October,2023,Red,Medium,Diwali,3193,32,2,5,6,7,0,Traditional consumption and cultural preference during this period
+Cotton,Sikkim,Sikkim,Winter,Rabi,January,2010,Alluvial,High,Makar Sankranti,594,55,3,6,8,4,0,Traditional consumption and cultural preference during this period
+Jasmine,Jharkhand,Jharkhand,Winter,Rabi,December,2022,Black,High,Christmas,2674,35,2,5,7,7,1,Traditional consumption and cultural preference during this period
+Sesame,Himachal Pradesh,Himachal Pradesh,Spring,Rabi,March,2015,Laterite,High,Holi,1109,46,3,4,2,6,0,Traditional consumption and cultural preference during this period
+Turmeric,Assam,Assam,Autumn,Kharif,October,2016,Alluvial,High,Dussehra,3018,58,3,4,3,4,0,Traditional consumption and cultural preference during this period
+Rice,Telangana,Telangana,Winter,Rabi,November,2014,Saline/Alkaline,High,Diwali,3850,48,3,10,10,8,0,Staple grain used widely in festive meals and offerings
+Turmeric,Andaman & Nicobar Islands,Andaman & Nicobar Islands,Winter,Rabi,November,2021,Red,Medium,Wedding Season,2707,36,2,10,10,5,0,Turmeric used in auspicious rituals and ceremonies
+Groundnut,Madhya Pradesh,Madhya Pradesh,Winter,Rabi,January,2019,Black,Medium,Pongal,1325,53,3,5,3,5,0,Traditional consumption and cultural preference during this period
+Jasmine,Puducherry,Puducherry,Winter,Rabi,November,2017,Red,Medium,Wedding Season,2683,35,2,9,7,5,1,High floral demand for garlands and decorations
+Groundnut,Madhya Pradesh,Madhya Pradesh,Winter,Rabi,January,2017,Black,Low,Pongal,1164,62,4,7,9,7,0,Traditional consumption and cultural preference during this period
+Millet,Goa,Goa,Winter,Rabi,January,2018,Black,Medium,Makar Sankranti,1250,41,3,5,5,8,0,Traditional consumption and cultural preference during this period
+Rice,Jammu & Kashmir,Jammu & Kashmir,Summer,Kharif,April,2023,Black,Low,Ugadi,3082,69,4,7,9,4,0,Staple grain used widely in festive meals and offerings
+Wheat,Meghalaya,Meghalaya,Autumn,Kharif,October,2015,Red,High,Diwali,3305,40,2,6,8,5,0,Traditional consumption and cultural preference during this period
+Jasmine,Madhya Pradesh,Madhya Pradesh,Winter,Rabi,January,2018,Black,Medium,Makar Sankranti,2472,38,2,10,10,7,1,Traditional consumption and cultural preference during this period
+Rice,Maharashtra,Maharashtra,Winter,Rabi,November,2015,Black,Medium,Wedding Season,3339,61,4,8,5,8,0,Staple grain used widely in festive meals and offerings
+Marigold,Meghalaya,Meghalaya,Winter,Rabi,January,2010,Alluvial,High,Makar Sankranti,5088,55,3,8,10,7,1,Traditional consumption and cultural preference during this period
+Turmeric,Maharashtra,Maharashtra,Spring,Rabi,March,2013,Black,High,Ugadi,2753,49,3,3,4,5,0,Traditional consumption and cultural preference during this period
+Rice,Lakshadweep,Lakshadweep,Winter,Rabi,November,2015,Arid & Desert,Low,Diwali,3332,44,3,9,9,4,0,Staple grain used widely in festive meals and offerings
+Sugarcane,Maharashtra,Maharashtra,Autumn,Kharif,October,2020,Black,High,Dussehra,40527,72,4,6,7,7,0,Traditional consumption and cultural preference during this period
+Millet,Kerala,Kerala,Spring,Rabi,March,2015,Black,Medium,Ugadi,1427,62,4,6,8,4,0,Traditional consumption and cultural preference during this period
+Banana,Maharashtra,Maharashtra,Winter,Rabi,January,2024,Black,Medium,Lohri,3039,27,2,5,4,7,1,Traditional consumption and cultural preference during this period
+Banana,Odisha,Odisha,Summer,Kharif,April,2013,Alluvial,High,Vishu,2960,77,4,5,4,5,1,Banana fruits and leaves used in rituals and feasts
+Turmeric,Punjab,Punjab,Spring,Rabi,March,2022,Alluvial,High,Holi,2735,61,4,10,10,8,0,Traditional consumption and cultural preference during this period
+Sugarcane,Ladakh,Ladakh,Winter,Rabi,January,2013,Arid & Desert,Low,Makar Sankranti,39703,26,2,9,9,4,0,Harvest festival rituals use sugarcane heavily
+Jasmine,Dadra & Nagar Haveli and Daman & Diu,Dadra & Nagar Haveli and Daman & Diu,Winter,Rabi,January,2010,Arid & Desert,Low,Pongal,2468,60,3,9,7,6,1,Traditional consumption and cultural preference during this period
+Sugarcane,Haryana,Haryana,Spring,Rabi,March,2020,Alluvial,Medium,Ugadi,40097,50,3,3,2,8,0,Traditional consumption and cultural preference during this period
+Banana,Karnataka,Karnataka,Winter,Rabi,January,2018,Black,High,Pongal,2823,40,2,9,7,6,1,Banana fruits and leaves used in rituals and feasts
+Groundnut,Telangana,Telangana,Summer,Kharif,April,2022,Alluvial,Low,Vishu,1024,69,4,4,5,8,0,Traditional consumption and cultural preference during this period
+Groundnut,Kerala,Kerala,Autumn,Kharif,October,2019,Black,High,Dussehra,958,71,4,7,8,7,0,Traditional consumption and cultural preference during this period
+Sugarcane,West Bengal,West Bengal,Autumn,Kharif,October,2010,Red,Medium,Dussehra,39906,68,4,3,2,5,0,Traditional consumption and cultural preference during this period
+Marigold,Nagaland,Nagaland,Winter,Rabi,November,2017,Alluvial,High,Diwali,5089,46,3,8,6,6,1,High floral demand for garlands and decorations
+Cotton,Meghalaya,Meghalaya,Autumn,Kharif,October,2023,Red,Medium,Navratri,1008,61,4,5,6,6,0,Used for diya wicks and traditional textiles
+Wheat,Odisha,Odisha,Spring,Rabi,March,2016,Alluvial,High,Ugadi,3336,58,3,3,2,8,0,Traditional consumption and cultural preference during this period
+Banana,Andhra Pradesh,Andhra Pradesh,Spring,Rabi,March,2022,Alluvial,High,Holi,3108,33,2,9,10,5,1,Traditional consumption and cultural preference during this period
+Groundnut,Karnataka,Karnataka,Winter,Rabi,January,2013,Black,High,Pongal,1234,39,2,5,6,6,0,Traditional consumption and cultural preference during this period
+Sugarcane,Himachal Pradesh,Himachal Pradesh,Summer,Kharif,April,2013,Red,Medium,Ram Navami,40062,78,4,5,3,5,0,Traditional consumption and cultural preference during this period
+Wheat,Sikkim,Sikkim,Winter,Rabi,November,2014,Alluvial,Medium,Diwali,3304,58,3,6,4,8,0,Traditional consumption and cultural preference during this period
+Jasmine,Assam,Assam,Winter,Rabi,January,2012,Alluvial,High,Lohri,2675,47,3,3,3,8,1,Traditional consumption and cultural preference during this period
+Rice,Andaman & Nicobar Islands,Andaman & Nicobar Islands,Spring,Rabi,March,2022,Arid & Desert,Medium,Holi,3359,43,3,8,7,4,0,Staple grain used widely in festive meals and offerings
+Sesame,Arunachal Pradesh,Arunachal Pradesh,Winter,Rabi,January,2014,Alluvial,High,Pongal,958,52,3,5,6,6,0,Traditional consumption and cultural preference during this period
+Rice,Assam,Assam,Autumn,Kharif,July,2023,Alluvial,High,Rath Yatra,3984,78,4,7,5,5,0,Staple grain used widely in festive meals and offerings
+Jasmine,Gujarat,Gujarat,Spring,Rabi,March,2023,Alluvial,Low,Holi,2363,42,3,9,10,4,1,Traditional consumption and cultural preference during this period
+Banana,Odisha,Odisha,Summer,Kharif,April,2019,Red,High,Ram Navami,3225,72,4,7,6,8,1,Traditional consumption and cultural preference during this period
+Jasmine,Maharashtra,Maharashtra,Winter,Rabi,January,2021,Black,High,Pongal,2704,57,3,8,9,8,1,Traditional consumption and cultural preference during this period
+Groundnut,Lakshadweep,Lakshadweep,Autumn,Kharif,October,2011,Arid & Desert,Medium,Dussehra,986,57,3,5,4,6,0,Traditional consumption and cultural preference during this period
+Banana,Andaman & Nicobar Islands,Andaman & Nicobar Islands,Spring,Rabi,March,2024,Arid & Desert,High,Ugadi,2835,41,3,6,4,5,1,Traditional consumption and cultural preference during this period
+Wheat,Rajasthan,Rajasthan,Spring,Rabi,March,2012,Arid & Desert,Low,Ram Navami,3025,54,3,5,2,8,0,Traditional consumption and cultural preference during this period
+Turmeric,Assam,Assam,Autumn,Kharif,July,2020,Red,High,Rath Yatra,2706,64,4,3,1,5,0,Traditional consumption and cultural preference during this period
+Millet,Jharkhand,Jharkhand,Autumn,Kharif,October,2016,Laterite,Low,Diwali,1607,61,4,3,2,8,0,Traditional consumption and cultural preference during this period
+Banana,Madhya Pradesh,Madhya Pradesh,Summer,Kharif,April,2015,Black,High,Ugadi,3137,60,3,6,4,5,1,Traditional consumption and cultural preference during this period
+Cotton,Andhra Pradesh,Andhra Pradesh,Spring,Rabi,March,2014,Alluvial,High,Ram Navami,903,44,3,5,6,6,0,Traditional consumption and cultural preference during this period
+Rice,Meghalaya,Meghalaya,Autumn,Kharif,October,2022,Laterite,High,Navratri,3873,79,4,9,10,4,0,Staple grain used widely in festive meals and offerings
+Sesame,Chandigarh,Chandigarh,Summer,Kharif,April,2022,Laterite,Medium,Ram Navami,1049,54,3,7,7,6,0,Traditional consumption and cultural preference during this period
+Wheat,Rajasthan,Rajasthan,Summer,Kharif,April,2014,Arid & Desert,Low,Vishu,3029,41,3,3,5,7,0,Traditional consumption and cultural preference during this period
+Cotton,Assam,Assam,Winter,Rabi,January,2019,Alluvial,Medium,Pongal,800,35,2,6,7,5,0,Traditional consumption and cultural preference during this period
+Wheat,Bihar,Bihar,Summer,Kharif,June,2019,Alluvial,Medium,Rath Yatra,3247,34,2,6,7,8,0,Traditional consumption and cultural preference during this period
+Cotton,Karnataka,Karnataka,Winter,Rabi,January,2024,Black,High,Makar Sankranti,998,64,4,5,7,6,0,Traditional consumption and cultural preference during this period
+Banana,Andaman & Nicobar Islands,Andaman & Nicobar Islands,Summer,Kharif,April,2024,Alluvial,Low,Vishu,3019,74,4,7,8,8,1,Banana fruits and leaves used in rituals and feasts
+Rice,Nagaland,Nagaland,Autumn,Kharif,October,2024,Alluvial,High,Dussehra,3759,96,5,5,3,6,0,Staple grain used widely in festive meals and offerings
+Wheat,Puducherry,Puducherry,Winter,Rabi,January,2013,Black,High,Pongal,2991,63,4,3,2,4,0,Traditional consumption and cultural preference during this period
+Millet,Chhattisgarh,Chhattisgarh,Autumn,Kharif,October,2013,Black,Low,Dussehra,1718,70,4,3,1,6,0,Traditional consumption and cultural preference during this period
+Rice,Bihar,Bihar,Winter,Rabi,November,2011,Alluvial,Medium,Wedding Season,3608,49,3,9,8,8,0,Staple grain used widely in festive meals and offerings
+Rice,Sikkim,Sikkim,Autumn,Kharif,October,2017,Alluvial,Low,Navratri,3222,64,4,8,8,5,0,Staple grain used widely in festive meals and offerings
+Wheat,Jammu & Kashmir,Jammu & Kashmir,Spring,Rabi,March,2011,Red,High,Holi,3318,70,4,5,6,8,0,Traditional consumption and cultural preference during this period
+Marigold,Madhya Pradesh,Madhya Pradesh,Autumn,Kharif,October,2023,Black,High,Navratri,5118,79,4,10,8,8,1,High floral demand for garlands and decorations
+Millet,Mizoram,Mizoram,Autumn,Kharif,October,2011,Black,Medium,Diwali,1549,61,4,6,4,4,0,Traditional consumption and cultural preference during this period
+Groundnut,Gujarat,Gujarat,Summer,Kharif,April,2023,Alluvial,Medium,Wedding Season,1309,69,4,5,7,6,0,Traditional consumption and cultural preference during this period
+Wheat,Kerala,Kerala,Winter,Rabi,January,2015,Red,Medium,Pongal,3309,80,4,3,3,6,0,Traditional consumption and cultural preference during this period
+Jasmine,Chandigarh,Chandigarh,Winter,Rabi,January,2015,Laterite,Low,Lohri,2567,45,3,6,5,4,1,Traditional consumption and cultural preference during this period
+Sugarcane,Madhya Pradesh,Madhya Pradesh,Autumn,Kharif,October,2020,Red,High,Dussehra,40234,68,4,3,4,5,0,Traditional consumption and cultural preference during this period
+Wheat,Punjab,Punjab,Spring,Rabi,March,2013,Alluvial,High,Holi,3224,58,3,7,5,5,0,Traditional consumption and cultural preference during this period
+Banana,Andhra Pradesh,Andhra Pradesh,Autumn,Kharif,October,2012,Red,High,Navratri,2911,62,4,8,5,8,1,Traditional consumption and cultural preference during this period
+Sesame,Rajasthan,Rajasthan,Spring,Rabi,March,2021,Arid & Desert,Low,Holi,887,53,3,4,2,6,0,Traditional consumption and cultural preference during this period
+Sugarcane,Karnataka,Karnataka,Autumn,Kharif,October,2011,Red,Medium,Navratri,40061,60,3,10,10,7,0,Traditional consumption and cultural preference during this period
+Banana,Himachal Pradesh,Himachal Pradesh,Spring,Rabi,March,2023,Black,High,Ugadi,3184,42,3,3,2,7,1,Traditional consumption and cultural preference during this period
+Marigold,Odisha,Odisha,Summer,Kharif,April,2014,Alluvial,Medium,Wedding Season,4879,77,4,9,10,4,1,High floral demand for garlands and decorations
+Turmeric,Arunachal Pradesh,Arunachal Pradesh,Summer,Kharif,June,2023,Red,Low,Rath Yatra,2985,58,3,7,9,6,0,Traditional consumption and cultural preference during this period
+Millet,Arunachal Pradesh,Arunachal Pradesh,Summer,Kharif,April,2016,Alluvial,Low,Vishu,1564,61,4,3,1,4,0,Traditional consumption and cultural preference during this period
+Rice,Kerala,Kerala,Winter,Rabi,November,2019,Red,Medium,Wedding Season,3540,56,3,10,9,4,0,Staple grain used widely in festive meals and offerings
+Groundnut,Himachal Pradesh,Himachal Pradesh,Spring,Rabi,March,2017,Red,Medium,Ugadi,1403,35,2,3,1,8,0,Traditional consumption and cultural preference during this period
+Turmeric,Tripura,Tripura,Winter,Rabi,January,2021,Alluvial,Low,Pongal,2776,43,3,8,6,7,0,Turmeric used in auspicious rituals and ceremonies
+Jasmine,Tripura,Tripura,Winter,Rabi,January,2016,Red,High,Makar Sankranti,2252,44,3,8,9,8,1,Traditional consumption and cultural preference during this period
+Millet,Rajasthan,Rajasthan,Autumn,Kharif,October,2016,Arid & Desert,Low,Navratri,1687,58,3,6,7,5,0,Traditional consumption and cultural preference during this period
+Rice,Jammu & Kashmir,Jammu & Kashmir,Autumn,Kharif,October,2018,Red,High,Navratri,3645,78,4,10,10,8,0,Staple grain used widely in festive meals and offerings
+Groundnut,Uttarakhand,Uttarakhand,Winter,Rabi,January,2014,Laterite,High,Lohri,1024,39,2,3,4,7,0,Traditional consumption and cultural preference during this period
+Sugarcane,Ladakh,Ladakh,Winter,Rabi,January,2017,Alluvial,Low,Pongal,39573,57,3,9,10,7,0,Harvest festival rituals use sugarcane heavily
+Turmeric,Himachal Pradesh,Himachal Pradesh,Winter,Rabi,January,2013,Laterite,Low,Lohri,2813,35,2,3,3,5,0,Traditional consumption and cultural preference during this period
+Groundnut,Lakshadweep,Lakshadweep,Summer,Kharif,April,2021,Arid & Desert,High,Vishu,1415,80,4,6,6,4,0,Traditional consumption and cultural preference during this period
+Cotton,Meghalaya,Meghalaya,Winter,Rabi,November,2022,Laterite,Medium,Diwali,856,63,4,6,8,4,0,Used for diya wicks and traditional textiles
+Jasmine,Meghalaya,Meghalaya,Summer,Kharif,April,2016,Black,High,Ugadi,2708,76,4,7,6,6,1,Traditional consumption and cultural preference during this period
+Banana,Andhra Pradesh,Andhra Pradesh,Spring,Rabi,March,2016,Saline/Alkaline,High,Holi,3116,40,2,8,6,7,1,Traditional consumption and cultural preference during this period
+Banana,Andhra Pradesh,Andhra Pradesh,Winter,Rabi,December,2019,Alluvial,High,Christmas,3204,64,4,5,4,8,1,Traditional consumption and cultural preference during this period
+Turmeric,Meghalaya,Meghalaya,Spring,Rabi,March,2018,Black,High,Holi,2980,42,3,9,7,8,0,Traditional consumption and cultural preference during this period
+Cotton,West Bengal,West Bengal,Summer,Kharif,April,2017,Alluvial,High,Wedding Season,734,86,5,5,4,4,0,Traditional consumption and cultural preference during this period
+Turmeric,Rajasthan,Rajasthan,Winter,Rabi,January,2022,Arid & Desert,Low,Pongal,3011,23,2,9,10,5,0,Turmeric used in auspicious rituals and ceremonies
+Groundnut,Telangana,Telangana,Spring,Rabi,March,2011,Alluvial,Medium,Ugadi,1288,40,2,5,5,5,0,Traditional consumption and cultural preference during this period
+Sesame,Meghalaya,Meghalaya,Summer,Kharif,April,2012,Red,Low,Ugadi,1139,84,5,6,6,7,0,Traditional consumption and cultural preference during this period
+Groundnut,Madhya Pradesh,Madhya Pradesh,Winter,Rabi,January,2014,Red,High,Lohri,965,37,2,5,3,6,0,Traditional consumption and cultural preference during this period
+Rice,Goa,Goa,Winter,Rabi,January,2015,Black,High,Lohri,4017,40,2,7,9,4,0,Staple grain used widely in festive meals and offerings
+Rice,Gujarat,Gujarat,Autumn,Kharif,October,2016,Alluvial,Medium,Dussehra,3692,91,5,3,3,5,0,Staple grain used widely in festive meals and offerings
+Turmeric,Lakshadweep,Lakshadweep,Winter,Rabi,January,2024,Arid & Desert,High,Lohri,2830,48,3,4,2,7,0,Traditional consumption and cultural preference during this period
+Turmeric,Haryana,Haryana,Winter,Rabi,January,2010,Alluvial,Medium,Pongal,2749,61,4,8,6,6,0,Turmeric used in auspicious rituals and ceremonies
+Wheat,Jammu & Kashmir,Jammu & Kashmir,Autumn,Kharif,October,2021,Laterite,Low,Diwali,3138,43,3,3,2,5,0,Traditional consumption and cultural preference during this period
+Groundnut,Kerala,Kerala,Autumn,Kharif,October,2018,Alluvial,High,Dussehra,1277,71,4,3,4,5,0,Traditional consumption and cultural preference during this period
+Sesame,Mizoram,Mizoram,Winter,Rabi,January,2016,Black,Medium,Makar Sankranti,716,28,2,5,6,7,0,Til-based sweets and snacks drive demand
+Millet,Dadra & Nagar Haveli and Daman & Diu,Dadra & Nagar Haveli and Daman & Diu,Spring,Rabi,March,2023,Arid & Desert,Low,Ugadi,1535,31,2,6,8,4,0,Traditional consumption and cultural preference during this period
+Millet,Andhra Pradesh,Andhra Pradesh,Summer,Kharif,April,2023,Alluvial,High,Vishu,1421,80,4,7,8,8,0,Traditional consumption and cultural preference during this period
+Sugarcane,Andhra Pradesh,Andhra Pradesh,Winter,Rabi,November,2020,Alluvial,High,Diwali,40137,58,3,9,7,7,0,Traditional consumption and cultural preference during this period
+Jasmine,Puducherry,Puducherry,Autumn,Kharif,October,2012,Red,High,Diwali,2744,64,4,10,10,6,1,High floral demand for garlands and decorations
+Groundnut,Lakshadweep,Lakshadweep,Summer,Kharif,April,2011,Arid & Desert,Low,Vishu,1333,74,4,7,6,7,0,Traditional consumption and cultural preference during this period
+Rice,Gujarat,Gujarat,Summer,Kharif,June,2019,Alluvial,Medium,Rath Yatra,3381,77,4,4,3,4,0,Staple grain used widely in festive meals and offerings
+Sesame,Himachal Pradesh,Himachal Pradesh,Winter,Rabi,November,2014,Black,High,Wedding Season,1056,43,3,5,4,7,0,Traditional consumption and cultural preference during this period
+Marigold,Maharashtra,Maharashtra,Winter,Rabi,January,2011,Black,High,Pongal,4907,51,3,9,8,8,1,Traditional consumption and cultural preference during this period
+Banana,West Bengal,West Bengal,Autumn,Kharif,October,2017,Saline/Alkaline,High,Navratri,3085,69,4,8,6,7,1,Traditional consumption and cultural preference during this period
+Banana,Haryana,Haryana,Spring,Rabi,March,2018,Red,Medium,Holi,3001,56,3,10,7,8,1,Traditional consumption and cultural preference during this period
+Jasmine,Delhi,Delhi,Summer,Kharif,May,2016,Alluvial,Low,Wedding Season,2492,51,3,10,10,5,1,High floral demand for garlands and decorations
+Sugarcane,Nagaland,Nagaland,Summer,Kharif,June,2013,Black,Medium,Rath Yatra,40086,58,3,7,6,8,0,Traditional consumption and cultural preference during this period
+Sesame,Gujarat,Gujarat,Winter,Rabi,February,2024,Alluvial,Medium,Wedding Season,766,60,3,4,6,7,0,Traditional consumption and cultural preference during this period
+Millet,Rajasthan,Rajasthan,Winter,Rabi,January,2022,Red,Low,Makar Sankranti,1509,61,4,4,6,5,0,Traditional consumption and cultural preference during this period
+Cotton,Arunachal Pradesh,Arunachal Pradesh,Summer,Kharif,April,2013,Red,High,Vishu,885,66,4,4,3,6,0,Traditional consumption and cultural preference during this period
+Sugarcane,Rajasthan,Rajasthan,Winter,Rabi,January,2010,Arid & Desert,Low,Makar Sankranti,39850,32,2,8,10,4,0,Harvest festival rituals use sugarcane heavily
+Sesame,Bihar,Bihar,Autumn,Kharif,October,2022,Alluvial,Medium,Dussehra,779,76,4,4,1,8,0,Traditional consumption and cultural preference during this period
+Groundnut,Himachal Pradesh,Himachal Pradesh,Summer,Kharif,April,2014,Red,Low,Ram Navami,1090,67,4,4,5,6,0,Traditional consumption and cultural preference during this period
+Sugarcane,Delhi,Delhi,Winter,Rabi,January,2019,Alluvial,Low,Makar Sankranti,39849,39,2,8,6,6,0,Harvest festival rituals use sugarcane heavily
+Millet,Arunachal Pradesh,Arunachal Pradesh,Summer,Kharif,April,2013,Red,High,Ram Navami,1387,66,4,4,5,6,0,Traditional consumption and cultural preference during this period
+Millet,Delhi,Delhi,Winter,Rabi,January,2016,Alluvial,Medium,Lohri,1459,52,3,3,1,6,0,Traditional consumption and cultural preference during this period
+Groundnut,Arunachal Pradesh,Arunachal Pradesh,Autumn,Kharif,October,2017,Red,High,Dussehra,1421,59,3,7,8,8,0,Traditional consumption and cultural preference during this period
+Wheat,Punjab,Punjab,Winter,Rabi,December,2022,Alluvial,Medium,Christmas,3230,83,5,5,3,4,0,Traditional consumption and cultural preference during this period
+Sugarcane,Punjab,Punjab,Spring,Rabi,March,2016,Alluvial,High,Holi,40324,57,3,10,8,8,0,Traditional consumption and cultural preference during this period
+Cotton,Punjab,Punjab,Winter,Rabi,December,2018,Alluvial,Medium,Christmas,712,54,3,6,7,5,0,Traditional consumption and cultural preference during this period
+Sugarcane,Ladakh,Ladakh,Autumn,Kharif,July,2010,Arid & Desert,Low,Rath Yatra,39667,67,4,3,5,6,0,Traditional consumption and cultural preference during this period
+Rice,Goa,Goa,Spring,Rabi,March,2017,Alluvial,High,Ugadi,3924,46,3,4,2,8,0,Staple grain used widely in festive meals and offerings
+Rice,Kerala,Kerala,Summer,Kharif,April,2022,Alluvial,High,Vishu,4022,89,5,4,2,7,0,Staple grain used widely in festive meals and offerings
+Rice,Telangana,Telangana,Spring,Rabi,March,2022,Alluvial,Low,Holi,2854,48,3,9,9,5,0,Staple grain used widely in festive meals and offerings
+Rice,Ladakh,Ladakh,Spring,Rabi,March,2011,Alluvial,Low,Ram Navami,3309,51,3,6,5,8,0,Staple grain used widely in festive meals and offerings
+Sugarcane,Madhya Pradesh,Madhya Pradesh,Spring,Rabi,March,2024,Black,Medium,Holi,39906,55,3,9,8,7,0,Traditional consumption and cultural preference during this period
+Marigold,Telangana,Telangana,Winter,Rabi,January,2013,Alluvial,Medium,Pongal,5007,37,2,8,7,4,1,Traditional consumption and cultural preference during this period
+Banana,Chhattisgarh,Chhattisgarh,Autumn,Kharif,October,2011,Black,High,Diwali,2871,63,4,10,9,8,1,Traditional consumption and cultural preference during this period
+Turmeric,Nagaland,Nagaland,Autumn,Kharif,October,2015,Laterite,Low,Navratri,2619,46,3,9,10,7,0,Traditional consumption and cultural preference during this period
+Sugarcane,Telangana,Telangana,Winter,Rabi,January,2016,Alluvial,High,Makar Sankranti,40080,54,3,9,10,4,0,Harvest festival rituals use sugarcane heavily
+Jasmine,Maharashtra,Maharashtra,Winter,Rabi,January,2010,Black,Medium,Pongal,2433,38,2,8,8,7,1,Traditional consumption and cultural preference during this period
+Sesame,Puducherry,Puducherry,Winter,Rabi,December,2020,Red,High,Wedding Season,812,39,2,4,6,6,0,Traditional consumption and cultural preference during this period
+Cotton,Andaman & Nicobar Islands,Andaman & Nicobar Islands,Spring,Rabi,March,2023,Red,Medium,Ugadi,872,43,3,3,3,6,0,Traditional consumption and cultural preference during this period
+Jasmine,Meghalaya,Meghalaya,Winter,Rabi,January,2015,Red,High,Pongal,2560,35,2,8,7,8,1,Traditional consumption and cultural preference during this period
+Banana,Uttarakhand,Uttarakhand,Summer,Kharif,June,2017,Red,Low,Rath Yatra,3093,73,4,7,8,7,1,Traditional consumption and cultural preference during this period
+Wheat,West Bengal,West Bengal,Summer,Kharif,April,2020,Alluvial,High,Vishu,2969,33,2,5,6,8,0,Traditional consumption and cultural preference during this period
+Turmeric,Tripura,Tripura,Winter,Rabi,November,2017,Red,Medium,Diwali,3048,44,3,8,6,5,0,Traditional consumption and cultural preference during this period
+Rice,Rajasthan,Rajasthan,Winter,Rabi,December,2018,Alluvial,Low,Christmas,3260,46,3,5,7,4,0,Staple grain used widely in festive meals and offerings
+Marigold,Dadra & Nagar Haveli and Daman & Diu,Dadra & Nagar Haveli and Daman & Diu,Summer,Kharif,April,2017,Arid & Desert,High,Ram Navami,5198,83,5,7,6,4,1,Traditional consumption and cultural preference during this period
+Wheat,Lakshadweep,Lakshadweep,Winter,Rabi,January,2010,Red,Medium,Makar Sankranti,3059,66,4,6,7,7,0,Traditional consumption and cultural preference during this period
+Rice,Uttar Pradesh,Uttar Pradesh,Spring,Rabi,March,2018,Alluvial,High,Wedding Season,3905,54,3,9,10,4,0,Staple grain used widely in festive meals and offerings
+Banana,Andaman & Nicobar Islands,Andaman & Nicobar Islands,Autumn,Kharif,July,2022,Arid & Desert,High,Rath Yatra,3064,80,4,5,5,6,1,Traditional consumption and cultural preference during this period
+Turmeric,Meghalaya,Meghalaya,Autumn,Kharif,October,2013,Red,High,Dussehra,2577,72,4,6,5,4,0,Traditional consumption and cultural preference during this period
+Turmeric,Telangana,Telangana,Winter,Rabi,January,2011,Red,Low,Lohri,2932,37,2,5,5,8,0,Traditional consumption and cultural preference during this period
+Banana,Madhya Pradesh,Madhya Pradesh,Autumn,Kharif,October,2022,Black,High,Navratri,2947,71,4,8,9,6,1,Traditional consumption and cultural preference during this period
+Sugarcane,Madhya Pradesh,Madhya Pradesh,Summer,Kharif,June,2018,Black,Medium,Rath Yatra,39751,82,5,6,5,6,0,Traditional consumption and cultural preference during this period
+Marigold,Andaman & Nicobar Islands,Andaman & Nicobar Islands,Spring,Rabi,March,2021,Arid & Desert,High,Ugadi,5160,39,2,6,8,5,1,Traditional consumption and cultural preference during this period
+Turmeric,Arunachal Pradesh,Arunachal Pradesh,Summer,Kharif,April,2020,Alluvial,Low,Ugadi,2746,53,3,5,6,5,0,Traditional consumption and cultural preference during this period
+Rice,Uttar Pradesh,Uttar Pradesh,Winter,Rabi,December,2018,Alluvial,High,Christmas,3701,42,3,5,7,7,0,Staple grain used widely in festive meals and offerings
+Cotton,Manipur,Manipur,Spring,Rabi,March,2014,Black,High,Holi,782,43,3,5,6,5,0,Traditional consumption and cultural preference during this period
+Turmeric,Uttarakhand,Uttarakhand,Winter,Rabi,January,2023,Laterite,Low,Lohri,2776,25,2,5,3,7,0,Traditional consumption and cultural preference during this period
+Millet,Delhi,Delhi,Winter,Rabi,February,2017,Alluvial,Low,Wedding Season,1474,39,2,7,7,6,0,Traditional consumption and cultural preference during this period
+Marigold,Kerala,Kerala,Summer,Kharif,April,2023,Black,Medium,Vishu,4806,58,3,6,4,5,1,Traditional consumption and cultural preference during this period
+Rice,Bihar,Bihar,Summer,Kharif,April,2017,Alluvial,High,Vishu,3612,87,5,4,2,5,0,Staple grain used widely in festive meals and offerings
+Cotton,Chhattisgarh,Chhattisgarh,Summer,Kharif,April,2020,Red,Medium,Vishu,876,79,4,5,7,4,0,Traditional consumption and cultural preference during this period
+Sugarcane,Rajasthan,Rajasthan,Spring,Rabi,March,2014,Alluvial,Low,Holi,39634,48,3,8,5,8,0,Traditional consumption and cultural preference during this period
+Turmeric,Mizoram,Mizoram,Winter,Rabi,January,2016,Red,Medium,Lohri,2855,35,2,3,4,5,0,Traditional consumption and cultural preference during this period
+Turmeric,Punjab,Punjab,Summer,Kharif,April,2016,Alluvial,High,Wedding Season,2923,84,5,9,10,4,0,Turmeric used in auspicious rituals and ceremonies
+Millet,Ladakh,Ladakh,Summer,Kharif,June,2010,Alluvial,Low,Rath Yatra,1627,58,3,4,2,6,0,Traditional consumption and cultural preference during this period
+Turmeric,Chhattisgarh,Chhattisgarh,Autumn,Kharif,July,2015,Red,Low,Rath Yatra,2961,70,4,6,4,6,0,Traditional consumption and cultural preference during this period
+Banana,Chandigarh,Chandigarh,Winter,Rabi,December,2010,Alluvial,Medium,Christmas,2909,35,2,6,3,8,1,Traditional consumption and cultural preference during this period
+Marigold,Rajasthan,Rajasthan,Winter,Rabi,February,2018,Alluvial,Low,Wedding Season,4983,40,2,8,9,8,1,High floral demand for garlands and decorations
+Cotton,Bihar,Bihar,Winter,Rabi,November,2012,Alluvial,High,Wedding Season,808,53,3,7,8,5,0,Traditional consumption and cultural preference during this period
+Wheat,Ladakh,Ladakh,Summer,Kharif,April,2011,Alluvial,Low,Vishu,2980,34,2,6,4,6,0,Traditional consumption and cultural preference during this period
+Cotton,Goa,Goa,Summer,Kharif,May,2015,Red,High,Wedding Season,814,76,4,7,9,5,0,Traditional consumption and cultural preference during this period
+Turmeric,Chhattisgarh,Chhattisgarh,Winter,Rabi,January,2021,Alluvial,Medium,Lohri,2873,62,4,4,6,6,0,Traditional consumption and cultural preference during this period
+Millet,Dadra & Nagar Haveli and Daman & Diu,Dadra & Nagar Haveli and Daman & Diu,Autumn,Kharif,July,2013,Arid & Desert,Medium,Rath Yatra,1455,62,4,6,7,7,0,Traditional consumption and cultural preference during this period
+Turmeric,Ladakh,Ladakh,Winter,Rabi,December,2017,Alluvial,Medium,Wedding Season,2889,56,3,10,10,7,0,Turmeric used in auspicious rituals and ceremonies
+Turmeric,Gujarat,Gujarat,Autumn,Kharif,October,2019,Alluvial,Low,Dussehra,2597,56,3,7,5,8,0,Traditional consumption and cultural preference during this period
+Banana,Assam,Assam,Winter,Rabi,January,2017,Red,Medium,Makar Sankranti,2972,41,3,8,5,8,1,Traditional consumption and cultural preference during this period
+Sesame,Lakshadweep,Lakshadweep,Spring,Rabi,March,2010,Red,Low,Wedding Season,894,62,4,4,3,8,0,Traditional consumption and cultural preference during this period
+Turmeric,Chhattisgarh,Chhattisgarh,Spring,Rabi,March,2023,Red,Low,Ram Navami,2797,46,3,5,7,6,0,Traditional consumption and cultural preference during this period
+Sugarcane,Bihar,Bihar,Autumn,Kharif,October,2013,Alluvial,High,Navratri,40395,100,5,10,9,6,0,Traditional consumption and cultural preference during this period
+Rice,Gujarat,Gujarat,Winter,Rabi,December,2014,Alluvial,Low,Christmas,3025,49,3,4,2,5,0,Staple grain used widely in festive meals and offerings
+Marigold,Bihar,Bihar,Spring,Rabi,March,2011,Alluvial,High,Holi,5138,34,2,8,6,8,1,Traditional consumption and cultural preference during this period
+Marigold,Lakshadweep,Lakshadweep,Winter,Rabi,January,2011,Arid & Desert,Low,Makar Sankranti,5206,43,3,9,10,5,1,Traditional consumption and cultural preference during this period
+Rice,Maharashtra,Maharashtra,Autumn,Kharif,July,2013,Red,High,Rath Yatra,3728,82,5,5,4,7,0,Staple grain used widely in festive meals and offerings
+Turmeric,Mizoram,Mizoram,Spring,Rabi,March,2010,Alluvial,Low,Ugadi,2914,20,1,7,8,7,0,Traditional consumption and cultural preference during this period
+Marigold,Dadra & Nagar Haveli and Daman & Diu,Dadra & Nagar Haveli and Daman & Diu,Spring,Rabi,March,2018,Red,Low,Holi,5198,46,3,9,8,8,1,Traditional consumption and cultural preference during this period
+Jasmine,Uttar Pradesh,Uttar Pradesh,Winter,Rabi,January,2024,Alluvial,High,Pongal,2631,41,3,9,7,7,1,Traditional consumption and cultural preference during this period
+Sugarcane,Rajasthan,Rajasthan,Spring,Rabi,March,2015,Alluvial,Low,Ugadi,39405,27,2,5,6,8,0,Traditional consumption and cultural preference during this period
+Marigold,Andhra Pradesh,Andhra Pradesh,Winter,Rabi,January,2021,Saline/Alkaline,High,Lohri,5210,28,2,3,3,7,1,Traditional consumption and cultural preference during this period
+Banana,Madhya Pradesh,Madhya Pradesh,Autumn,Kharif,October,2010,Black,High,Navratri,2801,70,4,9,8,7,1,Traditional consumption and cultural preference during this period
+Jasmine,Maharashtra,Maharashtra,Winter,Rabi,January,2012,Black,High,Makar Sankranti,2478,52,3,10,8,6,1,Traditional consumption and cultural preference during this period
+Groundnut,Chhattisgarh,Chhattisgarh,Summer,Kharif,April,2024,Red,Medium,Ugadi,1147,66,4,5,3,6,0,Traditional consumption and cultural preference during this period
+Millet,Madhya Pradesh,Madhya Pradesh,Summer,Kharif,April,2023,Black,High,Ugadi,1594,54,3,5,3,7,0,Traditional consumption and cultural preference during this period
+Wheat,Nagaland,Nagaland,Summer,Kharif,April,2015,Red,Low,Vishu,3178,29,2,4,5,4,0,Traditional consumption and cultural preference during this period
+Wheat,Lakshadweep,Lakshadweep,Spring,Rabi,March,2017,Red,High,Holi,3138,75,4,5,5,5,0,Traditional consumption and cultural preference during this period
+Banana,Lakshadweep,Lakshadweep,Winter,Rabi,December,2022,Arid & Desert,Medium,Christmas,2929,45,3,6,5,4,1,Traditional consumption and cultural preference during this period
+Groundnut,Andhra Pradesh,Andhra Pradesh,Summer,Kharif,April,2019,Alluvial,High,Wedding Season,1304,60,3,4,5,7,0,Traditional consumption and cultural preference during this period
+Groundnut,Jharkhand,Jharkhand,Winter,Rabi,January,2023,Red,Low,Lohri,1175,36,2,7,6,7,0,Traditional consumption and cultural preference during this period
+Groundnut,Punjab,Punjab,Spring,Rabi,March,2010,Alluvial,High,Holi,1181,48,3,6,4,8,0,Traditional consumption and cultural preference during this period
+Sesame,Ladakh,Ladakh,Summer,Kharif,April,2018,Arid & Desert,Low,Vishu,762,69,4,6,5,5,0,Traditional consumption and cultural preference during this period
+Cotton,Meghalaya,Meghalaya,Winter,Rabi,December,2020,Laterite,High,Wedding Season,658,46,3,7,7,4,0,Traditional consumption and cultural preference during this period
+Groundnut,Madhya Pradesh,Madhya Pradesh,Winter,Rabi,January,2014,Black,High,Pongal,1426,43,3,3,2,5,0,Traditional consumption and cultural preference during this period
+Groundnut,Sikkim,Sikkim,Spring,Rabi,March,2020,Black,Medium,Ugadi,992,52,3,4,5,7,0,Traditional consumption and cultural preference during this period
+Sugarcane,Assam,Assam,Autumn,Kharif,October,2018,Saline/Alkaline,High,Diwali,40499,88,5,9,9,7,0,Traditional consumption and cultural preference during this period
+Cotton,Himachal Pradesh,Himachal Pradesh,Winter,Rabi,January,2015,Red,High,Lohri,623,28,2,5,7,4,0,Traditional consumption and cultural preference during this period
+Sugarcane,Tripura,Tripura,Winter,Rabi,December,2010,Black,High,Christmas,40181,46,3,5,6,8,0,Traditional consumption and cultural preference during this period
+Jasmine,Sikkim,Sikkim,Summer,Kharif,April,2019,Black,High,Vishu,2699,63,4,7,6,5,1,Traditional consumption and cultural preference during this period
+Rice,Himachal Pradesh,Himachal Pradesh,Autumn,Kharif,July,2018,Alluvial,High,Rath Yatra,3821,90,5,4,4,7,0,Staple grain used widely in festive meals and offerings
+Rice,Goa,Goa,Spring,Rabi,March,2013,Red,Medium,Ram Navami,3670,36,2,4,3,6,0,Staple grain used widely in festive meals and offerings
+Sesame,Sikkim,Sikkim,Winter,Rabi,December,2012,Alluvial,High,Christmas,1088,27,2,5,5,8,0,Traditional consumption and cultural preference during this period
+Groundnut,Arunachal Pradesh,Arunachal Pradesh,Winter,Rabi,January,2024,Red,Low,Lohri,1319,58,3,5,7,4,0,Traditional consumption and cultural preference during this period
+Banana,Meghalaya,Meghalaya,Summer,Kharif,April,2021,Red,Medium,Vishu,3098,60,3,4,2,4,1,Banana fruits and leaves used in rituals and feasts
+Groundnut,Uttarakhand,Uttarakhand,Summer,Kharif,April,2021,Alluvial,High,Vishu,1364,74,4,7,6,5,0,Traditional consumption and cultural preference during this period
+Turmeric,Chandigarh,Chandigarh,Winter,Rabi,January,2014,Laterite,Medium,Lohri,2913,36,2,6,7,7,0,Traditional consumption and cultural preference during this period
+Cotton,Karnataka,Karnataka,Summer,Kharif,April,2019,Black,High,Ram Navami,651,76,4,3,3,4,0,Traditional consumption and cultural preference during this period
+Millet,Rajasthan,Rajasthan,Spring,Rabi,March,2024,Arid & Desert,Low,Holi,1473,37,2,7,5,8,0,Traditional consumption and cultural preference during this period
+Banana,Meghalaya,Meghalaya,Autumn,Kharif,October,2014,Red,Low,Navratri,2889,57,3,8,8,6,1,Traditional consumption and cultural preference during this period
+Millet,Karnataka,Karnataka,Winter,Rabi,January,2017,Black,High,Lohri,1461,59,3,4,2,5,0,Traditional consumption and cultural preference during this period
+Rice,Uttar Pradesh,Uttar Pradesh,Summer,Kharif,April,2013,Alluvial,Low,Ugadi,3049,82,5,3,3,7,0,Staple grain used widely in festive meals and offerings
+Marigold,Manipur,Manipur,Spring,Rabi,March,2022,Red,Medium,Holi,5225,41,3,9,9,5,1,Traditional consumption and cultural preference during this period
+Banana,Assam,Assam,Winter,Rabi,November,2019,Red,High,Diwali,3226,59,3,10,10,8,1,Traditional consumption and cultural preference during this period
+Sesame,Maharashtra,Maharashtra,Winter,Rabi,December,2020,Black,High,Christmas,1062,38,2,3,4,6,0,Traditional consumption and cultural preference during this period
+Sesame,Uttarakhand,Uttarakhand,Winter,Rabi,January,2024,Alluvial,Low,Lohri,871,45,3,6,5,5,0,Traditional consumption and cultural preference during this period
+Sugarcane,Meghalaya,Meghalaya,Spring,Rabi,March,2021,Laterite,High,Wedding Season,40433,74,4,8,8,4,0,Traditional consumption and cultural preference during this period
+Sugarcane,Chandigarh,Chandigarh,Summer,Kharif,April,2013,Black,High,Vishu,40522,68,4,4,4,8,0,Traditional consumption and cultural preference during this period
+Rice,Haryana,Haryana,Spring,Rabi,March,2015,Alluvial,Medium,Holi,3613,56,3,10,10,6,0,Staple grain used widely in festive meals and offerings
+Millet,Andaman & Nicobar Islands,Andaman & Nicobar Islands,Winter,Rabi,January,2016,Alluvial,High,Makar Sankranti,1513,42,3,6,6,8,0,Traditional consumption and cultural preference during this period
+Turmeric,Nagaland,Nagaland,Summer,Kharif,April,2017,Black,Medium,Vishu,2979,82,5,4,5,8,0,Traditional consumption and cultural preference during this period
+Rice,Delhi,Delhi,Winter,Rabi,January,2012,Alluvial,High,Makar Sankranti,3964,64,4,10,10,5,0,Staple grain used widely in festive meals and offerings
+Banana,Sikkim,Sikkim,Winter,Rabi,January,2012,Alluvial,Low,Lohri,3103,51,3,4,2,6,1,Traditional consumption and cultural preference during this period
+Marigold,Ladakh,Ladakh,Spring,Rabi,March,2021,Arid & Desert,Medium,Ugadi,5136,47,3,6,4,7,1,Traditional consumption and cultural preference during this period
+Millet,Telangana,Telangana,Summer,Kharif,June,2011,Alluvial,High,Rath Yatra,1516,79,4,5,4,8,0,Traditional consumption and cultural preference during this period
+Rice,Lakshadweep,Lakshadweep,Autumn,Kharif,October,2010,Arid & Desert,High,Dussehra,3644,94,5,5,3,8,0,Staple grain used widely in festive meals and offerings
+Groundnut,Jharkhand,Jharkhand,Autumn,Kharif,October,2021,Red,High,Diwali,1240,78,4,4,5,5,0,Traditional consumption and cultural preference during this period
+Sugarcane,Andhra Pradesh,Andhra Pradesh,Autumn,Kharif,October,2023,Alluvial,High,Navratri,40264,100,5,8,7,5,0,Traditional consumption and cultural preference during this period
+Sugarcane,Kerala,Kerala,Spring,Rabi,March,2010,Alluvial,Medium,Wedding Season,40134,41,3,9,9,6,0,Traditional consumption and cultural preference during this period
+Sugarcane,Bihar,Bihar,Autumn,Kharif,October,2023,Alluvial,Medium,Navratri,40225,71,4,9,9,5,0,Traditional consumption and cultural preference during this period
+Rice,Madhya Pradesh,Madhya Pradesh,Autumn,Kharif,October,2013,Black,Low,Dussehra,3339,55,3,6,6,7,0,Staple grain used widely in festive meals and offerings
+Groundnut,Haryana,Haryana,Spring,Rabi,March,2010,Alluvial,Low,Holi,1184,27,2,3,4,4,0,Traditional consumption and cultural preference during this period
+Groundnut,Andaman & Nicobar Islands,Andaman & Nicobar Islands,Autumn,Kharif,July,2015,Red,Medium,Rath Yatra,954,55,3,6,7,8,0,Traditional consumption and cultural preference during this period
+Marigold,Tripura,Tripura,Winter,Rabi,January,2013,Black,Medium,Pongal,5075,37,2,10,9,8,1,Traditional consumption and cultural preference during this period
+Turmeric,Madhya Pradesh,Madhya Pradesh,Summer,Kharif,April,2012,Black,Medium,Vishu,2632,64,4,7,5,8,0,Traditional consumption and cultural preference during this period
+Wheat,Telangana,Telangana,Spring,Rabi,March,2015,Alluvial,Low,Holi,3408,74,4,3,4,7,0,Traditional consumption and cultural preference during this period
+Millet,Jammu & Kashmir,Jammu & Kashmir,Spring,Rabi,March,2011,Black,Medium,Ram Navami,1283,31,2,6,3,8,0,Traditional consumption and cultural preference during this period
+Groundnut,Himachal Pradesh,Himachal Pradesh,Winter,Rabi,January,2011,Black,High,Makar Sankranti,1193,39,2,3,2,5,0,Traditional consumption and cultural preference during this period
+Jasmine,Meghalaya,Meghalaya,Winter,Rabi,January,2021,Red,Medium,Pongal,2734,54,3,9,10,7,1,Traditional consumption and cultural preference during this period
+Groundnut,Chandigarh,Chandigarh,Summer,Kharif,April,2013,Black,High,Vishu,1088,86,5,4,3,6,0,Traditional consumption and cultural preference during this period
+Turmeric,Tripura,Tripura,Winter,Rabi,January,2014,Black,Medium,Makar Sankranti,2712,60,3,10,10,7,0,Traditional consumption and cultural preference during this period
+Groundnut,Goa,Goa,Winter,Rabi,November,2016,Alluvial,High,Wedding Season,1371,32,2,4,4,4,0,Traditional consumption and cultural preference during this period
+Sugarcane,Meghalaya,Meghalaya,Winter,Rabi,December,2018,Red,Low,Christmas,39494,32,2,7,9,7,0,Traditional consumption and cultural preference during this period
+Groundnut,Goa,Goa,Autumn,Kharif,October,2024,Red,Medium,Dussehra,1168,81,5,5,6,4,0,Traditional consumption and cultural preference during this period
+Rice,West Bengal,West Bengal,Autumn,Kharif,October,2019,Alluvial,High,Dussehra,3612,71,4,4,2,5,0,Staple grain used widely in festive meals and offerings
+Rice,Lakshadweep,Lakshadweep,Autumn,Kharif,October,2019,Arid & Desert,Medium,Dussehra,3480,77,4,6,4,8,0,Staple grain used widely in festive meals and offerings
+Groundnut,Mizoram,Mizoram,Winter,Rabi,November,2012,Laterite,High,Diwali,1136,44,3,3,3,7,0,Traditional consumption and cultural preference during this period
+Banana,Kerala,Kerala,Summer,Kharif,April,2013,Black,High,Ugadi,2791,85,5,3,4,8,1,Traditional consumption and cultural preference during this period
+Rice,Rajasthan,Rajasthan,Autumn,Kharif,October,2023,Red,Medium,Navratri,3250,74,4,9,10,8,0,Staple grain used widely in festive meals and offerings
+Sesame,Sikkim,Sikkim,Autumn,Kharif,October,2023,Black,High,Navratri,666,66,4,3,1,6,0,Traditional consumption and cultural preference during this period
+Sesame,Manipur,Manipur,Summer,Kharif,June,2021,Alluvial,Low,Rath Yatra,875,77,4,7,8,7,0,Traditional consumption and cultural preference during this period
+Sugarcane,Madhya Pradesh,Madhya Pradesh,Winter,Rabi,January,2024,Black,Low,Lohri,39488,32,2,6,8,5,0,Harvest festival rituals use sugarcane heavily
+Marigold,Jharkhand,Jharkhand,Summer,Kharif,April,2013,Alluvial,Medium,Ugadi,4938,75,4,5,2,8,1,Traditional consumption and cultural preference during this period
+Wheat,Dadra & Nagar Haveli and Daman & Diu,Dadra & Nagar Haveli and Daman & Diu,Winter,Rabi,January,2018,Arid & Desert,High,Pongal,3158,84,5,3,4,6,0,Traditional consumption and cultural preference during this period
+Millet,Assam,Assam,Spring,Rabi,March,2016,Red,High,Ram Navami,1527,48,3,6,5,4,0,Traditional consumption and cultural preference during this period
+Millet,Delhi,Delhi,Summer,Kharif,June,2023,Red,Medium,Rath Yatra,1484,72,4,7,6,4,0,Traditional consumption and cultural preference during this period
+Marigold,Arunachal Pradesh,Arunachal Pradesh,Winter,Rabi,January,2023,Red,Medium,Makar Sankranti,4924,32,2,9,10,6,1,Traditional consumption and cultural preference during this period
+Sesame,Jammu & Kashmir,Jammu & Kashmir,Summer,Kharif,June,2014,Red,High,Rath Yatra,1130,76,4,5,7,4,0,Traditional consumption and cultural preference during this period
+Sesame,Assam,Assam,Spring,Rabi,March,2019,Red,Medium,Holi,1106,63,4,6,6,4,0,Traditional consumption and cultural preference during this period
+Wheat,Kerala,Kerala,Winter,Rabi,January,2021,Laterite,High,Makar Sankranti,3439,60,3,6,6,5,0,Traditional consumption and cultural preference during this period
+Jasmine,Punjab,Punjab,Spring,Rabi,March,2015,Red,High,Holi,2441,30,2,8,6,6,1,Traditional consumption and cultural preference during this period
+Sugarcane,Mizoram,Mizoram,Summer,Kharif,April,2024,Red,Low,Vishu,39707,76,4,6,7,4,0,Traditional consumption and cultural preference during this period
+Groundnut,Delhi,Delhi,Autumn,Kharif,October,2024,Alluvial,High,Navratri,1160,56,3,3,1,4,0,Traditional consumption and cultural preference during this period
+Banana,Uttarakhand,Uttarakhand,Winter,Rabi,January,2023,Alluvial,Medium,Pongal,3118,58,3,8,7,4,1,Banana fruits and leaves used in rituals and feasts
+Cotton,Andaman & Nicobar Islands,Andaman & Nicobar Islands,Autumn,Kharif,October,2022,Alluvial,Medium,Navratri,905,58,3,3,4,4,0,Used for diya wicks and traditional textiles
+Marigold,Madhya Pradesh,Madhya Pradesh,Summer,Kharif,April,2010,Black,High,Wedding Season,4818,67,4,9,6,8,1,High floral demand for garlands and decorations
+Jasmine,Meghalaya,Meghalaya,Spring,Rabi,March,2022,Red,Medium,Ram Navami,2738,43,3,7,5,7,1,Traditional consumption and cultural preference during this period
+Turmeric,Jharkhand,Jharkhand,Summer,Kharif,April,2014,Red,Low,Ram Navami,2833,52,3,3,4,5,0,Traditional consumption and cultural preference during this period
+Turmeric,Arunachal Pradesh,Arunachal Pradesh,Autumn,Kharif,October,2024,Laterite,High,Navratri,2578,55,3,10,10,6,0,Traditional consumption and cultural preference during this period
+Marigold,Andaman & Nicobar Islands,Andaman & Nicobar Islands,Winter,Rabi,December,2012,Arid & Desert,High,Christmas,5182,56,3,3,1,7,1,Traditional consumption and cultural preference during this period
+Banana,Arunachal Pradesh,Arunachal Pradesh,Summer,Kharif,April,2023,Red,Medium,Vishu,3135,64,4,6,6,4,1,Banana fruits and leaves used in rituals and feasts
+Sesame,Nagaland,Nagaland,Winter,Rabi,December,2015,Alluvial,Low,Christmas,667,46,3,7,5,5,0,Traditional consumption and cultural preference during this period
+Marigold,Nagaland,Nagaland,Winter,Rabi,November,2024,Alluvial,Medium,Diwali,5030,32,2,9,10,4,1,High floral demand for garlands and decorations
+Wheat,Jharkhand,Jharkhand,Winter,Rabi,February,2014,Red,Medium,Wedding Season,3030,53,3,4,4,5,0,Traditional consumption and cultural preference during this period
+Rice,Jammu & Kashmir,Jammu & Kashmir,Autumn,Kharif,October,2011,Red,High,Diwali,3795,96,5,10,8,5,0,Staple grain used widely in festive meals and offerings
+Groundnut,Punjab,Punjab,Winter,Rabi,November,2016,Alluvial,High,Wedding Season,1102,58,3,7,4,8,0,Traditional consumption and cultural preference during this period
+Wheat,Gujarat,Gujarat,Autumn,Kharif,October,2021,Saline/Alkaline,Low,Navratri,3028,59,3,3,5,4,0,Traditional consumption and cultural preference during this period
+Groundnut,Lakshadweep,Lakshadweep,Spring,Rabi,March,2024,Red,Low,Ram Navami,990,32,2,3,4,6,0,Traditional consumption and cultural preference during this period
+Marigold,Kerala,Kerala,Winter,Rabi,December,2024,Red,High,Wedding Season,4939,42,3,9,9,5,1,High floral demand for garlands and decorations
+Rice,Jammu & Kashmir,Jammu & Kashmir,Spring,Rabi,March,2012,Red,Medium,Holi,3689,35,2,8,8,4,0,Staple grain used widely in festive meals and offerings
+Wheat,Bihar,Bihar,Autumn,Kharif,October,2023,Red,Low,Navratri,3102,35,2,4,4,7,0,Traditional consumption and cultural preference during this period
+Sesame,Jharkhand,Jharkhand,Spring,Rabi,March,2018,Laterite,Medium,Holi,656,33,2,7,6,4,0,Traditional consumption and cultural preference during this period
+Cotton,Uttar Pradesh,Uttar Pradesh,Summer,Kharif,April,2016,Alluvial,High,Ugadi,733,85,5,3,1,8,0,Traditional consumption and cultural preference during this period
+Sugarcane,Uttarakhand,Uttarakhand,Spring,Rabi,March,2013,Laterite,Medium,Holi,40203,40,2,8,7,4,0,Traditional consumption and cultural preference during this period
+Groundnut,Dadra & Nagar Haveli and Daman & Diu,Dadra & Nagar Haveli and Daman & Diu,Summer,Kharif,June,2014,Arid & Desert,Medium,Rath Yatra,1298,55,3,5,4,8,0,Traditional consumption and cultural preference during this period
+Cotton,Mizoram,Mizoram,Winter,Rabi,January,2010,Black,Low,Lohri,955,54,3,3,5,5,0,Traditional consumption and cultural preference during this period
+Turmeric,Puducherry,Puducherry,Autumn,Kharif,October,2013,Red,Medium,Dussehra,2831,65,4,6,7,4,0,Traditional consumption and cultural preference during this period
+Turmeric,Andhra Pradesh,Andhra Pradesh,Winter,Rabi,December,2021,Alluvial,High,Christmas,2867,52,3,3,5,4,0,Traditional consumption and cultural preference during this period
+Sugarcane,Arunachal Pradesh,Arunachal Pradesh,Autumn,Kharif,October,2010,Black,High,Navratri,40223,78,4,10,10,4,0,Traditional consumption and cultural preference during this period
+Sugarcane,Chhattisgarh,Chhattisgarh,Summer,Kharif,April,2015,Black,Low,Wedding Season,39730,51,3,9,9,6,0,Traditional consumption and cultural preference during this period
+Sugarcane,Puducherry,Puducherry,Summer,Kharif,May,2015,Red,High,Wedding Season,40442,86,5,9,8,7,0,Traditional consumption and cultural preference during this period
+Sugarcane,Rajasthan,Rajasthan,Winter,Rabi,December,2022,Arid & Desert,Low,Wedding Season,39433,26,2,9,8,5,0,Traditional consumption and cultural preference during this period
+Groundnut,Jammu & Kashmir,Jammu & Kashmir,Spring,Rabi,March,2022,Red,High,Ugadi,1191,32,2,5,7,6,0,Traditional consumption and cultural preference during this period
+Millet,Dadra & Nagar Haveli and Daman & Diu,Dadra & Nagar Haveli and Daman & Diu,Spring,Rabi,March,2014,Arid & Desert,Medium,Ram Navami,1396,51,3,4,2,6,0,Traditional consumption and cultural preference during this period
+Groundnut,Mizoram,Mizoram,Winter,Rabi,January,2018,Black,High,Pongal,1108,48,3,3,2,4,0,Traditional consumption and cultural preference during this period
+Rice,Nagaland,Nagaland,Autumn,Kharif,October,2024,Red,Medium,Navratri,3659,58,3,10,10,4,0,Staple grain used widely in festive meals and offerings
+Cotton,Dadra & Nagar Haveli and Daman & Diu,Dadra & Nagar Haveli and Daman & Diu,Winter,Rabi,January,2022,Alluvial,Low,Pongal,1038,65,4,6,5,6,0,Traditional consumption and cultural preference during this period
+Groundnut,Rajasthan,Rajasthan,Autumn,Kharif,October,2021,Arid & Desert,Low,Navratri,1332,55,3,7,5,6,0,Traditional consumption and cultural preference during this period
+Groundnut,Sikkim,Sikkim,Winter,Rabi,January,2018,Alluvial,Low,Lohri,1316,40,2,6,8,6,0,Traditional consumption and cultural preference during this period
+Sesame,Arunachal Pradesh,Arunachal Pradesh,Summer,Kharif,April,2018,Black,High,Vishu,1092,77,4,7,6,5,0,Traditional consumption and cultural preference during this period
+Rice,Gujarat,Gujarat,Summer,Kharif,April,2017,Alluvial,Low,Vishu,3055,56,3,7,6,4,0,Staple grain used widely in festive meals and offerings
+Wheat,Assam,Assam,Summer,Kharif,April,2011,Alluvial,High,Vishu,3432,37,2,7,6,8,0,Traditional consumption and cultural preference during this period
+Sugarcane,Uttarakhand,Uttarakhand,Spring,Rabi,March,2012,Black,High,Ram Navami,40508,62,4,6,7,4,0,Traditional consumption and cultural preference during this period
+Cotton,Chandigarh,Chandigarh,Spring,Rabi,March,2020,Black,Medium,Holi,1091,66,4,4,6,7,0,Traditional consumption and cultural preference during this period
+Millet,Rajasthan,Rajasthan,Autumn,Kharif,October,2017,Arid & Desert,Medium,Navratri,1431,79,4,7,6,6,0,Traditional consumption and cultural preference during this period
+Wheat,Dadra & Nagar Haveli and Daman & Diu,Dadra & Nagar Haveli and Daman & Diu,Winter,Rabi,December,2024,Red,High,Christmas,3211,65,4,5,6,4,0,Traditional consumption and cultural preference during this period
+Turmeric,Meghalaya,Meghalaya,Autumn,Kharif,October,2024,Laterite,High,Diwali,2737,60,3,10,10,5,0,Traditional consumption and cultural preference during this period
+Millet,Tripura,Tripura,Spring,Rabi,March,2013,Red,Medium,Holi,1732,45,3,7,9,5,0,Traditional consumption and cultural preference during this period
+Cotton,Uttarakhand,Uttarakhand,Spring,Rabi,March,2011,Red,Medium,Ugadi,712,46,3,6,4,4,0,Traditional consumption and cultural preference during this period
+Wheat,Jammu & Kashmir,Jammu & Kashmir,Winter,Rabi,January,2013,Red,Medium,Makar Sankranti,3321,64,4,7,5,7,0,Traditional consumption and cultural preference during this period
+Marigold,Odisha,Odisha,Autumn,Kharif,October,2022,Alluvial,Medium,Dussehra,5225,51,3,4,6,5,1,High floral demand for garlands and decorations
+Sesame,Karnataka,Karnataka,Summer,Kharif,April,2023,Black,High,Ram Navami,1059,60,3,7,7,4,0,Traditional consumption and cultural preference during this period
+Marigold,Meghalaya,Meghalaya,Winter,Rabi,January,2014,Alluvial,Low,Pongal,5174,33,2,10,10,7,1,Traditional consumption and cultural preference during this period
+Sugarcane,Puducherry,Puducherry,Summer,Kharif,April,2018,Red,Low,Vishu,39497,74,4,7,7,7,0,Traditional consumption and cultural preference during this period
+Sesame,Madhya Pradesh,Madhya Pradesh,Winter,Rabi,January,2022,Black,Low,Pongal,819,33,2,5,7,5,0,Traditional consumption and cultural preference during this period
+Cotton,Tripura,Tripura,Winter,Rabi,December,2018,Black,Low,Christmas,957,48,3,4,3,8,0,Traditional consumption and cultural preference during this period
+Groundnut,Kerala,Kerala,Winter,Rabi,January,2015,Laterite,Medium,Makar Sankranti,1230,41,3,7,7,4,0,Traditional consumption and cultural preference during this period
+Sugarcane,Punjab,Punjab,Winter,Rabi,December,2011,Alluvial,High,Christmas,40256,66,4,5,5,7,0,Traditional consumption and cultural preference during this period
+Jasmine,Sikkim,Sikkim,Spring,Rabi,March,2020,Alluvial,Medium,Holi,2417,58,3,9,8,7,1,Traditional consumption and cultural preference during this period
+Marigold,Rajasthan,Rajasthan,Spring,Rabi,March,2017,Arid & Desert,Low,Ram Navami,5197,50,3,5,4,8,1,Traditional consumption and cultural preference during this period
+Millet,Puducherry,Puducherry,Autumn,Kharif,October,2016,Laterite,Low,Navratri,1717,52,3,3,1,8,0,Traditional consumption and cultural preference during this period
+Sesame,Karnataka,Karnataka,Spring,Rabi,March,2020,Black,High,Holi,800,29,2,6,6,5,0,Traditional consumption and cultural preference during this period
+Jasmine,Jammu & Kashmir,Jammu & Kashmir,Autumn,Kharif,October,2024,Alluvial,Low,Dussehra,2396,81,5,7,8,7,1,High floral demand for garlands and decorations
+Groundnut,Andhra Pradesh,Andhra Pradesh,Winter,Rabi,January,2018,Alluvial,High,Pongal,1360,52,3,4,3,5,0,Traditional consumption and cultural preference during this period
+Wheat,Kerala,Kerala,Summer,Kharif,June,2018,Black,High,Rath Yatra,2963,33,2,3,4,5,0,Traditional consumption and cultural preference during this period
+Millet,Madhya Pradesh,Madhya Pradesh,Winter,Rabi,January,2016,Black,Low,Lohri,1544,45,3,5,7,4,0,Traditional consumption and cultural preference during this period
+Groundnut,Telangana,Telangana,Summer,Kharif,June,2012,Saline/Alkaline,Medium,Rath Yatra,1435,62,4,7,8,6,0,Traditional consumption and cultural preference during this period
+Sesame,Chandigarh,Chandigarh,Summer,Kharif,April,2017,Red,Medium,Wedding Season,955,73,4,6,6,5,0,Traditional consumption and cultural preference during this period
+Millet,West Bengal,West Bengal,Winter,Rabi,November,2023,Alluvial,High,Diwali,1508,52,3,5,5,4,0,Traditional consumption and cultural preference during this period
+Jasmine,Dadra & Nagar Haveli and Daman & Diu,Dadra & Nagar Haveli and Daman & Diu,Winter,Rabi,November,2023,Alluvial,Low,Wedding Season,2508,32,2,8,7,4,1,High floral demand for garlands and decorations
+Rice,Andhra Pradesh,Andhra Pradesh,Summer,Kharif,April,2013,Alluvial,Medium,Vishu,3403,85,5,3,3,7,0,Staple grain used widely in festive meals and offerings
+Jasmine,Assam,Assam,Summer,Kharif,April,2023,Alluvial,High,Vishu,2478,52,3,6,5,6,1,Traditional consumption and cultural preference during this period
+Groundnut,Lakshadweep,Lakshadweep,Summer,Kharif,April,2016,Arid & Desert,High,Ugadi,1030,78,4,7,5,4,0,Traditional consumption and cultural preference during this period
+Rice,Kerala,Kerala,Summer,Kharif,May,2011,Red,High,Wedding Season,3996,92,5,10,9,8,0,Staple grain used widely in festive meals and offerings
+Banana,Rajasthan,Rajasthan,Winter,Rabi,January,2013,Alluvial,Low,Pongal,3125,44,3,9,10,6,1,Banana fruits and leaves used in rituals and feasts
+Sesame,Chandigarh,Chandigarh,Summer,Kharif,April,2013,Red,Medium,Ram Navami,1129,63,4,7,5,5,0,Traditional consumption and cultural preference during this period
+Banana,Karnataka,Karnataka,Winter,Rabi,December,2020,Red,High,Christmas,3187,51,3,7,8,4,1,Traditional consumption and cultural preference during this period
+Cotton,Manipur,Manipur,Autumn,Kharif,October,2010,Laterite,Low,Diwali,1027,64,4,3,4,5,0,Used for diya wicks and traditional textiles
+Rice,Lakshadweep,Lakshadweep,Winter,Rabi,December,2011,Arid & Desert,Medium,Christmas,3598,45,3,5,4,7,0,Staple grain used widely in festive meals and offerings
+Groundnut,Nagaland,Nagaland,Summer,Kharif,April,2023,Red,Low,Ugadi,1402,69,4,5,6,8,0,Traditional consumption and cultural preference during this period
+Marigold,Delhi,Delhi,Winter,Rabi,December,2014,Alluvial,High,Christmas,5103,34,2,7,7,6,1,Traditional consumption and cultural preference during this period
+Marigold,Ladakh,Ladakh,Spring,Rabi,March,2024,Arid & Desert,Medium,Holi,5069,44,3,9,9,8,1,Traditional consumption and cultural preference during this period
+Turmeric,Meghalaya,Meghalaya,Spring,Rabi,March,2020,Red,Medium,Ram Navami,3041,58,3,5,5,6,0,Traditional consumption and cultural preference during this period
+Marigold,Puducherry,Puducherry,Autumn,Kharif,October,2013,Alluvial,High,Navratri,5146,71,4,10,10,5,1,High floral demand for garlands and decorations
+Rice,Punjab,Punjab,Summer,Kharif,April,2024,Saline/Alkaline,High,Vishu,3863,84,5,4,4,8,0,Staple grain used widely in festive meals and offerings
+Jasmine,Gujarat,Gujarat,Winter,Rabi,January,2023,Alluvial,Low,Pongal,2254,38,2,9,10,7,1,Traditional consumption and cultural preference during this period
+Marigold,Uttar Pradesh,Uttar Pradesh,Autumn,Kharif,October,2013,Alluvial,Medium,Navratri,4756,82,5,8,9,7,1,High floral demand for garlands and decorations
+Rice,Odisha,Odisha,Autumn,Kharif,October,2017,Alluvial,High,Diwali,3928,89,5,9,7,6,0,Staple grain used widely in festive meals and offerings
+Millet,Rajasthan,Rajasthan,Winter,Rabi,January,2016,Alluvial,Low,Lohri,1293,43,3,5,3,6,0,Traditional consumption and cultural preference during this period
+Millet,West Bengal,West Bengal,Winter,Rabi,January,2011,Red,Medium,Makar Sankranti,1280,42,3,3,4,6,0,Traditional consumption and cultural preference during this period
+Sugarcane,Mizoram,Mizoram,Winter,Rabi,December,2011,Alluvial,Low,Christmas,39427,24,2,6,4,6,0,Traditional consumption and cultural preference during this period
+Jasmine,Arunachal Pradesh,Arunachal Pradesh,Winter,Rabi,January,2010,Red,High,Lohri,2482,35,2,4,4,5,1,Traditional consumption and cultural preference during this period
+Rice,Madhya Pradesh,Madhya Pradesh,Winter,Rabi,December,2023,Black,High,Christmas,3756,41,3,3,5,7,0,Staple grain used widely in festive meals and offerings
+Jasmine,Andaman & Nicobar Islands,Andaman & Nicobar Islands,Spring,Rabi,March,2016,Arid & Desert,Low,Ugadi,2282,47,3,5,3,5,1,Traditional consumption and cultural preference during this period
+Millet,Jammu & Kashmir,Jammu & Kashmir,Winter,Rabi,November,2021,Red,Low,Diwali,1432,31,2,5,3,5,0,Traditional consumption and cultural preference during this period
+Jasmine,Arunachal Pradesh,Arunachal Pradesh,Summer,Kharif,April,2015,Black,Medium,Ram Navami,2276,63,4,4,2,5,1,Traditional consumption and cultural preference during this period
+Banana,Lakshadweep,Lakshadweep,Summer,Kharif,April,2011,Alluvial,Low,Ugadi,3118,66,4,7,8,6,1,Traditional consumption and cultural preference during this period
+Wheat,Mizoram,Mizoram,Autumn,Kharif,October,2017,Laterite,Medium,Navratri,3170,49,3,3,1,8,0,Traditional consumption and cultural preference during this period
+Turmeric,Sikkim,Sikkim,Winter,Rabi,January,2011,Laterite,Low,Pongal,2923,30,2,8,10,7,0,Turmeric used in auspicious rituals and ceremonies
+Rice,Jharkhand,Jharkhand,Spring,Rabi,March,2018,Alluvial,Low,Ugadi,3334,56,3,6,8,4,0,Staple grain used widely in festive meals and offerings
+Cotton,Karnataka,Karnataka,Summer,Kharif,June,2021,Laterite,High,Rath Yatra,732,77,4,5,5,4,0,Traditional consumption and cultural preference during this period
+Cotton,Bihar,Bihar,Spring,Rabi,March,2010,Alluvial,Medium,Ugadi,826,53,3,5,3,7,0,Traditional consumption and cultural preference during this period
+Cotton,Himachal Pradesh,Himachal Pradesh,Autumn,Kharif,October,2014,Laterite,High,Navratri,844,63,4,3,1,8,0,Used for diya wicks and traditional textiles
+Wheat,Dadra & Nagar Haveli and Daman & Diu,Dadra & Nagar Haveli and Daman & Diu,Autumn,Kharif,October,2010,Alluvial,Low,Navratri,3179,39,2,6,4,7,0,Traditional consumption and cultural preference during this period
+Marigold,Karnataka,Karnataka,Winter,Rabi,November,2016,Black,High,Wedding Season,5228,52,3,8,6,7,1,High floral demand for garlands and decorations
+Turmeric,Jammu & Kashmir,Jammu & Kashmir,Summer,Kharif,June,2013,Red,Low,Rath Yatra,2702,61,4,6,5,6,0,Traditional consumption and cultural preference during this period
+Turmeric,Himachal Pradesh,Himachal Pradesh,Winter,Rabi,December,2015,Red,Medium,Christmas,3015,60,3,5,6,6,0,Traditional consumption and cultural preference during this period
+Turmeric,Kerala,Kerala,Spring,Rabi,March,2022,Alluvial,High,Holi,2817,49,3,8,7,7,0,Traditional consumption and cultural preference during this period
+Wheat,Mizoram,Mizoram,Summer,Kharif,April,2021,Red,Medium,Vishu,3123,33,2,5,4,5,0,Traditional consumption and cultural preference during this period
+Cotton,Mizoram,Mizoram,Summer,Kharif,April,2014,Red,High,Vishu,906,60,3,6,7,4,0,Traditional consumption and cultural preference during this period
+Cotton,Arunachal Pradesh,Arunachal Pradesh,Winter,Rabi,January,2014,Alluvial,Medium,Pongal,773,47,3,6,4,4,0,Traditional consumption and cultural preference during this period
+Millet,Arunachal Pradesh,Arunachal Pradesh,Spring,Rabi,March,2020,Black,High,Wedding Season,1704,56,3,3,4,8,0,Traditional consumption and cultural preference during this period
+Millet,Assam,Assam,Winter,Rabi,November,2013,Alluvial,High,Wedding Season,1262,37,2,3,4,5,0,Traditional consumption and cultural preference during this period
+Turmeric,Himachal Pradesh,Himachal Pradesh,Winter,Rabi,December,2018,Red,Medium,Christmas,2864,54,3,7,7,8,0,Traditional consumption and cultural preference during this period
+Banana,Chhattisgarh,Chhattisgarh,Winter,Rabi,January,2016,Laterite,Low,Pongal,3213,47,3,8,6,5,1,Banana fruits and leaves used in rituals and feasts
+Wheat,Uttarakhand,Uttarakhand,Autumn,Kharif,July,2022,Red,Low,Rath Yatra,3007,56,3,4,2,7,0,Traditional consumption and cultural preference during this period
+Turmeric,Madhya Pradesh,Madhya Pradesh,Autumn,Kharif,October,2023,Black,Low,Navratri,2764,75,4,9,7,6,0,Traditional consumption and cultural preference during this period
+Rice,Himachal Pradesh,Himachal Pradesh,Autumn,Kharif,October,2021,Red,High,Navratri,3900,91,5,8,6,4,0,Staple grain used widely in festive meals and offerings
+Banana,Arunachal Pradesh,Arunachal Pradesh,Winter,Rabi,January,2021,Laterite,Low,Makar Sankranti,3170,56,3,9,10,6,1,Traditional consumption and cultural preference during this period
+Banana,Andaman & Nicobar Islands,Andaman & Nicobar Islands,Summer,Kharif,April,2016,Alluvial,High,Wedding Season,3116,62,4,8,9,5,1,Banana fruits and leaves used in rituals and feasts
+Groundnut,Manipur,Manipur,Winter,Rabi,January,2020,Black,Low,Lohri,1157,33,2,4,4,7,0,Traditional consumption and cultural preference during this period
+Marigold,Rajasthan,Rajasthan,Autumn,Kharif,October,2024,Arid & Desert,Medium,Dussehra,4796,61,4,3,1,5,1,High floral demand for garlands and decorations
+Jasmine,Uttar Pradesh,Uttar Pradesh,Winter,Rabi,January,2020,Alluvial,Medium,Makar Sankranti,2495,55,3,10,10,5,1,Traditional consumption and cultural preference during this period
+Wheat,Andhra Pradesh,Andhra Pradesh,Autumn,Kharif,October,2016,Alluvial,Medium,Dussehra,3257,46,3,6,6,6,0,Traditional consumption and cultural preference during this period
+Rice,Telangana,Telangana,Winter,Rabi,November,2024,Alluvial,Medium,Diwali,3280,40,2,9,10,6,0,Staple grain used widely in festive meals and offerings
+Marigold,Jharkhand,Jharkhand,Winter,Rabi,January,2010,Black,Medium,Makar Sankranti,5099,37,2,10,9,6,1,Traditional consumption and cultural preference during this period
+Millet,Karnataka,Karnataka,Summer,Kharif,April,2020,Black,High,Ram Navami,1347,61,4,5,6,6,0,Traditional consumption and cultural preference during this period
+Sugarcane,Gujarat,Gujarat,Winter,Rabi,November,2010,Red,Low,Diwali,39493,28,2,10,9,4,0,Traditional consumption and cultural preference during this period
+Jasmine,Tripura,Tripura,Autumn,Kharif,October,2016,Laterite,Medium,Diwali,2530,60,3,9,9,5,1,High floral demand for garlands and decorations
+Turmeric,Dadra & Nagar Haveli and Daman & Diu,Dadra & Nagar Haveli and Daman & Diu,Winter,Rabi,January,2016,Arid & Desert,High,Makar Sankranti,2839,45,3,10,10,7,0,Traditional consumption and cultural preference during this period
+Groundnut,Gujarat,Gujarat,Summer,Kharif,April,2012,Alluvial,Low,Vishu,1366,76,4,3,4,6,0,Traditional consumption and cultural preference during this period
+Rice,Dadra & Nagar Haveli and Daman & Diu,Dadra & Nagar Haveli and Daman & Diu,Winter,Rabi,December,2015,Arid & Desert,High,Christmas,3811,57,3,5,3,4,0,Staple grain used widely in festive meals and offerings
+Cotton,Chandigarh,Chandigarh,Autumn,Kharif,October,2019,Red,Low,Diwali,1024,63,4,3,5,5,0,Used for diya wicks and traditional textiles
+Millet,Dadra & Nagar Haveli and Daman & Diu,Dadra & Nagar Haveli and Daman & Diu,Winter,Rabi,November,2019,Arid & Desert,Low,Wedding Season,1375,37,2,6,8,4,0,Traditional consumption and cultural preference during this period
+Banana,Himachal Pradesh,Himachal Pradesh,Winter,Rabi,December,2013,Red,Medium,Wedding Season,2954,45,3,10,10,6,1,Banana fruits and leaves used in rituals and feasts
+Millet,Jammu & Kashmir,Jammu & Kashmir,Summer,Kharif,April,2017,Alluvial,Low,Vishu,1343,62,4,3,5,6,0,Traditional consumption and cultural preference during this period
+Cotton,Dadra & Nagar Haveli and Daman & Diu,Dadra & Nagar Haveli and Daman & Diu,Summer,Kharif,April,2022,Arid & Desert,Low,Ram Navami,832,65,4,7,5,6,0,Traditional consumption and cultural preference during this period
+Marigold,Puducherry,Puducherry,Spring,Rabi,March,2019,Red,Medium,Ram Navami,4849,30,2,7,5,8,1,Traditional consumption and cultural preference during this period
+Rice,Assam,Assam,Autumn,Kharif,October,2024,Alluvial,High,Dussehra,3730,97,5,7,6,8,0,Staple grain used widely in festive meals and offerings
+Turmeric,Maharashtra,Maharashtra,Summer,Kharif,June,2024,Black,High,Rath Yatra,2664,65,4,7,4,8,0,Traditional consumption and cultural preference during this period
+Turmeric,Manipur,Manipur,Autumn,Kharif,October,2013,Red,Low,Dussehra,2768,68,4,5,6,6,0,Traditional consumption and cultural preference during this period
+Groundnut,Ladakh,Ladakh,Autumn,Kharif,July,2018,Arid & Desert,Low,Rath Yatra,1319,60,3,3,1,8,0,Traditional consumption and cultural preference during this period
+Groundnut,Lakshadweep,Lakshadweep,Winter,Rabi,December,2023,Arid & Desert,Low,Christmas,1264,33,2,6,8,5,0,Traditional consumption and cultural preference during this period
+Cotton,Jammu & Kashmir,Jammu & Kashmir,Summer,Kharif,April,2017,Laterite,High,Vishu,682,59,3,5,5,4,0,Traditional consumption and cultural preference during this period
+Marigold,Chandigarh,Chandigarh,Autumn,Kharif,October,2016,Red,Low,Diwali,4801,65,4,10,10,5,1,High floral demand for garlands and decorations
+Sugarcane,Sikkim,Sikkim,Winter,Rabi,January,2016,Laterite,Medium,Makar Sankranti,40224,61,4,8,6,4,0,Harvest festival rituals use sugarcane heavily
+Wheat,Jharkhand,Jharkhand,Summer,Kharif,April,2011,Laterite,High,Ram Navami,2950,43,3,4,4,6,0,Traditional consumption and cultural preference during this period
+Turmeric,Andaman & Nicobar Islands,Andaman & Nicobar Islands,Spring,Rabi,March,2024,Red,Medium,Holi,2709,54,3,8,8,6,0,Traditional consumption and cultural preference during this period
+Turmeric,Madhya Pradesh,Madhya Pradesh,Autumn,Kharif,October,2018,Black,Low,Navratri,2717,59,3,8,6,7,0,Traditional consumption and cultural preference during this period
+Groundnut,Chhattisgarh,Chhattisgarh,Winter,Rabi,January,2017,Black,Low,Pongal,1093,50,3,5,4,8,0,Traditional consumption and cultural preference during this period
+Sugarcane,Arunachal Pradesh,Arunachal Pradesh,Summer,Kharif,April,2016,Black,Medium,Ram Navami,40000,84,5,7,9,7,0,Traditional consumption and cultural preference during this period
+Sugarcane,Himachal Pradesh,Himachal Pradesh,Spring,Rabi,March,2011,Black,Low,Ram Navami,39750,35,2,6,5,4,0,Traditional consumption and cultural preference during this period
+Millet,Haryana,Haryana,Winter,Rabi,February,2019,Alluvial,Medium,Wedding Season,1648,41,3,4,2,7,0,Traditional consumption and cultural preference during this period
+Groundnut,Gujarat,Gujarat,Winter,Rabi,January,2010,Alluvial,Low,Lohri,970,51,3,6,4,8,0,Traditional consumption and cultural preference during this period
+Cotton,Jharkhand,Jharkhand,Autumn,Kharif,October,2023,Alluvial,High,Dussehra,944,81,5,5,6,7,0,Traditional consumption and cultural preference during this period
+Cotton,Meghalaya,Meghalaya,Autumn,Kharif,October,2011,Red,Low,Navratri,851,85,5,4,4,8,0,Used for diya wicks and traditional textiles
+Banana,Jammu & Kashmir,Jammu & Kashmir,Winter,Rabi,January,2024,Black,Medium,Makar Sankranti,3036,53,3,10,10,4,1,Traditional consumption and cultural preference during this period
+Sesame,Jharkhand,Jharkhand,Autumn,Kharif,October,2021,Alluvial,Medium,Diwali,1089,69,4,7,8,4,0,Traditional consumption and cultural preference during this period
+Marigold,Kerala,Kerala,Winter,Rabi,January,2014,Red,Medium,Lohri,5190,50,3,3,5,4,1,Traditional consumption and cultural preference during this period
+Millet,Goa,Goa,Autumn,Kharif,July,2010,Alluvial,Medium,Rath Yatra,1420,64,4,4,3,5,0,Traditional consumption and cultural preference during this period
+Cotton,Goa,Goa,Autumn,Kharif,October,2010,Alluvial,Medium,Dussehra,1140,57,3,5,6,5,0,Traditional consumption and cultural preference during this period
+Wheat,West Bengal,West Bengal,Winter,Rabi,December,2010,Red,Medium,Christmas,2973,66,4,4,2,5,0,Traditional consumption and cultural preference during this period
+Wheat,Chhattisgarh,Chhattisgarh,Winter,Rabi,January,2014,Alluvial,Medium,Pongal,3064,64,4,3,5,7,0,Traditional consumption and cultural preference during this period
+Millet,Odisha,Odisha,Winter,Rabi,January,2013,Red,Medium,Makar Sankranti,1655,51,3,5,6,6,0,Traditional consumption and cultural preference during this period
+Cotton,Madhya Pradesh,Madhya Pradesh,Winter,Rabi,February,2017,Black,Medium,Wedding Season,850,58,3,6,8,5,0,Traditional consumption and cultural preference during this period
+Banana,Haryana,Haryana,Autumn,Kharif,July,2019,Alluvial,Low,Rath Yatra,2891,60,3,3,4,6,1,Traditional consumption and cultural preference during this period
+Jasmine,Ladakh,Ladakh,Winter,Rabi,January,2017,Arid & Desert,Low,Makar Sankranti,2489,41,3,10,10,4,1,Traditional consumption and cultural preference during this period
+Rice,Uttarakhand,Uttarakhand,Winter,Rabi,December,2010,Red,Medium,Christmas,3504,52,3,5,7,5,0,Staple grain used widely in festive meals and offerings
+Banana,Chandigarh,Chandigarh,Winter,Rabi,January,2013,Alluvial,High,Makar Sankranti,2967,57,3,9,7,7,1,Traditional consumption and cultural preference during this period
+Cotton,Chandigarh,Chandigarh,Winter,Rabi,December,2010,Red,High,Christmas,890,42,3,7,5,4,0,Traditional consumption and cultural preference during this period
+Groundnut,Maharashtra,Maharashtra,Winter,Rabi,January,2023,Black,High,Lohri,1221,49,3,3,3,5,0,Traditional consumption and cultural preference during this period
+Banana,Puducherry,Puducherry,Spring,Rabi,March,2023,Red,Low,Holi,3009,58,3,9,9,8,1,Traditional consumption and cultural preference during this period
+Groundnut,Ladakh,Ladakh,Autumn,Kharif,October,2012,Arid & Desert,Medium,Dussehra,1041,72,4,5,7,4,0,Traditional consumption and cultural preference during this period
+Sugarcane,Uttar Pradesh,Uttar Pradesh,Summer,Kharif,April,2024,Saline/Alkaline,High,Ugadi,40082,79,4,3,1,6,0,Traditional consumption and cultural preference during this period
+Wheat,Himachal Pradesh,Himachal Pradesh,Summer,Kharif,April,2020,Black,Medium,Ram Navami,3293,36,2,5,3,8,0,Traditional consumption and cultural preference during this period
+Turmeric,Jharkhand,Jharkhand,Summer,Kharif,April,2013,Red,Medium,Ugadi,2874,68,4,7,7,6,0,Traditional consumption and cultural preference during this period
+Banana,Andhra Pradesh,Andhra Pradesh,Summer,Kharif,April,2021,Alluvial,High,Ugadi,2826,61,4,4,2,6,1,Traditional consumption and cultural preference during this period
+Wheat,Haryana,Haryana,Winter,Rabi,January,2010,Alluvial,Medium,Makar Sankranti,3314,71,4,6,6,8,0,Traditional consumption and cultural preference during this period
+Jasmine,Uttar Pradesh,Uttar Pradesh,Spring,Rabi,March,2011,Alluvial,Low,Ram Navami,2250,44,3,7,4,8,1,Traditional consumption and cultural preference during this period
+Wheat,Dadra & Nagar Haveli and Daman & Diu,Dadra & Nagar Haveli and Daman & Diu,Summer,Kharif,April,2018,Arid & Desert,Low,Ugadi,3260,52,3,5,5,7,0,Traditional consumption and cultural preference during this period
+Groundnut,Delhi,Delhi,Autumn,Kharif,October,2018,Alluvial,High,Dussehra,1324,77,4,3,5,7,0,Traditional consumption and cultural preference during this period
+Banana,Bihar,Bihar,Winter,Rabi,January,2022,Red,High,Lohri,3117,52,3,3,3,7,1,Traditional consumption and cultural preference during this period
+Sesame,Mizoram,Mizoram,Winter,Rabi,November,2023,Black,Low,Diwali,1070,56,3,3,2,4,0,Traditional consumption and cultural preference during this period
+Groundnut,Puducherry,Puducherry,Summer,Kharif,April,2010,Black,Medium,Vishu,1420,58,3,4,3,7,0,Traditional consumption and cultural preference during this period
+Turmeric,Mizoram,Mizoram,Autumn,Kharif,July,2011,Alluvial,Low,Rath Yatra,2587,57,3,4,2,4,0,Traditional consumption and cultural preference during this period
+Sugarcane,Delhi,Delhi,Winter,Rabi,January,2014,Alluvial,Low,Lohri,39359,45,3,6,6,5,0,Harvest festival rituals use sugarcane heavily
+Jasmine,Mizoram,Mizoram,Winter,Rabi,January,2016,Laterite,Low,Makar Sankranti,2263,45,3,8,8,8,1,Traditional consumption and cultural preference during this period
+Sugarcane,Bihar,Bihar,Spring,Rabi,March,2023,Red,High,Holi,40067,59,3,9,10,4,0,Traditional consumption and cultural preference during this period
+Millet,Assam,Assam,Winter,Rabi,January,2013,Saline/Alkaline,High,Pongal,1636,40,2,6,6,4,0,Traditional consumption and cultural preference during this period
+Jasmine,Chandigarh,Chandigarh,Winter,Rabi,November,2018,Red,Medium,Diwali,2638,35,2,9,10,7,1,High floral demand for garlands and decorations
+Jasmine,Nagaland,Nagaland,Winter,Rabi,January,2018,Alluvial,High,Pongal,2426,47,3,8,10,7,1,Traditional consumption and cultural preference during this period
+Wheat,Delhi,Delhi,Summer,Kharif,April,2018,Alluvial,Low,Vishu,3275,48,3,3,1,7,0,Traditional consumption and cultural preference during this period
+Banana,Meghalaya,Meghalaya,Autumn,Kharif,October,2023,Black,Low,Navratri,2881,63,4,8,6,8,1,Traditional consumption and cultural preference during this period
+Cotton,Goa,Goa,Summer,Kharif,June,2023,Laterite,High,Rath Yatra,961,60,3,3,4,8,0,Traditional consumption and cultural preference during this period
+Sugarcane,Haryana,Haryana,Autumn,Kharif,October,2019,Red,Medium,Dussehra,39753,80,4,7,5,7,0,Traditional consumption and cultural preference during this period
+Turmeric,Madhya Pradesh,Madhya Pradesh,Winter,Rabi,January,2011,Black,High,Pongal,2810,33,2,9,8,5,0,Turmeric used in auspicious rituals and ceremonies
+Sugarcane,Delhi,Delhi,Summer,Kharif,April,2012,Red,Medium,Ugadi,39946,75,4,5,2,8,0,Traditional consumption and cultural preference during this period
+Banana,Assam,Assam,Summer,Kharif,June,2015,Alluvial,Medium,Rath Yatra,3165,74,4,7,6,7,1,Traditional consumption and cultural preference during this period
+Sesame,Goa,Goa,Spring,Rabi,March,2023,Red,Low,Ram Navami,850,46,3,7,5,4,0,Traditional consumption and cultural preference during this period
+Sugarcane,Madhya Pradesh,Madhya Pradesh,Winter,Rabi,January,2023,Black,Medium,Lohri,39795,45,3,5,4,7,0,Harvest festival rituals use sugarcane heavily
+Sesame,Andhra Pradesh,Andhra Pradesh,Summer,Kharif,April,2023,Alluvial,High,Ugadi,1036,56,3,7,9,5,0,Traditional consumption and cultural preference during this period
+Marigold,Ladakh,Ladakh,Summer,Kharif,April,2024,Red,Low,Vishu,4953,51,3,4,3,8,1,Traditional consumption and cultural preference during this period
+Wheat,Jharkhand,Jharkhand,Winter,Rabi,February,2012,Red,High,Wedding Season,3001,79,4,4,3,8,0,Traditional consumption and cultural preference during this period
+Sugarcane,Jharkhand,Jharkhand,Spring,Rabi,March,2012,Red,Medium,Ram Navami,40181,29,2,5,4,7,0,Traditional consumption and cultural preference during this period
+Cotton,Punjab,Punjab,Spring,Rabi,March,2020,Alluvial,Medium,Ugadi,1122,43,3,5,4,4,0,Traditional consumption and cultural preference during this period
+Rice,Jharkhand,Jharkhand,Summer,Kharif,April,2012,Alluvial,Medium,Vishu,3619,72,4,6,3,8,0,Staple grain used widely in festive meals and offerings
+Sugarcane,Tripura,Tripura,Autumn,Kharif,July,2012,Laterite,High,Rath Yatra,40194,72,4,3,5,4,0,Traditional consumption and cultural preference during this period
+Banana,Goa,Goa,Winter,Rabi,December,2017,Red,High,Christmas,2961,33,2,7,8,6,1,Traditional consumption and cultural preference during this period
+Cotton,Chandigarh,Chandigarh,Autumn,Kharif,July,2019,Black,High,Rath Yatra,752,76,4,7,8,6,0,Traditional consumption and cultural preference during this period
+Jasmine,Andaman & Nicobar Islands,Andaman & Nicobar Islands,Autumn,Kharif,July,2023,Arid & Desert,Low,Rath Yatra,2745,73,4,5,5,7,1,Traditional consumption and cultural preference during this period
+Jasmine,Delhi,Delhi,Autumn,Kharif,July,2010,Saline/Alkaline,Medium,Rath Yatra,2465,66,4,5,5,4,1,Traditional consumption and cultural preference during this period
+Marigold,Dadra & Nagar Haveli and Daman & Diu,Dadra & Nagar Haveli and Daman & Diu,Summer,Kharif,April,2017,Alluvial,Medium,Ugadi,4787,76,4,5,6,7,1,Traditional consumption and cultural preference during this period
+Banana,Andaman & Nicobar Islands,Andaman & Nicobar Islands,Winter,Rabi,January,2020,Alluvial,Medium,Makar Sankranti,3096,63,4,9,10,5,1,Traditional consumption and cultural preference during this period
+Millet,Mizoram,Mizoram,Autumn,Kharif,October,2018,Alluvial,Medium,Dussehra,1603,62,4,6,7,7,0,Traditional consumption and cultural preference during this period
+Millet,Arunachal Pradesh,Arunachal Pradesh,Autumn,Kharif,October,2012,Laterite,Low,Navratri,1424,58,3,6,5,6,0,Traditional consumption and cultural preference during this period
+Wheat,Manipur,Manipur,Spring,Rabi,March,2011,Alluvial,Medium,Holi,3309,80,4,3,1,8,0,Traditional consumption and cultural preference during this period
+Sugarcane,Telangana,Telangana,Summer,Kharif,June,2018,Alluvial,Low,Rath Yatra,39465,74,4,7,6,7,0,Traditional consumption and cultural preference during this period
+Sugarcane,Chhattisgarh,Chhattisgarh,Winter,Rabi,December,2021,Black,Low,Wedding Season,39371,28,2,9,9,8,0,Traditional consumption and cultural preference during this period
+Wheat,Dadra & Nagar Haveli and Daman & Diu,Dadra & Nagar Haveli and Daman & Diu,Autumn,Kharif,October,2020,Alluvial,Low,Diwali,3303,38,2,3,2,5,0,Traditional consumption and cultural preference during this period
+Banana,Haryana,Haryana,Autumn,Kharif,October,2020,Alluvial,Medium,Navratri,2991,66,4,10,8,5,1,Traditional consumption and cultural preference during this period
+Millet,Rajasthan,Rajasthan,Summer,Kharif,June,2013,Red,Low,Rath Yatra,1700,83,5,7,6,4,0,Traditional consumption and cultural preference during this period
+Jasmine,Maharashtra,Maharashtra,Winter,Rabi,January,2017,Black,Medium,Lohri,2670,51,3,4,3,6,1,Traditional consumption and cultural preference during this period
+Marigold,Lakshadweep,Lakshadweep,Summer,Kharif,April,2018,Arid & Desert,Low,Wedding Season,4779,57,3,10,10,6,1,High floral demand for garlands and decorations
+Sesame,Himachal Pradesh,Himachal Pradesh,Spring,Rabi,March,2018,Red,Low,Holi,885,43,3,7,6,8,0,Traditional consumption and cultural preference during this period
+Banana,West Bengal,West Bengal,Winter,Rabi,December,2022,Alluvial,High,Wedding Season,2933,51,3,8,10,6,1,Banana fruits and leaves used in rituals and feasts
+Sesame,Sikkim,Sikkim,Winter,Rabi,December,2014,Laterite,Medium,Wedding Season,977,60,3,5,5,8,0,Traditional consumption and cultural preference during this period
+Millet,Dadra & Nagar Haveli and Daman & Diu,Dadra & Nagar Haveli and Daman & Diu,Winter,Rabi,December,2017,Arid & Desert,Low,Christmas,1687,36,2,3,4,6,0,Traditional consumption and cultural preference during this period
+Jasmine,Manipur,Manipur,Summer,Kharif,April,2014,Red,Medium,Vishu,2274,76,4,6,5,4,1,Traditional consumption and cultural preference during this period
+Sesame,Nagaland,Nagaland,Spring,Rabi,March,2011,Black,High,Ugadi,955,59,3,7,6,8,0,Traditional consumption and cultural preference during this period
+Wheat,West Bengal,West Bengal,Winter,Rabi,January,2021,Alluvial,High,Makar Sankranti,3059,65,4,5,6,7,0,Traditional consumption and cultural preference during this period
+Cotton,Odisha,Odisha,Winter,Rabi,December,2018,Alluvial,High,Christmas,865,33,2,4,4,7,0,Traditional consumption and cultural preference during this period
+Marigold,Nagaland,Nagaland,Summer,Kharif,April,2013,Black,High,Vishu,5248,53,3,7,9,4,1,Traditional consumption and cultural preference during this period
+Cotton,Lakshadweep,Lakshadweep,Winter,Rabi,November,2020,Arid & Desert,Low,Diwali,1048,35,2,3,3,8,0,Used for diya wicks and traditional textiles
+Sugarcane,Arunachal Pradesh,Arunachal Pradesh,Autumn,Kharif,July,2023,Black,Low,Rath Yatra,39617,57,3,7,6,5,0,Traditional consumption and cultural preference during this period
+Sugarcane,Madhya Pradesh,Madhya Pradesh,Winter,Rabi,January,2017,Black,Low,Pongal,39505,40,2,8,6,7,0,Harvest festival rituals use sugarcane heavily
+Cotton,Andaman & Nicobar Islands,Andaman & Nicobar Islands,Summer,Kharif,April,2024,Red,Low,Wedding Season,896,77,4,4,3,5,0,Traditional consumption and cultural preference during this period
+Wheat,Goa,Goa,Autumn,Kharif,July,2015,Black,High,Rath Yatra,3046,33,2,7,5,4,0,Traditional consumption and cultural preference during this period
+Jasmine,Chandigarh,Chandigarh,Spring,Rabi,March,2012,Black,Low,Ugadi,2543,55,3,3,4,8,1,Traditional consumption and cultural preference during this period
+Groundnut,Odisha,Odisha,Autumn,Kharif,October,2018,Red,High,Navratri,1003,66,4,4,6,6,0,Traditional consumption and cultural preference during this period
+Groundnut,Ladakh,Ladakh,Winter,Rabi,December,2010,Red,Medium,Christmas,1288,36,2,4,3,4,0,Traditional consumption and cultural preference during this period
+Banana,Ladakh,Ladakh,Winter,Rabi,January,2012,Alluvial,Low,Lohri,3057,33,2,4,6,4,1,Traditional consumption and cultural preference during this period
+Sesame,Uttarakhand,Uttarakhand,Summer,Kharif,May,2014,Laterite,Low,Wedding Season,700,53,3,7,6,8,0,Traditional consumption and cultural preference during this period
+Turmeric,Rajasthan,Rajasthan,Autumn,Kharif,July,2024,Alluvial,Medium,Rath Yatra,2651,60,3,4,2,8,0,Traditional consumption and cultural preference during this period
+Sugarcane,Puducherry,Puducherry,Spring,Rabi,March,2015,Red,High,Holi,40334,60,3,8,10,7,0,Traditional consumption and cultural preference during this period
+Wheat,Bihar,Bihar,Winter,Rabi,January,2021,Alluvial,Medium,Pongal,3121,57,3,5,4,6,0,Traditional consumption and cultural preference during this period
+Sesame,Gujarat,Gujarat,Spring,Rabi,March,2019,Alluvial,Low,Holi,1079,48,3,5,5,5,0,Traditional consumption and cultural preference during this period
+Sesame,Manipur,Manipur,Spring,Rabi,March,2020,Laterite,Low,Holi,960,59,3,5,4,7,0,Traditional consumption and cultural preference during this period
+Wheat,Punjab,Punjab,Winter,Rabi,January,2020,Alluvial,Low,Lohri,3435,56,3,4,6,5,0,Traditional consumption and cultural preference during this period
+Jasmine,Maharashtra,Maharashtra,Winter,Rabi,January,2011,Black,High,Lohri,2337,30,2,5,3,5,1,Traditional consumption and cultural preference during this period
+Sugarcane,Andaman & Nicobar Islands,Andaman & Nicobar Islands,Winter,Rabi,January,2016,Arid & Desert,High,Makar Sankranti,40252,50,3,9,9,6,0,Harvest festival rituals use sugarcane heavily
+Marigold,Nagaland,Nagaland,Winter,Rabi,December,2015,Laterite,Medium,Christmas,5133,49,3,4,2,6,1,Traditional consumption and cultural preference during this period
+Banana,Nagaland,Nagaland,Spring,Rabi,March,2020,Red,Low,Ugadi,2916,32,2,5,4,4,1,Traditional consumption and cultural preference during this period
+Rice,Odisha,Odisha,Winter,Rabi,January,2021,Alluvial,High,Pongal,3674,62,4,9,9,5,0,Staple grain used widely in festive meals and offerings
+Marigold,Punjab,Punjab,Winter,Rabi,January,2015,Alluvial,High,Pongal,4989,39,2,10,10,8,1,Traditional consumption and cultural preference during this period
+Sesame,Lakshadweep,Lakshadweep,Winter,Rabi,December,2013,Arid & Desert,Medium,Christmas,940,50,3,6,4,7,0,Traditional consumption and cultural preference during this period
+Turmeric,Assam,Assam,Spring,Rabi,March,2019,Red,Medium,Holi,2759,53,3,8,10,4,0,Traditional consumption and cultural preference during this period
+Jasmine,Manipur,Manipur,Summer,Kharif,April,2024,Red,Low,Wedding Season,2318,76,4,10,10,7,1,High floral demand for garlands and decorations
+Sugarcane,Himachal Pradesh,Himachal Pradesh,Winter,Rabi,December,2013,Black,Low,Christmas,39724,44,3,7,8,8,0,Traditional consumption and cultural preference during this period
+Wheat,Himachal Pradesh,Himachal Pradesh,Winter,Rabi,January,2018,Black,Low,Pongal,3161,61,4,3,5,7,0,Traditional consumption and cultural preference during this period
+Marigold,Uttarakhand,Uttarakhand,Summer,Kharif,April,2011,Red,Low,Ram Navami,5151,60,3,7,7,6,1,Traditional consumption and cultural preference during this period
+Jasmine,Goa,Goa,Summer,Kharif,April,2021,Laterite,High,Ugadi,2516,66,4,5,6,8,1,Traditional consumption and cultural preference during this period
+Turmeric,Telangana,Telangana,Summer,Kharif,June,2014,Alluvial,Low,Rath Yatra,2831,53,3,6,5,6,0,Traditional consumption and cultural preference during this period
+Marigold,Ladakh,Ladakh,Autumn,Kharif,October,2024,Red,Low,Navratri,4760,71,4,10,10,8,1,High floral demand for garlands and decorations
+Millet,Madhya Pradesh,Madhya Pradesh,Winter,Rabi,November,2011,Black,Low,Diwali,1311,58,3,6,7,6,0,Traditional consumption and cultural preference during this period
+Sugarcane,Manipur,Manipur,Autumn,Kharif,October,2023,Red,High,Navratri,40450,77,4,10,9,6,0,Traditional consumption and cultural preference during this period
+Sugarcane,Kerala,Kerala,Summer,Kharif,April,2018,Red,High,Vishu,40356,85,5,3,3,6,0,Traditional consumption and cultural preference during this period
+Banana,Lakshadweep,Lakshadweep,Autumn,Kharif,October,2020,Alluvial,High,Navratri,2887,53,3,10,9,8,1,Traditional consumption and cultural preference during this period
+Cotton,Odisha,Odisha,Winter,Rabi,January,2021,Saline/Alkaline,High,Pongal,642,42,3,7,6,4,0,Traditional consumption and cultural preference during this period
+Groundnut,Haryana,Haryana,Autumn,Kharif,July,2012,Alluvial,Medium,Rath Yatra,1328,57,3,4,2,6,0,Traditional consumption and cultural preference during this period
+Wheat,Haryana,Haryana,Autumn,Kharif,October,2014,Red,Low,Diwali,2951,55,3,7,6,5,0,Traditional consumption and cultural preference during this period
+Rice,Andhra Pradesh,Andhra Pradesh,Summer,Kharif,June,2014,Alluvial,High,Rath Yatra,3968,81,5,3,3,7,0,Staple grain used widely in festive meals and offerings
+Millet,Puducherry,Puducherry,Summer,Kharif,April,2020,Red,High,Vishu,1701,68,4,6,5,6,0,Traditional consumption and cultural preference during this period
+Jasmine,Goa,Goa,Summer,Kharif,April,2020,Red,Low,Vishu,2427,80,4,3,2,4,1,Traditional consumption and cultural preference during this period
+Wheat,Mizoram,Mizoram,Summer,Kharif,April,2012,Laterite,Medium,Vishu,3017,39,2,7,6,5,0,Traditional consumption and cultural preference during this period
+Cotton,Karnataka,Karnataka,Winter,Rabi,January,2010,Black,High,Makar Sankranti,957,48,3,4,6,6,0,Traditional consumption and cultural preference during this period
+Sesame,Puducherry,Puducherry,Autumn,Kharif,October,2012,Black,High,Diwali,726,78,4,4,6,5,0,Traditional consumption and cultural preference during this period
+Groundnut,Telangana,Telangana,Spring,Rabi,March,2022,Alluvial,High,Ram Navami,999,51,3,7,6,7,0,Traditional consumption and cultural preference during this period
+Marigold,Maharashtra,Maharashtra,Summer,Kharif,April,2015,Black,High,Ram Navami,5199,78,4,7,6,4,1,Traditional consumption and cultural preference during this period
+Banana,Jammu & Kashmir,Jammu & Kashmir,Winter,Rabi,January,2022,Red,High,Pongal,2788,31,2,10,9,8,1,Banana fruits and leaves used in rituals and feasts
+Banana,Andhra Pradesh,Andhra Pradesh,Winter,Rabi,January,2018,Alluvial,Medium,Pongal,3029,34,2,8,5,8,1,Banana fruits and leaves used in rituals and feasts
+Sugarcane,Ladakh,Ladakh,Winter,Rabi,January,2013,Arid & Desert,Low,Pongal,39784,34,2,9,8,7,0,Harvest festival rituals use sugarcane heavily
+Turmeric,Kerala,Kerala,Winter,Rabi,January,2012,Red,Medium,Lohri,2574,44,3,4,2,7,0,Traditional consumption and cultural preference during this period
+Sugarcane,Jharkhand,Jharkhand,Winter,Rabi,January,2010,Alluvial,Low,Pongal,39832,28,2,10,10,7,0,Harvest festival rituals use sugarcane heavily
+Wheat,West Bengal,West Bengal,Winter,Rabi,January,2013,Alluvial,High,Makar Sankranti,3100,72,4,3,4,6,0,Traditional consumption and cultural preference during this period
+Marigold,Andhra Pradesh,Andhra Pradesh,Winter,Rabi,December,2013,Alluvial,Medium,Christmas,4957,35,2,5,3,6,1,Traditional consumption and cultural preference during this period
+Jasmine,Sikkim,Sikkim,Spring,Rabi,March,2022,Black,Medium,Holi,2546,52,3,9,6,8,1,Traditional consumption and cultural preference during this period
+Cotton,Sikkim,Sikkim,Winter,Rabi,January,2023,Red,High,Pongal,618,40,2,3,1,6,0,Traditional consumption and cultural preference during this period
+Banana,Manipur,Manipur,Winter,Rabi,January,2011,Red,Low,Pongal,2888,49,3,8,9,8,1,Banana fruits and leaves used in rituals and feasts
+Turmeric,Arunachal Pradesh,Arunachal Pradesh,Autumn,Kharif,October,2015,Black,Medium,Dussehra,2775,78,4,4,6,5,0,Traditional consumption and cultural preference during this period
+Rice,Assam,Assam,Winter,Rabi,December,2012,Alluvial,High,Christmas,3998,44,3,3,1,7,0,Staple grain used widely in festive meals and offerings
+Groundnut,Haryana,Haryana,Summer,Kharif,April,2018,Alluvial,Medium,Ugadi,1332,65,4,3,1,7,0,Traditional consumption and cultural preference during this period
+Millet,Goa,Goa,Autumn,Kharif,October,2022,Laterite,High,Navratri,1543,50,3,6,3,8,0,Traditional consumption and cultural preference during this period
+Sesame,Goa,Goa,Autumn,Kharif,October,2019,Black,Medium,Navratri,880,68,4,6,4,4,0,Traditional consumption and cultural preference during this period
+Groundnut,Haryana,Haryana,Autumn,Kharif,July,2021,Alluvial,Low,Rath Yatra,1052,83,5,3,1,5,0,Traditional consumption and cultural preference during this period
+Turmeric,Odisha,Odisha,Winter,Rabi,January,2016,Alluvial,High,Pongal,2818,48,3,10,9,6,0,Turmeric used in auspicious rituals and ceremonies
+Sesame,Karnataka,Karnataka,Autumn,Kharif,October,2011,Black,High,Dussehra,996,75,4,4,4,7,0,Traditional consumption and cultural preference during this period
+Groundnut,Karnataka,Karnataka,Spring,Rabi,March,2015,Black,High,Ugadi,1267,29,2,3,4,4,0,Traditional consumption and cultural preference during this period
+Banana,Lakshadweep,Lakshadweep,Winter,Rabi,December,2012,Alluvial,Low,Wedding Season,3248,55,3,9,8,5,1,Banana fruits and leaves used in rituals and feasts
+Millet,Assam,Assam,Spring,Rabi,March,2023,Alluvial,Medium,Ugadi,1583,59,3,7,4,8,0,Traditional consumption and cultural preference during this period
+Sesame,Assam,Assam,Autumn,Kharif,October,2019,Saline/Alkaline,Medium,Dussehra,1148,66,4,6,8,7,0,Traditional consumption and cultural preference during this period
+Marigold,Nagaland,Nagaland,Spring,Rabi,March,2013,Laterite,Medium,Holi,5186,52,3,10,9,5,1,Traditional consumption and cultural preference during this period
+Cotton,Andaman & Nicobar Islands,Andaman & Nicobar Islands,Autumn,Kharif,October,2022,Arid & Desert,High,Navratri,714,76,4,4,6,6,0,Used for diya wicks and traditional textiles
+Cotton,Haryana,Haryana,Spring,Rabi,March,2019,Alluvial,Medium,Holi,989,29,2,5,5,4,0,Traditional consumption and cultural preference during this period
+Wheat,Puducherry,Puducherry,Autumn,Kharif,October,2024,Black,Medium,Dussehra,3289,60,3,5,5,5,0,Traditional consumption and cultural preference during this period
+Groundnut,Tamil Nadu,Mayiladuthurai,Summer,Kharif,April,2022,Alluvial,High,Vishu,1442,81,5,7,8,6,0,Traditional consumption and cultural preference during this period
+Turmeric,Tamil Nadu,Nilgiris,Winter,Rabi,January,2011,Red,Medium,Lohri,2700,32,2,7,5,8,0,Traditional consumption and cultural preference during this period
+Millet,Tamil Nadu,Tirunelveli,Spring,Rabi,March,2021,Red,High,Holi,1743,59,3,6,5,4,0,Traditional consumption and cultural preference during this period
+Millet,Tamil Nadu,Cuddalore,Spring,Rabi,March,2019,Laterite,High,Holi,1269,52,3,3,4,5,0,Traditional consumption and cultural preference during this period
+Marigold,Tamil Nadu,Thoothukudi,Winter,Rabi,January,2021,Red,High,Lohri,4886,36,2,6,3,8,1,Traditional consumption and cultural preference during this period
+Marigold,Tamil Nadu,Kallakurichi,Winter,Rabi,January,2015,Black,High,Makar Sankranti,5080,46,3,8,6,4,1,Traditional consumption and cultural preference during this period
+Sugarcane,Tamil Nadu,Tiruvallur,Winter,Rabi,January,2011,Red,Medium,Lohri,40129,30,2,7,6,6,0,Harvest festival rituals use sugarcane heavily
+Millet,Tamil Nadu,Madurai,Autumn,Kharif,October,2012,Alluvial,High,Navratri,1685,66,4,6,4,4,0,Traditional consumption and cultural preference during this period
+Rice,Tamil Nadu,Cuddalore,Summer,Kharif,April,2013,Red,Medium,Ugadi,3562,82,5,3,3,4,0,Staple grain used widely in festive meals and offerings
+Turmeric,Tamil Nadu,Kallakurichi,Winter,Rabi,December,2020,Red,Medium,Christmas,2810,59,3,7,6,4,0,Traditional consumption and cultural preference during this period
+Marigold,Tamil Nadu,Ramanathapuram,Summer,Kharif,June,2012,Black,High,Rath Yatra,5118,55,3,3,1,8,1,Traditional consumption and cultural preference during this period
+Millet,Tamil Nadu,Madurai,Summer,Kharif,April,2021,Red,Medium,Vishu,1309,65,4,3,4,6,0,Traditional consumption and cultural preference during this period
+Marigold,Tamil Nadu,Mayiladuthurai,Winter,Rabi,January,2017,Laterite,High,Makar Sankranti,4785,53,3,9,6,8,1,Traditional consumption and cultural preference during this period
+Jasmine,Tamil Nadu,Chengalpattu,Winter,Rabi,January,2017,Red,High,Makar Sankranti,2270,47,3,9,7,8,1,Traditional consumption and cultural preference during this period
+Banana,Tamil Nadu,Tiruppur,Summer,Kharif,April,2016,Red,High,Ugadi,3115,70,4,6,7,8,1,Traditional consumption and cultural preference during this period
+Jasmine,Tamil Nadu,Chengalpattu,Spring,Rabi,March,2017,Black,Medium,Ram Navami,2576,60,3,3,4,8,1,Traditional consumption and cultural preference during this period
+Rice,Tamil Nadu,Dharmapuri,Summer,Kharif,April,2020,Alluvial,High,Vishu,3562,86,5,5,3,7,0,Staple grain used widely in festive meals and offerings
+Groundnut,Tamil Nadu,Chennai,Winter,Rabi,December,2014,Red,High,Christmas,958,50,3,3,1,7,0,Traditional consumption and cultural preference during this period
+Wheat,Tamil Nadu,Tiruchirappalli,Summer,Kharif,April,2017,Alluvial,High,Vishu,3162,35,2,5,3,8,0,Traditional consumption and cultural preference during this period
+Wheat,Tamil Nadu,Tiruvallur,Autumn,Kharif,October,2012,Laterite,Medium,Diwali,3293,51,3,4,4,7,0,Traditional consumption and cultural preference during this period
+Rice,Tamil Nadu,Karur,Winter,Rabi,January,2023,Black,High,Lohri,3876,51,3,6,4,4,0,Staple grain used widely in festive meals and offerings
+Banana,Tamil Nadu,Pudukkottai,Summer,Kharif,April,2019,Laterite,Medium,Ugadi,2826,59,3,6,5,5,1,Traditional consumption and cultural preference during this period
+Marigold,Tamil Nadu,Kancheepuram,Autumn,Kharif,October,2024,Black,Medium,Dussehra,4871,70,4,7,9,5,1,High floral demand for garlands and decorations
+Rice,Tamil Nadu,Tenkasi,Summer,Kharif,April,2021,Black,High,Vishu,3943,94,5,6,5,5,0,Staple grain used widely in festive meals and offerings
+Sesame,Tamil Nadu,Madurai,Winter,Rabi,November,2023,Red,High,Diwali,1111,44,3,3,1,4,0,Traditional consumption and cultural preference during this period
+Turmeric,Tamil Nadu,Tiruppur,Summer,Kharif,May,2022,Red,Medium,Wedding Season,3041,71,4,10,10,6,0,Turmeric used in auspicious rituals and ceremonies
+Jasmine,Tamil Nadu,Viluppuram,Spring,Rabi,March,2021,Red,Medium,Ram Navami,2526,30,2,6,7,6,1,Traditional consumption and cultural preference during this period
+Sesame,Tamil Nadu,Salem,Winter,Rabi,January,2020,Red,High,Lohri,764,44,3,5,6,4,0,Traditional consumption and cultural preference during this period
+Turmeric,Tamil Nadu,Namakkal,Spring,Rabi,March,2018,Red,High,Holi,2933,43,3,10,8,4,0,Traditional consumption and cultural preference during this period
+Turmeric,Tamil Nadu,Tiruchirappalli,Summer,Kharif,April,2016,Alluvial,Medium,Ram Navami,2639,60,3,3,4,4,0,Traditional consumption and cultural preference during this period
+Turmeric,Tamil Nadu,Chengalpattu,Autumn,Kharif,October,2010,Black,Medium,Diwali,2956,69,4,10,10,7,0,Traditional consumption and cultural preference during this period
+Turmeric,Tamil Nadu,Sivaganga,Winter,Rabi,January,2016,Red,High,Lohri,2711,42,3,5,7,5,0,Traditional consumption and cultural preference during this period
+Turmeric,Tamil Nadu,Salem,Autumn,Kharif,October,2019,Laterite,High,Navratri,2741,68,4,8,5,8,0,Traditional consumption and cultural preference during this period
+Turmeric,Tamil Nadu,Chengalpattu,Winter,Rabi,January,2021,Black,High,Makar Sankranti,3016,32,2,9,10,6,0,Traditional consumption and cultural preference during this period
+Wheat,Tamil Nadu,Thoothukudi,Winter,Rabi,December,2017,Alluvial,Medium,Christmas,3154,82,5,7,8,4,0,Traditional consumption and cultural preference during this period
+Banana,Tamil Nadu,Thoothukudi,Summer,Kharif,April,2010,Laterite,High,Ugadi,3045,67,4,4,2,4,1,Traditional consumption and cultural preference during this period
+Turmeric,Tamil Nadu,Virudhunagar,Spring,Rabi,March,2016,Red,High,Holi,2677,34,2,9,10,4,0,Traditional consumption and cultural preference during this period
+Cotton,Tamil Nadu,Viluppuram,Spring,Rabi,March,2014,Alluvial,High,Holi,797,47,3,3,1,8,0,Traditional consumption and cultural preference during this period
+Sesame,Tamil Nadu,Cuddalore,Winter,Rabi,January,2019,Red,High,Lohri,776,40,2,7,5,6,0,Traditional consumption and cultural preference during this period
+Cotton,Tamil Nadu,Vellore,Summer,Kharif,April,2012,Red,Medium,Vishu,1189,63,4,7,8,4,0,Traditional consumption and cultural preference during this period
+Turmeric,Tamil Nadu,Nilgiris,Winter,Rabi,January,2011,Red,High,Lohri,2986,53,3,5,6,6,0,Traditional consumption and cultural preference during this period
+Turmeric,Tamil Nadu,Nagapattinam,Autumn,Kharif,October,2012,Black,Medium,Navratri,2980,59,3,9,7,5,0,Traditional consumption and cultural preference during this period
+Cotton,Tamil Nadu,Kancheepuram,Winter,Rabi,February,2013,Laterite,Medium,Wedding Season,1110,34,2,3,1,6,0,Traditional consumption and cultural preference during this period
+Marigold,Tamil Nadu,Tiruchirappalli,Winter,Rabi,February,2015,Black,High,Wedding Season,4941,48,3,10,10,4,1,High floral demand for garlands and decorations
+Cotton,Tamil Nadu,Nilgiris,Summer,Kharif,April,2017,Laterite,High,Vishu,568,84,5,3,3,5,0,Traditional consumption and cultural preference during this period
+Millet,Tamil Nadu,Chennai,Summer,Kharif,April,2017,Black,High,Vishu,1652,55,3,3,5,4,0,Traditional consumption and cultural preference during this period
+Groundnut,Tamil Nadu,Tiruvarur,Winter,Rabi,January,2015,Laterite,High,Pongal,1252,41,3,5,6,5,0,Traditional consumption and cultural preference during this period
+Sesame,Tamil Nadu,Erode,Summer,Kharif,April,2010,Red,High,Vishu,1066,58,3,6,8,4,0,Traditional consumption and cultural preference during this period
+Jasmine,Tamil Nadu,Ariyalur,Summer,Kharif,April,2018,Red,High,Ram Navami,2720,65,4,6,8,6,1,Traditional consumption and cultural preference during this period
+Sesame,Tamil Nadu,Kallakurichi,Winter,Rabi,February,2014,Red,Medium,Wedding Season,730,29,2,5,4,8,0,Traditional consumption and cultural preference during this period
+Cotton,Tamil Nadu,Sivaganga,Summer,Kharif,April,2020,Red,High,Vishu,936,83,5,5,4,8,0,Traditional consumption and cultural preference during this period
+Cotton,Tamil Nadu,Chennai,Winter,Rabi,December,2024,Laterite,Medium,Christmas,784,51,3,5,3,7,0,Traditional consumption and cultural preference during this period
+Jasmine,Tamil Nadu,Tiruvallur,Autumn,Kharif,October,2015,Alluvial,High,Navratri,2257,78,4,9,9,8,1,High floral demand for garlands and decorations
+Rice,Tamil Nadu,Theni,Autumn,Kharif,October,2010,Alluvial,High,Dussehra,3926,75,4,5,2,8,0,Staple grain used widely in festive meals and offerings
+Wheat,Tamil Nadu,Virudhunagar,Autumn,Kharif,October,2023,Red,Medium,Navratri,3168,50,3,6,4,7,0,Traditional consumption and cultural preference during this period
+Cotton,Tamil Nadu,Tirupathur,Spring,Rabi,March,2011,Red,Medium,Wedding Season,743,47,3,5,4,8,0,Traditional consumption and cultural preference during this period
+Rice,Tamil Nadu,Tiruvannamalai,Spring,Rabi,March,2023,Laterite,High,Holi,3594,61,4,10,10,8,0,Staple grain used widely in festive meals and offerings
+Banana,Tamil Nadu,Vellore,Spring,Rabi,March,2022,Black,High,Ugadi,2914,35,2,5,4,4,1,Traditional consumption and cultural preference during this period
+Groundnut,Tamil Nadu,Ramanathapuram,Summer,Kharif,April,2023,Red,High,Ram Navami,1446,83,5,7,6,4,0,Traditional consumption and cultural preference during this period
+Turmeric,Tamil Nadu,Tiruppur,Winter,Rabi,January,2016,Alluvial,Medium,Lohri,3043,40,2,4,3,7,0,Traditional consumption and cultural preference during this period
+Wheat,Tamil Nadu,Sivaganga,Spring,Rabi,March,2014,Laterite,High,Holi,2987,86,5,6,5,8,0,Traditional consumption and cultural preference during this period
+Wheat,Tamil Nadu,Tiruvarur,Summer,Kharif,April,2019,Alluvial,High,Ugadi,3038,33,2,5,3,8,0,Traditional consumption and cultural preference during this period
+Millet,Tamil Nadu,Theni,Summer,Kharif,April,2011,Red,High,Ram Navami,1620,69,4,5,2,8,0,Traditional consumption and cultural preference during this period
+Sesame,Tamil Nadu,Tiruvannamalai,Winter,Rabi,January,2015,Alluvial,High,Lohri,1019,52,3,7,7,8,0,Traditional consumption and cultural preference during this period
+Banana,Tamil Nadu,Viluppuram,Autumn,Kharif,July,2015,Red,High,Rath Yatra,3188,61,4,6,4,5,1,Traditional consumption and cultural preference during this period
+Marigold,Tamil Nadu,Dindigul,Autumn,Kharif,October,2016,Black,High,Dussehra,4968,86,5,5,6,8,1,High floral demand for garlands and decorations
+Rice,Tamil Nadu,Tenkasi,Summer,Kharif,April,2013,Laterite,Medium,Ram Navami,3344,53,3,3,3,6,0,Staple grain used widely in festive meals and offerings
+Wheat,Tamil Nadu,Namakkal,Winter,Rabi,January,2018,Black,High,Makar Sankranti,3239,81,5,3,5,4,0,Traditional consumption and cultural preference during this period
+Jasmine,Tamil Nadu,Dharmapuri,Winter,Rabi,January,2013,Alluvial,High,Lohri,2279,26,2,4,2,7,1,Traditional consumption and cultural preference during this period
+Sugarcane,Tamil Nadu,Tirupathur,Autumn,Kharif,July,2023,Laterite,High,Rath Yatra,40286,69,4,6,5,5,0,Traditional consumption and cultural preference during this period
+Groundnut,Tamil Nadu,Karur,Autumn,Kharif,October,2011,Alluvial,High,Diwali,1212,81,5,7,9,4,0,Traditional consumption and cultural preference during this period
+Sesame,Tamil Nadu,Vellore,Winter,Rabi,November,2024,Alluvial,High,Wedding Season,951,35,2,5,4,6,0,Traditional consumption and cultural preference during this period
+Rice,Tamil Nadu,Tirunelveli,Winter,Rabi,January,2022,Alluvial,High,Lohri,3555,56,3,6,6,4,0,Staple grain used widely in festive meals and offerings
+Sugarcane,Tamil Nadu,Cuddalore,Summer,Kharif,April,2020,Black,High,Ugadi,40079,78,4,3,1,6,0,Traditional consumption and cultural preference during this period
+Marigold,Tamil Nadu,Karur,Autumn,Kharif,October,2022,Laterite,Medium,Dussehra,4947,69,4,7,5,6,1,High floral demand for garlands and decorations
+Banana,Tamil Nadu,Tiruppur,Autumn,Kharif,October,2021,Alluvial,High,Navratri,3076,81,5,8,6,4,1,Traditional consumption and cultural preference during this period
+Jasmine,Tamil Nadu,Kallakurichi,Winter,Rabi,January,2014,Red,High,Makar Sankranti,2576,48,3,8,8,4,1,Traditional consumption and cultural preference during this period
+Cotton,Tamil Nadu,Coimbatore,Spring,Rabi,March,2011,Black,High,Ugadi,758,50,3,5,3,4,0,Traditional consumption and cultural preference during this period
+Jasmine,Tamil Nadu,Ariyalur,Autumn,Kharif,October,2015,Alluvial,Medium,Navratri,2683,63,4,9,8,4,1,High floral demand for garlands and decorations
+Turmeric,Tamil Nadu,Tiruvarur,Spring,Rabi,March,2016,Laterite,High,Ugadi,2562,50,3,6,6,7,0,Traditional consumption and cultural preference during this period
+Turmeric,Tamil Nadu,Perambalur,Winter,Rabi,December,2017,Red,High,Christmas,2753,32,2,3,4,4,0,Traditional consumption and cultural preference during this period
+Marigold,Tamil Nadu,Cuddalore,Summer,Kharif,April,2017,Red,High,Vishu,4989,58,3,3,1,7,1,Traditional consumption and cultural preference during this period
+Cotton,Tamil Nadu,Perambalur,Autumn,Kharif,October,2018,Red,High,Navratri,587,74,4,7,8,5,0,Used for diya wicks and traditional textiles
+Turmeric,Tamil Nadu,Theni,Winter,Rabi,January,2023,Alluvial,High,Lohri,2574,58,3,5,5,8,0,Traditional consumption and cultural preference during this period
+Marigold,Tamil Nadu,Dharmapuri,Autumn,Kharif,October,2015,Alluvial,High,Dussehra,4991,54,3,4,3,8,1,High floral demand for garlands and decorations
+Groundnut,Tamil Nadu,Tiruvarur,Spring,Rabi,March,2012,Red,High,Holi,1406,35,2,7,7,5,0,Traditional consumption and cultural preference during this period
+Millet,Tamil Nadu,Tiruvallur,Winter,Rabi,January,2010,Red,High,Makar Sankranti,1282,38,2,7,6,6,0,Traditional consumption and cultural preference during this period
+Millet,Tamil Nadu,Tiruvallur,Winter,Rabi,December,2021,Black,High,Christmas,1381,58,3,6,4,5,0,Traditional consumption and cultural preference during this period
+Wheat,Tamil Nadu,Tirupathur,Summer,Kharif,April,2012,Black,High,Ugadi,3191,51,3,6,7,6,0,Traditional consumption and cultural preference during this period
+Groundnut,Tamil Nadu,Thanjavur,Winter,Rabi,January,2022,Black,High,Makar Sankranti,1011,44,3,6,5,8,0,Traditional consumption and cultural preference during this period
+Groundnut,Tamil Nadu,Dindigul,Winter,Rabi,January,2016,Red,High,Lohri,1432,28,2,7,6,7,0,Traditional consumption and cultural preference during this period
+Millet,Tamil Nadu,Vellore,Winter,Rabi,January,2013,Red,Medium,Pongal,1401,58,3,5,7,4,0,Traditional consumption and cultural preference during this period
+Groundnut,Tamil Nadu,Dindigul,Winter,Rabi,January,2016,Alluvial,Medium,Lohri,1157,29,2,4,3,4,0,Traditional consumption and cultural preference during this period
+Cotton,Tamil Nadu,Salem,Winter,Rabi,January,2014,Red,High,Lohri,659,40,2,5,3,7,0,Traditional consumption and cultural preference during this period
+Marigold,Tamil Nadu,Dindigul,Winter,Rabi,January,2020,Black,High,Makar Sankranti,5188,54,3,9,10,6,1,Traditional consumption and cultural preference during this period
+Marigold,Tamil Nadu,Coimbatore,Winter,Rabi,November,2012,Red,High,Wedding Season,5136,39,2,8,7,5,1,High floral demand for garlands and decorations
+Banana,Tamil Nadu,Chennai,Autumn,Kharif,October,2023,Alluvial,Medium,Dussehra,3226,76,4,6,5,8,1,Traditional consumption and cultural preference during this period
+Sugarcane,Tamil Nadu,Mayiladuthurai,Autumn,Kharif,July,2019,Black,High,Rath Yatra,40381,87,5,7,8,4,0,Traditional consumption and cultural preference during this period
+Turmeric,Tamil Nadu,Erode,Autumn,Kharif,July,2020,Laterite,High,Rath Yatra,2904,86,5,4,4,5,0,Traditional consumption and cultural preference during this period
+Sesame,Tamil Nadu,Nilgiris,Spring,Rabi,March,2012,Red,Medium,Holi,826,61,4,5,6,8,0,Traditional consumption and cultural preference during this period
+Turmeric,Tamil Nadu,Madurai,Winter,Rabi,January,2023,Alluvial,High,Pongal,2691,48,3,8,9,8,0,Turmeric used in auspicious rituals and ceremonies
+Groundnut,Tamil Nadu,Krishnagiri,Winter,Rabi,January,2018,Red,High,Lohri,1182,43,3,5,7,7,0,Traditional consumption and cultural preference during this period
+Turmeric,Tamil Nadu,Tiruvannamalai,Winter,Rabi,January,2024,Red,High,Pongal,2574,54,3,9,7,6,0,Turmeric used in auspicious rituals and ceremonies
+Groundnut,Tamil Nadu,Tirupathur,Summer,Kharif,June,2022,Red,High,Rath Yatra,1376,89,5,4,2,7,0,Traditional consumption and cultural preference during this period
+Cotton,Tamil Nadu,Virudhunagar,Winter,Rabi,February,2023,Laterite,High,Wedding Season,844,37,2,3,2,6,0,Traditional consumption and cultural preference during this period
+Marigold,Tamil Nadu,Ariyalur,Winter,Rabi,January,2014,Red,High,Pongal,4815,43,3,9,8,6,1,Traditional consumption and cultural preference during this period
+Wheat,Tamil Nadu,Vellore,Winter,Rabi,January,2023,Red,High,Lohri,3126,86,5,4,5,8,0,Traditional consumption and cultural preference during this period
+Sesame,Tamil Nadu,Chengalpattu,Autumn,Kharif,October,2019,Laterite,High,Navratri,913,84,5,6,8,4,0,Traditional consumption and cultural preference during this period
+Cotton,Tamil Nadu,Ariyalur,Summer,Kharif,April,2011,Black,High,Vishu,553,89,5,4,5,7,0,Traditional consumption and cultural preference during this period
+Banana,Tamil Nadu,Tiruppur,Autumn,Kharif,October,2019,Red,High,Navratri,2935,67,4,9,7,6,1,Traditional consumption and cultural preference during this period
+Jasmine,Tamil Nadu,Chennai,Winter,Rabi,January,2016,Black,High,Pongal,2717,54,3,9,7,8,1,Traditional consumption and cultural preference during this period
+Groundnut,Tamil Nadu,Mayiladuthurai,Autumn,Kharif,October,2021,Red,High,Dussehra,1237,51,3,5,6,4,0,Traditional consumption and cultural preference during this period
+Jasmine,Tamil Nadu,Kallakurichi,Winter,Rabi,December,2014,Alluvial,High,Christmas,2575,58,3,7,6,7,1,Traditional consumption and cultural preference during this period
+Marigold,Tamil Nadu,Chennai,Winter,Rabi,January,2016,Black,High,Pongal,4998,48,3,10,10,5,1,Traditional consumption and cultural preference during this period
+Marigold,Tamil Nadu,Krishnagiri,Autumn,Kharif,July,2015,Red,High,Rath Yatra,4853,68,4,5,6,7,1,Traditional consumption and cultural preference during this period
+Banana,Tamil Nadu,Tiruchirappalli,Winter,Rabi,January,2010,Red,High,Pongal,2934,47,3,10,10,7,1,Banana fruits and leaves used in rituals and feasts
+Sesame,Tamil Nadu,Cuddalore,Autumn,Kharif,October,2010,Red,High,Dussehra,805,79,4,6,5,6,0,Traditional consumption and cultural preference during this period
+Banana,Tamil Nadu,Mayiladuthurai,Autumn,Kharif,October,2012,Laterite,High,Navratri,3120,68,4,10,9,4,1,Traditional consumption and cultural preference during this period
+Cotton,Tamil Nadu,Thoothukudi,Spring,Rabi,March,2016,Red,High,Holi,886,42,3,5,4,7,0,Traditional consumption and cultural preference during this period
+Millet,Tamil Nadu,Viluppuram,Autumn,Kharif,October,2023,Black,High,Navratri,1737,65,4,3,1,7,0,Traditional consumption and cultural preference during this period
+Sugarcane,Tamil Nadu,Pudukkottai,Autumn,Kharif,October,2014,Red,High,Dussehra,40084,74,4,4,2,8,0,Traditional consumption and cultural preference during this period
+Marigold,Tamil Nadu,Ariyalur,Winter,Rabi,January,2022,Red,High,Lohri,5151,58,3,4,4,7,1,Traditional consumption and cultural preference during this period
+Groundnut,Tamil Nadu,Krishnagiri,Spring,Rabi,March,2015,Red,Medium,Holi,1122,55,3,4,5,7,0,Traditional consumption and cultural preference during this period
+Jasmine,Tamil Nadu,Tirupathur,Winter,Rabi,November,2015,Red,High,Diwali,2399,34,2,8,9,5,1,High floral demand for garlands and decorations
+Wheat,Tamil Nadu,Theni,Summer,Kharif,June,2011,Alluvial,High,Rath Yatra,3091,49,3,7,8,7,0,Traditional consumption and cultural preference during this period
+Turmeric,Tamil Nadu,Cuddalore,Autumn,Kharif,October,2013,Red,High,Diwali,2826,86,5,9,10,5,0,Traditional consumption and cultural preference during this period
+Rice,Tamil Nadu,Viluppuram,Winter,Rabi,November,2019,Alluvial,High,Diwali,3853,61,4,10,10,4,0,Staple grain used widely in festive meals and offerings
+Sugarcane,Tamil Nadu,Vellore,Spring,Rabi,March,2016,Laterite,High,Ugadi,40200,60,3,3,1,4,0,Traditional consumption and cultural preference during this period
+Cotton,Tamil Nadu,Tiruvarur,Summer,Kharif,April,2017,Red,High,Ugadi,862,76,4,4,2,8,0,Traditional consumption and cultural preference during this period
+Jasmine,Tamil Nadu,Ariyalur,Summer,Kharif,April,2021,Alluvial,Medium,Ram Navami,2408,62,4,5,6,5,1,Traditional consumption and cultural preference during this period
+Groundnut,Tamil Nadu,Kallakurichi,Autumn,Kharif,October,2013,Red,High,Dussehra,1441,64,4,3,1,7,0,Traditional consumption and cultural preference during this period
+Turmeric,Tamil Nadu,Ramanathapuram,Winter,Rabi,December,2023,Red,High,Christmas,2877,54,3,4,5,5,0,Traditional consumption and cultural preference during this period
+Marigold,Tamil Nadu,Karur,Winter,Rabi,January,2019,Black,High,Makar Sankranti,5192,47,3,10,10,5,1,Traditional consumption and cultural preference during this period
+Rice,Tamil Nadu,Viluppuram,Spring,Rabi,March,2013,Red,High,Ugadi,3796,63,4,5,3,6,0,Staple grain used widely in festive meals and offerings
+Turmeric,Tamil Nadu,Dharmapuri,Winter,Rabi,January,2018,Alluvial,High,Lohri,2772,36,2,4,3,5,0,Traditional consumption and cultural preference during this period
+Groundnut,Tamil Nadu,Cuddalore,Winter,Rabi,December,2010,Laterite,Medium,Christmas,1304,51,3,4,3,8,0,Traditional consumption and cultural preference during this period
+Sugarcane,Tamil Nadu,Coimbatore,Summer,Kharif,April,2012,Red,High,Ram Navami,40270,64,4,4,2,6,0,Traditional consumption and cultural preference during this period
+Groundnut,Tamil Nadu,Chengalpattu,Autumn,Kharif,October,2012,Laterite,High,Navratri,1393,79,4,7,8,6,0,Traditional consumption and cultural preference during this period
+Jasmine,Tamil Nadu,Pudukkottai,Winter,Rabi,December,2010,Red,High,Christmas,2643,29,2,7,6,4,1,Traditional consumption and cultural preference during this period
+Banana,Tamil Nadu,Tirupathur,Winter,Rabi,January,2017,Laterite,Medium,Pongal,3125,41,3,10,10,4,1,Banana fruits and leaves used in rituals and feasts
+Banana,Tamil Nadu,Virudhunagar,Winter,Rabi,January,2024,Red,High,Pongal,3172,31,2,9,7,6,1,Banana fruits and leaves used in rituals and feasts
+Groundnut,Tamil Nadu,Vellore,Summer,Kharif,April,2014,Black,Medium,Vishu,1305,60,3,7,7,7,0,Traditional consumption and cultural preference during this period
+Groundnut,Tamil Nadu,Tiruvannamalai,Autumn,Kharif,October,2021,Black,High,Diwali,1427,55,3,3,3,4,0,Traditional consumption and cultural preference during this period
+Wheat,Tamil Nadu,Tiruchirappalli,Summer,Kharif,April,2011,Red,Medium,Vishu,3276,47,3,3,2,5,0,Traditional consumption and cultural preference during this period
+Groundnut,Tamil Nadu,Madurai,Summer,Kharif,April,2022,Laterite,Medium,Vishu,1336,68,4,3,1,6,0,Traditional consumption and cultural preference during this period
+Marigold,Tamil Nadu,Tiruchirappalli,Autumn,Kharif,October,2017,Red,High,Navratri,4921,74,4,10,8,6,1,High floral demand for garlands and decorations
+Rice,Tamil Nadu,Tiruppur,Winter,Rabi,January,2023,Red,High,Makar Sankranti,3765,67,4,10,9,4,0,Staple grain used widely in festive meals and offerings
+Jasmine,Tamil Nadu,Tenkasi,Winter,Rabi,November,2024,Red,High,Wedding Season,2591,30,2,9,8,4,1,High floral demand for garlands and decorations
+Millet,Tamil Nadu,Erode,Winter,Rabi,December,2021,Alluvial,High,Wedding Season,1659,49,3,3,3,6,0,Traditional consumption and cultural preference during this period
+Marigold,Tamil Nadu,Vellore,Autumn,Kharif,October,2015,Red,Medium,Navratri,5091,81,5,8,6,8,1,High floral demand for garlands and decorations
+Turmeric,Tamil Nadu,Ariyalur,Winter,Rabi,January,2010,Red,High,Makar Sankranti,2958,52,3,8,8,5,0,Traditional consumption and cultural preference during this period
+Rice,Tamil Nadu,Thoothukudi,Summer,Kharif,April,2015,Black,Medium,Wedding Season,3330,77,4,9,7,6,0,Staple grain used widely in festive meals and offerings
+Sugarcane,Tamil Nadu,Namakkal,Spring,Rabi,March,2018,Red,High,Holi,40079,42,3,8,8,7,0,Traditional consumption and cultural preference during this period
+Sugarcane,Tamil Nadu,Karur,Autumn,Kharif,July,2020,Alluvial,High,Rath Yatra,40296,84,5,3,1,8,0,Traditional consumption and cultural preference during this period
+Sugarcane,Tamil Nadu,Erode,Winter,Rabi,January,2016,Alluvial,Medium,Makar Sankranti,40094,38,2,9,10,5,0,Harvest festival rituals use sugarcane heavily
+Cotton,Tamil Nadu,Mayiladuthurai,Winter,Rabi,January,2012,Red,Medium,Makar Sankranti,1193,57,3,6,8,5,0,Traditional consumption and cultural preference during this period
+Turmeric,Tamil Nadu,Nagapattinam,Spring,Rabi,March,2010,Laterite,High,Holi,2648,35,2,8,9,7,0,Traditional consumption and cultural preference during this period
+Wheat,Tamil Nadu,Viluppuram,Autumn,Kharif,October,2012,Red,High,Navratri,3169,33,2,3,2,7,0,Traditional consumption and cultural preference during this period
+Jasmine,Tamil Nadu,Krishnagiri,Autumn,Kharif,October,2014,Alluvial,High,Navratri,2721,53,3,8,9,5,1,High floral demand for garlands and decorations
+Wheat,Tamil Nadu,Viluppuram,Winter,Rabi,January,2018,Alluvial,High,Lohri,3013,71,4,3,5,6,0,Traditional consumption and cultural preference during this period
+Turmeric,Tamil Nadu,Nagapattinam,Winter,Rabi,December,2022,Alluvial,High,Christmas,2866,35,2,3,1,8,0,Traditional consumption and cultural preference during this period
+Rice,Tamil Nadu,Erode,Spring,Rabi,March,2014,Alluvial,High,Ugadi,3707,61,4,7,6,5,0,Staple grain used widely in festive meals and offerings
+Banana,Tamil Nadu,Salem,Winter,Rabi,January,2022,Black,Medium,Lohri,2789,34,2,7,9,6,1,Traditional consumption and cultural preference during this period
+Groundnut,Tamil Nadu,Erode,Autumn,Kharif,October,2014,Laterite,High,Dussehra,1057,58,3,7,5,7,0,Traditional consumption and cultural preference during this period
+Jasmine,Tamil Nadu,Viluppuram,Summer,Kharif,April,2012,Alluvial,Medium,Ram Navami,2722,74,4,5,3,5,1,Traditional consumption and cultural preference during this period
+Wheat,Tamil Nadu,Dharmapuri,Summer,Kharif,April,2010,Alluvial,Medium,Vishu,2961,44,3,6,6,5,0,Traditional consumption and cultural preference during this period
+Millet,Tamil Nadu,Kancheepuram,Spring,Rabi,March,2010,Red,High,Wedding Season,1717,40,2,7,8,8,0,Traditional consumption and cultural preference during this period
+Millet,Tamil Nadu,Kancheepuram,Winter,Rabi,January,2021,Black,High,Lohri,1474,62,4,4,5,7,0,Traditional consumption and cultural preference during this period
+Turmeric,Tamil Nadu,Perambalur,Summer,Kharif,May,2015,Red,Medium,Wedding Season,2980,59,3,9,9,8,0,Turmeric used in auspicious rituals and ceremonies
+Sesame,Tamil Nadu,Vellore,Summer,Kharif,April,2019,Alluvial,Medium,Wedding Season,771,77,4,4,3,4,0,Traditional consumption and cultural preference during this period
+Wheat,Tamil Nadu,Vellore,Autumn,Kharif,October,2010,Alluvial,High,Dussehra,3170,52,3,3,4,5,0,Traditional consumption and cultural preference during this period
+Millet,Tamil Nadu,Kallakurichi,Winter,Rabi,January,2018,Red,High,Pongal,1694,39,2,5,5,5,0,Traditional consumption and cultural preference during this period
+Sesame,Tamil Nadu,Ranipet,Winter,Rabi,January,2013,Black,High,Pongal,740,37,2,3,3,8,0,Traditional consumption and cultural preference during this period
+Wheat,Tamil Nadu,Viluppuram,Summer,Kharif,April,2011,Laterite,High,Ugadi,3091,41,3,5,6,8,0,Traditional consumption and cultural preference during this period
+Marigold,Tamil Nadu,Thanjavur,Summer,Kharif,April,2023,Alluvial,High,Ugadi,5097,65,4,5,4,7,1,Traditional consumption and cultural preference during this period
+Rice,Tamil Nadu,Ariyalur,Winter,Rabi,January,2010,Red,Medium,Makar Sankranti,3546,56,3,10,10,7,0,Staple grain used widely in festive meals and offerings
+Rice,Tamil Nadu,Ranipet,Summer,Kharif,April,2016,Laterite,High,Ugadi,4019,84,5,5,6,5,0,Staple grain used widely in festive meals and offerings
+Banana,Tamil Nadu,Dindigul,Winter,Rabi,January,2018,Black,High,Lohri,3171,48,3,5,6,4,1,Traditional consumption and cultural preference during this period
+Rice,Tamil Nadu,Tiruppur,Autumn,Kharif,October,2011,Red,High,Navratri,3958,74,4,10,10,5,0,Staple grain used widely in festive meals and offerings
+Sugarcane,Tamil Nadu,Karur,Summer,Kharif,April,2023,Alluvial,High,Ugadi,40122,73,4,6,8,7,0,Traditional consumption and cultural preference during this period
+Millet,Tamil Nadu,Pudukkottai,Autumn,Kharif,October,2018,Laterite,High,Navratri,1731,53,3,5,5,7,0,Traditional consumption and cultural preference during this period
+Jasmine,Tamil Nadu,Ramanathapuram,Autumn,Kharif,October,2011,Laterite,High,Navratri,2289,87,5,9,9,7,1,High floral demand for garlands and decorations
+Turmeric,Tamil Nadu,Nilgiris,Winter,Rabi,January,2023,Red,Medium,Lohri,2721,48,3,4,1,8,0,Traditional consumption and cultural preference during this period
+Wheat,Tamil Nadu,Thanjavur,Winter,Rabi,January,2024,Red,High,Makar Sankranti,2960,62,4,7,9,6,0,Traditional consumption and cultural preference during this period
+Groundnut,Tamil Nadu,Chennai,Spring,Rabi,March,2017,Alluvial,Medium,Wedding Season,1256,55,3,3,4,5,0,Traditional consumption and cultural preference during this period
+Wheat,Tamil Nadu,Coimbatore,Winter,Rabi,January,2013,Alluvial,High,Pongal,3017,70,4,4,5,6,0,Traditional consumption and cultural preference during this period
+Wheat,Tamil Nadu,Kancheepuram,Spring,Rabi,March,2015,Alluvial,High,Ram Navami,3157,68,4,6,7,4,0,Traditional consumption and cultural preference during this period
+Turmeric,Tamil Nadu,Dindigul,Spring,Rabi,March,2013,Laterite,High,Ugadi,2902,45,3,6,6,7,0,Traditional consumption and cultural preference during this period
+Banana,Tamil Nadu,Perambalur,Autumn,Kharif,October,2016,Laterite,Medium,Dussehra,2782,85,5,7,4,8,1,Traditional consumption and cultural preference during this period
+Rice,Tamil Nadu,Sivaganga,Winter,Rabi,December,2017,Red,High,Wedding Season,3797,65,4,10,10,8,0,Staple grain used widely in festive meals and offerings
+Banana,Tamil Nadu,Tiruppur,Autumn,Kharif,October,2018,Red,High,Dussehra,3087,82,5,7,7,8,1,Traditional consumption and cultural preference during this period
+Jasmine,Tamil Nadu,Perambalur,Summer,Kharif,April,2016,Red,High,Vishu,2704,70,4,7,6,4,1,Traditional consumption and cultural preference during this period
+Banana,Tamil Nadu,Salem,Summer,Kharif,April,2023,Alluvial,Medium,Wedding Season,3035,80,4,10,9,8,1,Banana fruits and leaves used in rituals and feasts
+Jasmine,Tamil Nadu,Viluppuram,Winter,Rabi,January,2015,Red,High,Lohri,2713,49,3,7,6,8,1,Traditional consumption and cultural preference during this period
+Jasmine,Tamil Nadu,Tiruvarur,Autumn,Kharif,October,2016,Red,Medium,Dussehra,2603,84,5,7,8,7,1,High floral demand for garlands and decorations
+Cotton,Tamil Nadu,Erode,Spring,Rabi,March,2021,Laterite,High,Ram Navami,856,57,3,7,9,6,0,Traditional consumption and cultural preference during this period
+Turmeric,Tamil Nadu,Vellore,Summer,Kharif,April,2015,Black,High,Vishu,2715,64,4,3,1,8,0,Traditional consumption and cultural preference during this period
+Millet,Tamil Nadu,Cuddalore,Autumn,Kharif,October,2016,Red,Medium,Dussehra,1514,74,4,5,7,4,0,Traditional consumption and cultural preference during this period
+Sugarcane,Tamil Nadu,Tiruvarur,Autumn,Kharif,October,2012,Black,High,Navratri,40261,75,4,10,8,6,0,Traditional consumption and cultural preference during this period
+Sesame,Tamil Nadu,Ranipet,Winter,Rabi,December,2019,Black,High,Christmas,971,48,3,6,4,7,0,Traditional consumption and cultural preference during this period
+Millet,Tamil Nadu,Tirunelveli,Summer,Kharif,April,2022,Red,High,Vishu,1561,75,4,4,4,8,0,Traditional consumption and cultural preference during this period
+Sesame,Tamil Nadu,Tiruvannamalai,Summer,Kharif,April,2010,Red,High,Vishu,1146,74,4,7,5,6,0,Traditional consumption and cultural preference during this period
+Sesame,Tamil Nadu,Erode,Spring,Rabi,March,2017,Alluvial,High,Ugadi,937,62,4,7,7,6,0,Traditional consumption and cultural preference during this period
+Marigold,Tamil Nadu,Tenkasi,Winter,Rabi,January,2020,Red,High,Pongal,5076,36,2,10,10,5,1,Traditional consumption and cultural preference during this period
+Millet,Tamil Nadu,Dharmapuri,Autumn,Kharif,October,2017,Red,High,Diwali,1288,86,5,4,5,4,0,Traditional consumption and cultural preference during this period
+Sugarcane,Tamil Nadu,Tiruvarur,Winter,Rabi,December,2017,Laterite,High,Christmas,40462,63,4,3,5,4,0,Traditional consumption and cultural preference during this period
+Wheat,Tamil Nadu,Viluppuram,Summer,Kharif,April,2014,Black,High,Vishu,3164,52,3,4,6,5,0,Traditional consumption and cultural preference during this period
+Turmeric,Tamil Nadu,Dharmapuri,Spring,Rabi,March,2012,Black,Medium,Ram Navami,2866,48,3,4,2,4,0,Traditional consumption and cultural preference during this period
+Turmeric,Tamil Nadu,Coimbatore,Summer,Kharif,April,2022,Red,High,Ugadi,2679,68,4,5,5,4,0,Traditional consumption and cultural preference during this period
+Rice,Tamil Nadu,Tiruchirappalli,Winter,Rabi,January,2020,Laterite,High,Lohri,3561,68,4,3,3,6,0,Staple grain used widely in festive meals and offerings
+Rice,Tamil Nadu,Ramanathapuram,Spring,Rabi,March,2018,Red,High,Wedding Season,3595,61,4,8,9,5,0,Staple grain used widely in festive meals and offerings
+Cotton,Tamil Nadu,Thanjavur,Autumn,Kharif,October,2010,Black,Medium,Navratri,979,97,5,3,3,8,0,Used for diya wicks and traditional textiles
+Groundnut,Tamil Nadu,Viluppuram,Spring,Rabi,March,2016,Black,Medium,Holi,1315,34,2,6,7,6,0,Traditional consumption and cultural preference during this period
+Millet,Tamil Nadu,Kancheepuram,Autumn,Kharif,July,2024,Red,High,Rath Yatra,1441,68,4,7,5,4,0,Traditional consumption and cultural preference during this period
+Sugarcane,Tamil Nadu,Tiruvarur,Autumn,Kharif,October,2013,Laterite,High,Dussehra,40308,67,4,3,3,6,0,Traditional consumption and cultural preference during this period
+Sesame,Tamil Nadu,Tenkasi,Spring,Rabi,March,2024,Red,High,Holi,999,38,2,3,4,8,0,Traditional consumption and cultural preference during this period
+Jasmine,Tamil Nadu,Erode,Winter,Rabi,November,2023,Black,High,Diwali,2481,37,2,10,10,5,1,High floral demand for garlands and decorations
+Wheat,Tamil Nadu,Nagapattinam,Autumn,Kharif,October,2024,Red,High,Diwali,3425,36,2,7,8,6,0,Traditional consumption and cultural preference during this period
+Sesame,Tamil Nadu,Pudukkottai,Summer,Kharif,April,2016,Laterite,Medium,Ugadi,795,76,4,5,4,4,0,Traditional consumption and cultural preference during this period
+Groundnut,Tamil Nadu,Tiruchirappalli,Autumn,Kharif,October,2013,Red,High,Navratri,1305,74,4,4,4,8,0,Traditional consumption and cultural preference during this period
+Millet,Tamil Nadu,Sivaganga,Summer,Kharif,June,2010,Black,Medium,Rath Yatra,1553,59,3,7,7,8,0,Traditional consumption and cultural preference during this period
+Cotton,Tamil Nadu,Mayiladuthurai,Autumn,Kharif,October,2015,Alluvial,Medium,Dussehra,782,58,3,7,6,6,0,Traditional consumption and cultural preference during this period
+Rice,Tamil Nadu,Pudukkottai,Winter,Rabi,January,2013,Alluvial,High,Lohri,3904,64,4,3,1,4,0,Staple grain used widely in festive meals and offerings
+Groundnut,Tamil Nadu,Vellore,Summer,Kharif,April,2013,Black,High,Vishu,1427,66,4,3,3,7,0,Traditional consumption and cultural preference during this period
+Rice,Tamil Nadu,Nagapattinam,Winter,Rabi,January,2019,Red,High,Lohri,3723,48,3,4,4,5,0,Staple grain used widely in festive meals and offerings
+Sugarcane,Tamil Nadu,Viluppuram,Winter,Rabi,January,2014,Red,High,Pongal,40126,40,2,10,9,6,0,Harvest festival rituals use sugarcane heavily
+Groundnut,Tamil Nadu,Kancheepuram,Winter,Rabi,January,2020,Alluvial,Medium,Pongal,1244,57,3,7,9,7,0,Traditional consumption and cultural preference during this period
+Marigold,Tamil Nadu,Theni,Winter,Rabi,November,2022,Laterite,High,Diwali,4962,46,3,9,7,6,1,High floral demand for garlands and decorations
+Turmeric,Tamil Nadu,Nagapattinam,Winter,Rabi,December,2023,Red,High,Christmas,2828,55,3,3,3,7,0,Traditional consumption and cultural preference during this period
+Marigold,Tamil Nadu,Pudukkottai,Winter,Rabi,December,2020,Red,High,Wedding Season,5226,54,3,10,10,5,1,High floral demand for garlands and decorations
+Banana,Tamil Nadu,Tiruchirappalli,Summer,Kharif,April,2010,Black,Medium,Ram Navami,3229,56,3,7,5,4,1,Traditional consumption and cultural preference during this period
+Rice,Tamil Nadu,Tiruvallur,Winter,Rabi,December,2013,Black,High,Christmas,3766,52,3,6,5,7,0,Staple grain used widely in festive meals and offerings
+Sesame,Tamil Nadu,Tirupathur,Winter,Rabi,January,2018,Red,High,Makar Sankranti,806,32,2,4,2,5,0,Til-based sweets and snacks drive demand
+Jasmine,Tamil Nadu,Pudukkottai,Spring,Rabi,March,2018,Red,Medium,Ram Navami,2494,40,2,4,4,8,1,Traditional consumption and cultural preference during this period
+Cotton,Tamil Nadu,Kancheepuram,Winter,Rabi,December,2011,Black,High,Christmas,733,70,4,3,1,7,0,Traditional consumption and cultural preference during this period
+Jasmine,Tamil Nadu,Theni,Summer,Kharif,April,2013,Red,Medium,Vishu,2547,58,3,5,7,7,1,Traditional consumption and cultural preference during this period
+Jasmine,Tamil Nadu,Pudukkottai,Winter,Rabi,December,2017,Red,High,Christmas,2329,46,3,7,6,4,1,Traditional consumption and cultural preference during this period
+Jasmine,Tamil Nadu,Salem,Summer,Kharif,April,2021,Red,High,Ram Navami,2474,68,4,7,5,8,1,Traditional consumption and cultural preference during this period
+Jasmine,Tamil Nadu,Kallakurichi,Summer,Kharif,April,2022,Alluvial,Medium,Ugadi,2746,56,3,3,2,7,1,Traditional consumption and cultural preference during this period
+Wheat,Tamil Nadu,Pudukkottai,Autumn,Kharif,October,2023,Alluvial,Medium,Diwali,3014,56,3,4,3,8,0,Traditional consumption and cultural preference during this period
+Marigold,Tamil Nadu,Salem,Winter,Rabi,December,2018,Black,Medium,Christmas,4756,41,3,3,4,4,1,Traditional consumption and cultural preference during this period
+Wheat,Tamil Nadu,Vellore,Summer,Kharif,April,2010,Alluvial,Medium,Vishu,3297,58,3,3,3,8,0,Traditional consumption and cultural preference during this period
+Sugarcane,Tamil Nadu,Tirunelveli,Autumn,Kharif,October,2016,Alluvial,Medium,Diwali,40161,71,4,9,10,4,0,Traditional consumption and cultural preference during this period
+Sugarcane,Tamil Nadu,Tiruchirappalli,Summer,Kharif,April,2023,Red,Medium,Ram Navami,40140,60,3,6,4,6,0,Traditional consumption and cultural preference during this period
+Banana,Tamil Nadu,Virudhunagar,Spring,Rabi,March,2023,Red,High,Holi,3211,33,2,9,10,7,1,Traditional consumption and cultural preference during this period
+Rice,Tamil Nadu,Virudhunagar,Autumn,Kharif,July,2013,Black,Medium,Rath Yatra,3505,76,4,6,7,4,0,Staple grain used widely in festive meals and offerings
+Banana,Tamil Nadu,Tenkasi,Spring,Rabi,March,2020,Black,High,Ram Navami,3164,56,3,5,4,4,1,Traditional consumption and cultural preference during this period
+Banana,Tamil Nadu,Ariyalur,Spring,Rabi,March,2024,Alluvial,Medium,Holi,3105,50,3,8,9,8,1,Traditional consumption and cultural preference during this period
+Millet,Tamil Nadu,Dharmapuri,Winter,Rabi,November,2019,Alluvial,High,Wedding Season,1394,46,3,6,4,4,0,Traditional consumption and cultural preference during this period
+Millet,Tamil Nadu,Kancheepuram,Autumn,Kharif,July,2020,Red,High,Rath Yatra,1522,80,4,5,7,7,0,Traditional consumption and cultural preference during this period
+Banana,Tamil Nadu,Chennai,Summer,Kharif,April,2024,Black,High,Vishu,2842,75,4,3,5,4,1,Banana fruits and leaves used in rituals and feasts
+Rice,Tamil Nadu,Madurai,Winter,Rabi,December,2017,Red,High,Christmas,3789,61,4,5,3,5,0,Staple grain used widely in festive meals and offerings
+Turmeric,Tamil Nadu,Ariyalur,Winter,Rabi,January,2015,Red,High,Pongal,2985,60,3,8,10,7,0,Turmeric used in auspicious rituals and ceremonies
+Millet,Tamil Nadu,Madurai,Summer,Kharif,May,2013,Laterite,Medium,Wedding Season,1448,59,3,4,6,6,0,Traditional consumption and cultural preference during this period
+Sugarcane,Tamil Nadu,Ranipet,Spring,Rabi,March,2015,Black,High,Holi,40463,44,3,9,10,5,0,Traditional consumption and cultural preference during this period
+Sesame,Tamil Nadu,Tiruchirappalli,Winter,Rabi,January,2024,Black,High,Pongal,793,36,2,5,4,6,0,Traditional consumption and cultural preference during this period
+Sugarcane,Tamil Nadu,Tiruppur,Winter,Rabi,November,2020,Laterite,High,Diwali,40105,52,3,9,7,8,0,Traditional consumption and cultural preference during this period
+Cotton,Tamil Nadu,Chengalpattu,Winter,Rabi,January,2022,Black,High,Makar Sankranti,593,68,4,4,6,5,0,Traditional consumption and cultural preference during this period
+Cotton,Tamil Nadu,Theni,Spring,Rabi,March,2013,Black,Medium,Wedding Season,792,65,4,3,1,5,0,Traditional consumption and cultural preference during this period
+Turmeric,Tamil Nadu,Viluppuram,Summer,Kharif,April,2010,Alluvial,High,Ugadi,2910,73,4,4,3,4,0,Traditional consumption and cultural preference during this period
+Marigold,Tamil Nadu,Sivaganga,Winter,Rabi,November,2013,Red,High,Wedding Season,4776,58,3,9,10,4,1,High floral demand for garlands and decorations
+Turmeric,Tamil Nadu,Dharmapuri,Winter,Rabi,January,2015,Red,High,Lohri,2880,54,3,3,3,8,0,Traditional consumption and cultural preference during this period
+Groundnut,Tamil Nadu,Tiruppur,Winter,Rabi,December,2023,Red,High,Wedding Season,1384,35,2,6,5,5,0,Traditional consumption and cultural preference during this period
+Turmeric,Tamil Nadu,Chengalpattu,Autumn,Kharif,October,2024,Laterite,Medium,Diwali,2642,63,4,10,10,4,0,Traditional consumption and cultural preference during this period
+Cotton,Tamil Nadu,Madurai,Summer,Kharif,June,2015,Red,Medium,Rath Yatra,1119,56,3,5,2,8,0,Traditional consumption and cultural preference during this period
+Sugarcane,Tamil Nadu,Chengalpattu,Winter,Rabi,December,2011,Laterite,Medium,Christmas,39921,39,2,4,2,7,0,Traditional consumption and cultural preference during this period
+Rice,Tamil Nadu,Kallakurichi,Winter,Rabi,December,2019,Laterite,Medium,Christmas,3615,52,3,7,7,8,0,Staple grain used widely in festive meals and offerings
+Sesame,Tamil Nadu,Krishnagiri,Summer,Kharif,May,2024,Laterite,High,Wedding Season,866,55,3,6,4,7,0,Traditional consumption and cultural preference during this period
+Marigold,Tamil Nadu,Kallakurichi,Spring,Rabi,March,2020,Laterite,High,Holi,4826,29,2,10,8,7,1,Traditional consumption and cultural preference during this period
+Rice,Tamil Nadu,Tiruppur,Autumn,Kharif,July,2011,Black,High,Rath Yatra,4019,72,4,6,6,8,0,Staple grain used widely in festive meals and offerings
+Millet,Tamil Nadu,Tiruvarur,Summer,Kharif,April,2015,Red,Medium,Vishu,1516,63,4,6,4,5,0,Traditional consumption and cultural preference during this period
+Sesame,Tamil Nadu,Erode,Winter,Rabi,January,2011,Red,High,Pongal,912,31,2,3,1,4,0,Traditional consumption and cultural preference during this period
+Cotton,Tamil Nadu,Kancheepuram,Autumn,Kharif,October,2018,Laterite,Medium,Navratri,840,53,3,3,2,8,0,Used for diya wicks and traditional textiles
+Sugarcane,Tamil Nadu,Dindigul,Spring,Rabi,March,2011,Red,High,Holi,40488,64,4,10,10,7,0,Traditional consumption and cultural preference during this period
+Jasmine,Tamil Nadu,Tiruppur,Winter,Rabi,January,2016,Black,High,Pongal,2658,49,3,10,9,5,1,Traditional consumption and cultural preference during this period
+Wheat,Tamil Nadu,Pudukkottai,Winter,Rabi,January,2022,Red,Medium,Makar Sankranti,3085,78,4,7,7,6,0,Traditional consumption and cultural preference during this period
+Banana,Tamil Nadu,Virudhunagar,Winter,Rabi,November,2013,Black,Medium,Diwali,3236,53,3,10,10,4,1,Traditional consumption and cultural preference during this period
+Banana,Tamil Nadu,Theni,Spring,Rabi,March,2021,Alluvial,Medium,Ram Navami,2874,28,2,6,6,8,1,Traditional consumption and cultural preference during this period
+Sesame,Tamil Nadu,Ranipet,Spring,Rabi,March,2019,Alluvial,Medium,Ram Navami,719,32,2,7,6,6,0,Traditional consumption and cultural preference during this period
+Millet,Tamil Nadu,Ranipet,Winter,Rabi,December,2023,Alluvial,High,Christmas,1256,44,3,6,5,6,0,Traditional consumption and cultural preference during this period
+Banana,Tamil Nadu,Krishnagiri,Winter,Rabi,January,2012,Laterite,Medium,Lohri,2852,32,2,4,2,5,1,Traditional consumption and cultural preference during this period
+Marigold,Tamil Nadu,Viluppuram,Autumn,Kharif,October,2018,Alluvial,High,Dussehra,4940,59,3,3,4,7,1,High floral demand for garlands and decorations
+Groundnut,Tamil Nadu,Ariyalur,Winter,Rabi,February,2012,Laterite,Medium,Wedding Season,1411,50,3,3,5,4,0,Traditional consumption and cultural preference during this period
+Sesame,Tamil Nadu,Mayiladuthurai,Autumn,Kharif,October,2024,Alluvial,High,Navratri,938,60,3,5,3,7,0,Traditional consumption and cultural preference during this period
+Wheat,Tamil Nadu,Tirunelveli,Spring,Rabi,March,2023,Red,High,Holi,3108,81,5,4,4,6,0,Traditional consumption and cultural preference during this period
+Marigold,Tamil Nadu,Namakkal,Autumn,Kharif,October,2015,Red,High,Diwali,5005,59,3,10,8,5,1,High floral demand for garlands and decorations
+Turmeric,Tamil Nadu,Coimbatore,Winter,Rabi,December,2014,Black,High,Christmas,2737,47,3,6,5,8,0,Traditional consumption and cultural preference during this period
+Marigold,Tamil Nadu,Madurai,Autumn,Kharif,October,2019,Red,High,Navratri,4818,71,4,10,9,6,1,High floral demand for garlands and decorations
+Rice,Tamil Nadu,Pudukkottai,Autumn,Kharif,July,2016,Red,High,Rath Yatra,3688,76,4,6,6,7,0,Staple grain used widely in festive meals and offerings
+Sesame,Tamil Nadu,Mayiladuthurai,Autumn,Kharif,October,2016,Red,High,Navratri,1052,60,3,3,3,5,0,Traditional consumption and cultural preference during this period
+Banana,Tamil Nadu,Perambalur,Spring,Rabi,March,2011,Black,Medium,Ram Navami,2784,36,2,3,5,5,1,Traditional consumption and cultural preference during this period
+Marigold,Tamil Nadu,Tiruvallur,Winter,Rabi,January,2012,Red,Medium,Lohri,5105,59,3,4,4,5,1,Traditional consumption and cultural preference during this period
+Rice,Tamil Nadu,Cuddalore,Spring,Rabi,March,2011,Red,Medium,Holi,3438,45,3,8,8,7,0,Staple grain used widely in festive meals and offerings
+Marigold,Tamil Nadu,Thoothukudi,Autumn,Kharif,October,2014,Laterite,Medium,Navratri,4849,78,4,9,7,6,1,High floral demand for garlands and decorations
+Banana,Tamil Nadu,Madurai,Autumn,Kharif,October,2018,Laterite,High,Dussehra,3090,63,4,3,1,8,1,Traditional consumption and cultural preference during this period
+Turmeric,Tamil Nadu,Erode,Winter,Rabi,January,2012,Black,Medium,Lohri,2985,49,3,7,5,4,0,Traditional consumption and cultural preference during this period
+Sugarcane,Tamil Nadu,Tiruvannamalai,Spring,Rabi,March,2018,Red,Medium,Holi,40173,46,3,10,10,4,0,Traditional consumption and cultural preference during this period
+Wheat,Tamil Nadu,Thanjavur,Autumn,Kharif,October,2018,Red,High,Dussehra,3337,34,2,7,8,7,0,Traditional consumption and cultural preference during this period
+Sesame,Tamil Nadu,Virudhunagar,Winter,Rabi,January,2020,Laterite,High,Lohri,884,30,2,7,9,4,0,Traditional consumption and cultural preference during this period
+Cotton,Tamil Nadu,Tiruvannamalai,Winter,Rabi,January,2013,Red,High,Lohri,776,35,2,3,2,5,0,Traditional consumption and cultural preference during this period
+Banana,Tamil Nadu,Tiruchirappalli,Autumn,Kharif,October,2016,Alluvial,High,Navratri,3117,76,4,8,10,5,1,Traditional consumption and cultural preference during this period
+Sesame,Tamil Nadu,Cuddalore,Winter,Rabi,December,2021,Black,High,Christmas,996,53,3,6,5,8,0,Traditional consumption and cultural preference during this period
+Marigold,Tamil Nadu,Theni,Winter,Rabi,January,2022,Red,High,Makar Sankranti,5073,34,2,9,10,4,1,Traditional consumption and cultural preference during this period
+Wheat,Tamil Nadu,Vellore,Spring,Rabi,March,2023,Black,High,Holi,3153,66,4,6,7,6,0,Traditional consumption and cultural preference during this period
+Groundnut,Tamil Nadu,Pudukkottai,Winter,Rabi,December,2016,Red,Medium,Wedding Season,1223,37,2,4,5,4,0,Traditional consumption and cultural preference during this period
+Cotton,Tamil Nadu,Chengalpattu,Winter,Rabi,December,2015,Red,High,Wedding Season,670,60,3,6,7,5,0,Traditional consumption and cultural preference during this period
+Wheat,Tamil Nadu,Namakkal,Winter,Rabi,January,2015,Alluvial,High,Lohri,3091,75,4,4,6,4,0,Traditional consumption and cultural preference during this period
+Wheat,Tamil Nadu,Karur,Autumn,Kharif,October,2024,Laterite,High,Navratri,3361,56,3,7,8,8,0,Traditional consumption and cultural preference during this period
+Millet,Tamil Nadu,Theni,Summer,Kharif,June,2015,Black,High,Rath Yatra,1362,80,4,4,3,5,0,Traditional consumption and cultural preference during this period
+Rice,Tamil Nadu,Tiruvarur,Winter,Rabi,January,2011,Laterite,High,Lohri,3999,42,3,3,4,6,0,Staple grain used widely in festive meals and offerings
+Turmeric,Tamil Nadu,Tiruvannamalai,Autumn,Kharif,October,2018,Red,High,Diwali,3045,66,4,8,6,5,0,Traditional consumption and cultural preference during this period
+Sesame,Tamil Nadu,Mayiladuthurai,Autumn,Kharif,October,2021,Black,High,Diwali,810,81,5,4,3,8,0,Traditional consumption and cultural preference during this period
+Sugarcane,Tamil Nadu,Thanjavur,Summer,Kharif,April,2015,Alluvial,High,Vishu,40495,90,5,3,5,5,0,Traditional consumption and cultural preference during this period
+Sesame,Tamil Nadu,Cuddalore,Spring,Rabi,March,2012,Red,High,Holi,994,55,3,5,5,4,0,Traditional consumption and cultural preference during this period
+Sesame,Tamil Nadu,Virudhunagar,Winter,Rabi,January,2013,Laterite,Medium,Pongal,1146,35,2,3,1,5,0,Traditional consumption and cultural preference during this period
+Jasmine,Tamil Nadu,Tiruvallur,Summer,Kharif,April,2018,Black,High,Vishu,2359,62,4,7,5,8,1,Traditional consumption and cultural preference during this period
+Marigold,Tamil Nadu,Kallakurichi,Winter,Rabi,December,2015,Laterite,Medium,Wedding Season,4904,61,4,8,6,7,1,High floral demand for garlands and decorations
+Wheat,Tamil Nadu,Perambalur,Autumn,Kharif,July,2010,Red,High,Rath Yatra,3050,44,3,5,4,5,0,Traditional consumption and cultural preference during this period
+Jasmine,Tamil Nadu,Cuddalore,Summer,Kharif,April,2011,Alluvial,High,Vishu,2550,53,3,6,3,8,1,Traditional consumption and cultural preference during this period
+Cotton,Tamil Nadu,Dindigul,Spring,Rabi,March,2018,Alluvial,High,Ram Navami,816,52,3,5,5,4,0,Traditional consumption and cultural preference during this period
+Jasmine,Tamil Nadu,Tiruvallur,Winter,Rabi,December,2015,Black,High,Christmas,2738,62,4,7,4,8,1,Traditional consumption and cultural preference during this period
+Wheat,Tamil Nadu,Tiruvarur,Winter,Rabi,November,2013,Black,High,Diwali,3155,81,5,6,5,8,0,Traditional consumption and cultural preference during this period
+Cotton,Tamil Nadu,Kancheepuram,Spring,Rabi,March,2015,Red,High,Holi,988,36,2,6,5,6,0,Traditional consumption and cultural preference during this period
+Sugarcane,Tamil Nadu,Chengalpattu,Summer,Kharif,April,2024,Alluvial,High,Vishu,40276,93,5,6,4,7,0,Traditional consumption and cultural preference during this period
+Cotton,Tamil Nadu,Viluppuram,Winter,Rabi,January,2021,Laterite,High,Pongal,746,44,3,4,2,7,0,Traditional consumption and cultural preference during this period
+Marigold,Tamil Nadu,Thanjavur,Summer,Kharif,June,2022,Alluvial,Medium,Rath Yatra,4757,60,3,3,1,5,1,Traditional consumption and cultural preference during this period
+Sugarcane,Tamil Nadu,Thoothukudi,Summer,Kharif,April,2013,Black,High,Vishu,40279,80,4,5,6,4,0,Traditional consumption and cultural preference during this period
+Wheat,Tamil Nadu,Ranipet,Spring,Rabi,March,2010,Red,Medium,Ugadi,3383,62,4,6,3,8,0,Traditional consumption and cultural preference during this period
+Sugarcane,Tamil Nadu,Thoothukudi,Summer,Kharif,April,2012,Red,High,Vishu,40206,96,5,7,7,7,0,Traditional consumption and cultural preference during this period
+Sesame,Tamil Nadu,Dharmapuri,Spring,Rabi,March,2021,Red,High,Holi,1091,47,3,3,3,5,0,Traditional consumption and cultural preference during this period
+Jasmine,Tamil Nadu,Pudukkottai,Winter,Rabi,December,2018,Red,High,Christmas,2729,35,2,3,1,7,1,Traditional consumption and cultural preference during this period
+Wheat,Tamil Nadu,Karur,Autumn,Kharif,October,2024,Red,High,Dussehra,3125,26,2,7,7,8,0,Traditional consumption and cultural preference during this period
+Jasmine,Tamil Nadu,Salem,Winter,Rabi,January,2018,Red,High,Pongal,2253,49,3,9,10,6,1,Traditional consumption and cultural preference during this period
+Jasmine,Tamil Nadu,Tiruvallur,Autumn,Kharif,October,2014,Alluvial,Medium,Diwali,2553,63,4,8,10,5,1,High floral demand for garlands and decorations
+Rice,Tamil Nadu,Ariyalur,Autumn,Kharif,October,2011,Red,High,Dussehra,3970,72,4,5,3,5,0,Staple grain used widely in festive meals and offerings
+Rice,Tamil Nadu,Tirupathur,Winter,Rabi,January,2013,Black,Medium,Lohri,3437,53,3,7,5,5,0,Staple grain used widely in festive meals and offerings
+Sesame,Tamil Nadu,Dindigul,Winter,Rabi,January,2013,Alluvial,High,Lohri,728,48,3,6,6,5,0,Traditional consumption and cultural preference during this period
+Cotton,Tamil Nadu,Tiruchirappalli,Summer,Kharif,April,2023,Red,High,Vishu,599,56,3,5,4,7,0,Traditional consumption and cultural preference during this period
+Rice,Tamil Nadu,Nagapattinam,Spring,Rabi,March,2018,Black,High,Ugadi,3813,48,3,7,6,7,0,Staple grain used widely in festive meals and offerings
+Cotton,Tamil Nadu,Tenkasi,Summer,Kharif,April,2011,Red,High,Vishu,747,70,4,5,4,7,0,Traditional consumption and cultural preference during this period
+Sugarcane,Tamil Nadu,Viluppuram,Spring,Rabi,March,2021,Black,High,Ugadi,40454,71,4,5,5,6,0,Traditional consumption and cultural preference during this period
+Marigold,Tamil Nadu,Chengalpattu,Winter,Rabi,January,2018,Black,High,Makar Sankranti,5113,44,3,8,8,5,1,Traditional consumption and cultural preference during this period
+Rice,Tamil Nadu,Chennai,Winter,Rabi,January,2018,Alluvial,High,Pongal,3669,64,4,8,7,7,0,Staple grain used widely in festive meals and offerings
+Marigold,Tamil Nadu,Thoothukudi,Summer,Kharif,June,2021,Red,High,Rath Yatra,5082,68,4,5,7,4,1,Traditional consumption and cultural preference during this period
+Millet,Tamil Nadu,Tirunelveli,Winter,Rabi,January,2018,Black,High,Lohri,1387,40,2,7,7,4,0,Traditional consumption and cultural preference during this period
+Wheat,Tamil Nadu,Tiruvarur,Winter,Rabi,January,2013,Black,High,Makar Sankranti,3310,62,4,3,5,6,0,Traditional consumption and cultural preference during this period
+Marigold,Tamil Nadu,Kancheepuram,Spring,Rabi,March,2023,Laterite,High,Holi,4958,52,3,9,10,4,1,Traditional consumption and cultural preference during this period
+Rice,Tamil Nadu,Sivaganga,Autumn,Kharif,October,2021,Red,High,Navratri,3734,85,5,9,10,6,0,Staple grain used widely in festive meals and offerings
+Sugarcane,Tamil Nadu,Cuddalore,Spring,Rabi,March,2018,Alluvial,Medium,Holi,40179,58,3,8,6,5,0,Traditional consumption and cultural preference during this period
+Cotton,Tamil Nadu,Dharmapuri,Autumn,Kharif,October,2018,Black,High,Dussehra,707,87,5,7,8,6,0,Traditional consumption and cultural preference during this period
+Sugarcane,Tamil Nadu,Kallakurichi,Winter,Rabi,January,2011,Alluvial,Medium,Makar Sankranti,40162,45,3,8,10,7,0,Harvest festival rituals use sugarcane heavily
+Wheat,Tamil Nadu,Karur,Summer,Kharif,May,2024,Red,High,Wedding Season,3275,54,3,6,8,5,0,Traditional consumption and cultural preference during this period
+Banana,Tamil Nadu,Thanjavur,Autumn,Kharif,July,2012,Black,High,Rath Yatra,3179,53,3,4,2,6,1,Traditional consumption and cultural preference during this period
+Banana,Tamil Nadu,Viluppuram,Autumn,Kharif,July,2023,Red,High,Rath Yatra,3047,59,3,6,6,5,1,Traditional consumption and cultural preference during this period
+Sesame,Tamil Nadu,Tiruvallur,Spring,Rabi,March,2014,Laterite,High,Wedding Season,795,32,2,6,4,4,0,Traditional consumption and cultural preference during this period
+Rice,Tamil Nadu,Viluppuram,Autumn,Kharif,October,2023,Black,High,Diwali,3898,85,5,8,7,6,0,Staple grain used widely in festive meals and offerings
+Rice,Tamil Nadu,Thanjavur,Winter,Rabi,January,2024,Red,High,Pongal,3785,47,3,10,8,6,0,Staple grain used widely in festive meals and offerings
+Groundnut,Tamil Nadu,Vellore,Autumn,Kharif,October,2013,Black,High,Navratri,1143,79,4,7,9,5,0,Traditional consumption and cultural preference during this period
+Groundnut,Tamil Nadu,Virudhunagar,Winter,Rabi,January,2020,Red,High,Lohri,1073,37,2,6,4,7,0,Traditional consumption and cultural preference during this period
+Sesame,Tamil Nadu,Mayiladuthurai,Winter,Rabi,December,2017,Black,High,Christmas,898,38,2,3,2,6,0,Traditional consumption and cultural preference during this period
+Wheat,Tamil Nadu,Virudhunagar,Summer,Kharif,April,2012,Alluvial,Medium,Ram Navami,3073,49,3,6,4,5,0,Traditional consumption and cultural preference during this period
+Sesame,Tamil Nadu,Chengalpattu,Summer,Kharif,April,2013,Black,Medium,Vishu,1111,71,4,6,7,5,0,Traditional consumption and cultural preference during this period
+Sesame,Tamil Nadu,Nilgiris,Winter,Rabi,January,2022,Red,High,Makar Sankranti,1091,57,3,5,3,7,0,Til-based sweets and snacks drive demand
+Sugarcane,Tamil Nadu,Tiruchirappalli,Winter,Rabi,January,2016,Red,High,Lohri,40343,51,3,6,5,7,0,Harvest festival rituals use sugarcane heavily
+Sugarcane,Tamil Nadu,Tiruvannamalai,Spring,Rabi,March,2019,Red,High,Holi,40193,52,3,10,8,8,0,Traditional consumption and cultural preference during this period
+Sesame,Tamil Nadu,Perambalur,Winter,Rabi,January,2020,Black,Medium,Makar Sankranti,887,43,3,6,4,4,0,Til-based sweets and snacks drive demand
+Turmeric,Tamil Nadu,Mayiladuthurai,Winter,Rabi,December,2020,Laterite,High,Christmas,2952,45,3,4,6,6,0,Traditional consumption and cultural preference during this period
+Rice,Tamil Nadu,Chennai,Winter,Rabi,February,2019,Black,Medium,Wedding Season,3392,63,4,8,10,6,0,Staple grain used widely in festive meals and offerings
+Sugarcane,Tamil Nadu,Vellore,Winter,Rabi,January,2021,Laterite,High,Makar Sankranti,40394,53,3,10,9,6,0,Harvest festival rituals use sugarcane heavily
+Marigold,Tamil Nadu,Tiruvallur,Autumn,Kharif,October,2013,Red,Medium,Dussehra,4844,71,4,6,8,6,1,High floral demand for garlands and decorations
+Sugarcane,Tamil Nadu,Perambalur,Summer,Kharif,April,2016,Red,High,Ugadi,40080,77,4,7,6,8,0,Traditional consumption and cultural preference during this period
+Wheat,Tamil Nadu,Viluppuram,Summer,Kharif,April,2024,Laterite,Medium,Wedding Season,3042,26,2,5,5,5,0,Traditional consumption and cultural preference during this period
+Turmeric,Tamil Nadu,Tiruvarur,Winter,Rabi,January,2016,Alluvial,High,Pongal,2848,37,2,8,6,8,0,Turmeric used in auspicious rituals and ceremonies
+Banana,Tamil Nadu,Tirupathur,Winter,Rabi,November,2013,Red,High,Diwali,2834,50,3,8,7,4,1,Traditional consumption and cultural preference during this period
+Marigold,Tamil Nadu,Coimbatore,Spring,Rabi,March,2021,Red,High,Ugadi,4904,34,2,7,6,5,1,Traditional consumption and cultural preference during this period
+Banana,Tamil Nadu,Dindigul,Summer,Kharif,April,2022,Red,High,Ugadi,2998,58,3,4,6,6,1,Traditional consumption and cultural preference during this period
+Groundnut,Tamil Nadu,Tirupathur,Summer,Kharif,April,2019,Red,High,Vishu,1193,70,4,6,5,5,0,Traditional consumption and cultural preference during this period
+Rice,Tamil Nadu,Cuddalore,Winter,Rabi,December,2016,Red,Medium,Wedding Season,3254,46,3,10,9,8,0,Staple grain used widely in festive meals and offerings
+Marigold,Tamil Nadu,Chennai,Autumn,Kharif,July,2022,Red,High,Rath Yatra,5099,86,5,4,5,5,1,Traditional consumption and cultural preference during this period
+Rice,Tamil Nadu,Coimbatore,Autumn,Kharif,October,2011,Red,High,Dussehra,3623,84,5,6,5,7,0,Staple grain used widely in festive meals and offerings
+Rice,Tamil Nadu,Salem,Winter,Rabi,January,2021,Red,High,Pongal,3587,50,3,8,9,5,0,Staple grain used widely in festive meals and offerings
+Jasmine,Tamil Nadu,Karur,Spring,Rabi,March,2011,Laterite,Medium,Holi,2388,39,2,8,6,5,1,Traditional consumption and cultural preference during this period
+Banana,Tamil Nadu,Karur,Summer,Kharif,April,2017,Red,High,Ram Navami,3035,89,5,4,5,8,1,Traditional consumption and cultural preference during this period
+Sugarcane,Tamil Nadu,Tiruppur,Spring,Rabi,March,2018,Red,High,Ugadi,40171,49,3,4,6,4,0,Traditional consumption and cultural preference during this period
+Jasmine,Tamil Nadu,Cuddalore,Autumn,Kharif,July,2018,Alluvial,High,Rath Yatra,2570,75,4,3,2,4,1,Traditional consumption and cultural preference during this period
+Cotton,Tamil Nadu,Perambalur,Winter,Rabi,January,2022,Laterite,Medium,Lohri,709,34,2,3,3,7,0,Traditional consumption and cultural preference during this period
+Jasmine,Tamil Nadu,Ramanathapuram,Spring,Rabi,March,2017,Black,High,Holi,2665,39,2,10,9,4,1,Traditional consumption and cultural preference during this period
+Cotton,Tamil Nadu,Namakkal,Winter,Rabi,January,2015,Laterite,Medium,Lohri,1047,53,3,5,5,8,0,Traditional consumption and cultural preference during this period
+Cotton,Tamil Nadu,Salem,Winter,Rabi,January,2017,Red,High,Makar Sankranti,887,39,2,7,5,8,0,Traditional consumption and cultural preference during this period
+Rice,Tamil Nadu,Nagapattinam,Winter,Rabi,November,2022,Red,Medium,Diwali,3364,51,3,10,10,6,0,Staple grain used widely in festive meals and offerings
+Turmeric,Tamil Nadu,Coimbatore,Autumn,Kharif,July,2012,Red,High,Rath Yatra,2774,65,4,3,4,5,0,Traditional consumption and cultural preference during this period
+Sugarcane,Tamil Nadu,Tiruppur,Autumn,Kharif,July,2015,Black,High,Rath Yatra,40452,81,5,6,5,5,0,Traditional consumption and cultural preference during this period
+Wheat,Tamil Nadu,Dindigul,Summer,Kharif,June,2010,Laterite,High,Rath Yatra,3210,51,3,6,8,4,0,Traditional consumption and cultural preference during this period
+Groundnut,Tamil Nadu,Nagapattinam,Autumn,Kharif,October,2010,Laterite,Medium,Navratri,951,77,4,3,1,8,0,Traditional consumption and cultural preference during this period
+Turmeric,Tamil Nadu,Thoothukudi,Autumn,Kharif,October,2014,Laterite,High,Dussehra,2811,54,3,6,8,5,0,Traditional consumption and cultural preference during this period
+Banana,Tamil Nadu,Salem,Autumn,Kharif,October,2015,Laterite,High,Dussehra,3091,53,3,4,4,4,1,Traditional consumption and cultural preference during this period
+Turmeric,Tamil Nadu,Nilgiris,Autumn,Kharif,October,2019,Red,Medium,Diwali,2731,60,3,10,10,5,0,Traditional consumption and cultural preference during this period
+Sugarcane,Tamil Nadu,Namakkal,Winter,Rabi,January,2020,Red,Medium,Makar Sankranti,40226,45,3,10,9,4,0,Harvest festival rituals use sugarcane heavily
+Jasmine,Tamil Nadu,Dindigul,Autumn,Kharif,October,2023,Red,High,Navratri,2416,80,4,8,8,8,1,High floral demand for garlands and decorations
+Marigold,Tamil Nadu,Dindigul,Summer,Kharif,April,2019,Red,High,Vishu,4928,71,4,5,6,4,1,Traditional consumption and cultural preference during this period
+Millet,Tamil Nadu,Tiruvannamalai,Summer,Kharif,April,2012,Alluvial,High,Vishu,1693,65,4,7,5,5,0,Traditional consumption and cultural preference during this period
+Cotton,Tamil Nadu,Tirupathur,Autumn,Kharif,October,2017,Red,High,Navratri,639,59,3,5,7,6,0,Used for diya wicks and traditional textiles
+Banana,Tamil Nadu,Tiruvallur,Spring,Rabi,March,2010,Alluvial,High,Holi,2972,47,3,9,10,7,1,Traditional consumption and cultural preference during this period
+Wheat,Tamil Nadu,Nagapattinam,Autumn,Kharif,July,2011,Red,High,Rath Yatra,2950,52,3,5,5,6,0,Traditional consumption and cultural preference during this period
+Rice,Tamil Nadu,Mayiladuthurai,Autumn,Kharif,October,2013,Alluvial,Medium,Navratri,3525,87,5,9,7,8,0,Staple grain used widely in festive meals and offerings
+Turmeric,Tamil Nadu,Nagapattinam,Summer,Kharif,April,2020,Red,High,Vishu,2744,78,4,7,8,4,0,Traditional consumption and cultural preference during this period
+Millet,Tamil Nadu,Theni,Summer,Kharif,April,2018,Black,High,Ugadi,1474,59,3,3,2,4,0,Traditional consumption and cultural preference during this period
+Groundnut,Tamil Nadu,Tiruppur,Winter,Rabi,January,2019,Red,High,Lohri,1004,58,3,4,4,6,0,Traditional consumption and cultural preference during this period
+Wheat,Tamil Nadu,Dindigul,Autumn,Kharif,October,2018,Laterite,Medium,Navratri,3395,32,2,5,3,8,0,Traditional consumption and cultural preference during this period
+Wheat,Tamil Nadu,Virudhunagar,Autumn,Kharif,October,2017,Alluvial,High,Navratri,3165,35,2,5,5,4,0,Traditional consumption and cultural preference during this period
+Cotton,Tamil Nadu,Tirunelveli,Summer,Kharif,April,2020,Alluvial,High,Ram Navami,562,74,4,7,9,4,0,Traditional consumption and cultural preference during this period
+Sesame,Tamil Nadu,Karur,Autumn,Kharif,October,2016,Red,High,Diwali,1084,74,4,5,4,8,0,Traditional consumption and cultural preference during this period
+Millet,Tamil Nadu,Krishnagiri,Winter,Rabi,December,2016,Laterite,High,Christmas,1440,32,2,4,1,8,0,Traditional consumption and cultural preference during this period
+Sesame,Tamil Nadu,Tiruvallur,Winter,Rabi,November,2017,Laterite,Medium,Diwali,836,32,2,7,8,5,0,Traditional consumption and cultural preference during this period
+Groundnut,Tamil Nadu,Vellore,Autumn,Kharif,October,2024,Alluvial,High,Diwali,1332,74,4,5,7,7,0,Traditional consumption and cultural preference during this period
+Marigold,Tamil Nadu,Tiruchirappalli,Spring,Rabi,March,2013,Red,High,Holi,5143,38,2,9,10,7,1,Traditional consumption and cultural preference during this period
+Banana,Tamil Nadu,Madurai,Autumn,Kharif,July,2017,Red,High,Rath Yatra,3013,60,3,3,3,6,1,Traditional consumption and cultural preference during this period
+Cotton,Tamil Nadu,Karur,Winter,Rabi,November,2012,Laterite,Medium,Diwali,720,29,2,6,7,5,0,Used for diya wicks and traditional textiles
+Groundnut,Tamil Nadu,Tirupathur,Winter,Rabi,December,2017,Laterite,Medium,Christmas,1310,37,2,4,5,6,0,Traditional consumption and cultural preference during this period
+Turmeric,Tamil Nadu,Tiruchirappalli,Winter,Rabi,December,2022,Black,High,Christmas,2847,33,2,6,7,8,0,Traditional consumption and cultural preference during this period
+Rice,Tamil Nadu,Mayiladuthurai,Winter,Rabi,January,2018,Red,High,Makar Sankranti,4024,57,3,10,9,8,0,Staple grain used widely in festive meals and offerings
+Turmeric,Tamil Nadu,Tiruvannamalai,Winter,Rabi,January,2023,Black,High,Lohri,2694,41,3,3,1,7,0,Traditional consumption and cultural preference during this period
+Turmeric,Tamil Nadu,Tirunelveli,Winter,Rabi,January,2021,Black,High,Pongal,2692,57,3,8,9,4,0,Turmeric used in auspicious rituals and ceremonies
+Turmeric,Tamil Nadu,Coimbatore,Autumn,Kharif,October,2019,Black,Medium,Diwali,2754,80,4,10,10,6,0,Traditional consumption and cultural preference during this period
+Groundnut,Tamil Nadu,Dindigul,Autumn,Kharif,October,2019,Black,High,Dussehra,1168,74,4,5,3,5,0,Traditional consumption and cultural preference during this period
+Millet,Tamil Nadu,Kancheepuram,Summer,Kharif,April,2013,Alluvial,High,Ram Navami,1471,77,4,7,5,6,0,Traditional consumption and cultural preference during this period
+Banana,Tamil Nadu,Tirupathur,Spring,Rabi,March,2012,Alluvial,High,Ram Navami,3129,46,3,4,2,7,1,Traditional consumption and cultural preference during this period
+Millet,Tamil Nadu,Chennai,Winter,Rabi,December,2021,Red,High,Christmas,1469,39,2,5,6,7,0,Traditional consumption and cultural preference during this period
+Banana,Tamil Nadu,Nagapattinam,Spring,Rabi,March,2016,Red,High,Holi,3008,52,3,9,8,4,1,Traditional consumption and cultural preference during this period
+Turmeric,Tamil Nadu,Dharmapuri,Winter,Rabi,January,2020,Laterite,Medium,Lohri,2726,41,3,7,6,7,0,Traditional consumption and cultural preference during this period
+Sesame,Tamil Nadu,Dharmapuri,Summer,Kharif,June,2024,Alluvial,Medium,Rath Yatra,1061,61,4,6,5,4,0,Traditional consumption and cultural preference during this period
+Cotton,Tamil Nadu,Ranipet,Summer,Kharif,April,2021,Laterite,High,Vishu,799,74,4,3,3,8,0,Traditional consumption and cultural preference during this period
+Wheat,Tamil Nadu,Thoothukudi,Autumn,Kharif,October,2014,Red,High,Dussehra,3260,52,3,4,6,5,0,Traditional consumption and cultural preference during this period
+Millet,Tamil Nadu,Viluppuram,Spring,Rabi,March,2013,Red,High,Holi,1718,58,3,4,5,5,0,Traditional consumption and cultural preference during this period
+Turmeric,Tamil Nadu,Karur,Spring,Rabi,March,2015,Laterite,High,Holi,2823,56,3,8,6,7,0,Traditional consumption and cultural preference during this period
+Jasmine,Tamil Nadu,Dharmapuri,Spring,Rabi,March,2012,Laterite,High,Holi,2430,58,3,8,9,4,1,Traditional consumption and cultural preference during this period
+Marigold,Tamil Nadu,Mayiladuthurai,Winter,Rabi,December,2010,Laterite,High,Christmas,4791,35,2,4,3,4,1,Traditional consumption and cultural preference during this period
+Marigold,Tamil Nadu,Ranipet,Autumn,Kharif,October,2020,Alluvial,High,Dussehra,5208,75,4,4,6,7,1,High floral demand for garlands and decorations
+Groundnut,Tamil Nadu,Nagapattinam,Spring,Rabi,March,2012,Red,High,Ram Navami,1256,41,3,3,2,6,0,Traditional consumption and cultural preference during this period
+Millet,Tamil Nadu,Karur,Winter,Rabi,January,2013,Red,High,Lohri,1576,56,3,4,1,8,0,Traditional consumption and cultural preference during this period
+Wheat,Tamil Nadu,Dharmapuri,Summer,Kharif,April,2017,Red,Medium,Ugadi,3273,34,2,6,5,6,0,Traditional consumption and cultural preference during this period
+Millet,Tamil Nadu,Virudhunagar,Spring,Rabi,March,2011,Laterite,Medium,Holi,1443,47,3,4,5,5,0,Traditional consumption and cultural preference during this period
+Rice,Tamil Nadu,Theni,Spring,Rabi,March,2016,Red,High,Ram Navami,3830,52,3,6,7,8,0,Staple grain used widely in festive meals and offerings
+Groundnut,Tamil Nadu,Chennai,Summer,Kharif,April,2016,Laterite,High,Ugadi,1341,61,4,3,5,7,0,Traditional consumption and cultural preference during this period
+Wheat,Tamil Nadu,Namakkal,Autumn,Kharif,July,2010,Alluvial,Medium,Rath Yatra,3331,32,2,5,7,5,0,Traditional consumption and cultural preference during this period
+Millet,Tamil Nadu,Kancheepuram,Spring,Rabi,March,2024,Laterite,Medium,Holi,1723,54,3,6,4,7,0,Traditional consumption and cultural preference during this period
+Rice,Tamil Nadu,Ramanathapuram,Summer,Kharif,April,2019,Red,High,Vishu,3653,80,4,3,4,4,0,Staple grain used widely in festive meals and offerings
+Marigold,Tamil Nadu,Viluppuram,Autumn,Kharif,October,2019,Red,High,Diwali,4756,58,3,10,9,6,1,High floral demand for garlands and decorations
+Turmeric,Tamil Nadu,Pudukkottai,Summer,Kharif,April,2016,Alluvial,High,Ugadi,3008,58,3,3,2,5,0,Traditional consumption and cultural preference during this period
+Cotton,Tamil Nadu,Mayiladuthurai,Spring,Rabi,March,2013,Red,High,Holi,650,35,2,4,2,7,0,Traditional consumption and cultural preference during this period
+Turmeric,Tamil Nadu,Chengalpattu,Summer,Kharif,April,2023,Laterite,High,Ugadi,2929,73,4,7,5,5,0,Traditional consumption and cultural preference during this period
+Rice,Tamil Nadu,Tirunelveli,Winter,Rabi,December,2024,Red,High,Christmas,3611,38,2,3,5,5,0,Staple grain used widely in festive meals and offerings
+Marigold,Tamil Nadu,Nilgiris,Summer,Kharif,June,2019,Laterite,High,Rath Yatra,5217,71,4,7,6,8,1,Traditional consumption and cultural preference during this period
+Groundnut,Tamil Nadu,Perambalur,Winter,Rabi,January,2015,Alluvial,Medium,Pongal,1311,45,3,3,1,7,0,Traditional consumption and cultural preference during this period
+Marigold,Tamil Nadu,Madurai,Summer,Kharif,April,2022,Red,High,Ugadi,5154,69,4,4,5,6,1,Traditional consumption and cultural preference during this period
+Turmeric,Tamil Nadu,Viluppuram,Spring,Rabi,March,2015,Laterite,Medium,Holi,2858,31,2,8,7,8,0,Traditional consumption and cultural preference during this period
+Rice,Tamil Nadu,Krishnagiri,Spring,Rabi,March,2019,Red,Medium,Ugadi,3476,46,3,5,7,5,0,Staple grain used widely in festive meals and offerings
+Turmeric,Tamil Nadu,Dharmapuri,Winter,Rabi,December,2018,Red,High,Christmas,2765,57,3,3,2,8,0,Traditional consumption and cultural preference during this period
+Sugarcane,Tamil Nadu,Sivaganga,Winter,Rabi,January,2021,Red,Medium,Makar Sankranti,39872,37,2,8,9,5,0,Harvest festival rituals use sugarcane heavily
+Wheat,Tamil Nadu,Kancheepuram,Winter,Rabi,November,2014,Alluvial,High,Diwali,3236,75,4,3,3,5,0,Traditional consumption and cultural preference during this period
+Sugarcane,Tamil Nadu,Salem,Autumn,Kharif,October,2015,Black,Medium,Dussehra,40013,59,3,4,5,7,0,Traditional consumption and cultural preference during this period
+Marigold,Tamil Nadu,Mayiladuthurai,Winter,Rabi,December,2018,Black,High,Christmas,5050,53,3,5,3,8,1,Traditional consumption and cultural preference during this period
+Banana,Tamil Nadu,Chengalpattu,Winter,Rabi,January,2014,Red,High,Makar Sankranti,3181,28,2,9,10,8,1,Traditional consumption and cultural preference during this period
+Groundnut,Tamil Nadu,Ariyalur,Summer,Kharif,April,2024,Black,High,Wedding Season,1359,68,4,3,3,5,0,Traditional consumption and cultural preference during this period
+Wheat,Tamil Nadu,Cuddalore,Autumn,Kharif,October,2024,Black,High,Navratri,3300,34,2,3,5,7,0,Traditional consumption and cultural preference during this period
+Turmeric,Tamil Nadu,Dindigul,Spring,Rabi,March,2020,Red,High,Holi,2701,40,2,9,9,7,0,Traditional consumption and cultural preference during this period
+Rice,Tamil Nadu,Nilgiris,Spring,Rabi,March,2011,Black,Medium,Holi,3272,47,3,10,10,7,0,Staple grain used widely in festive meals and offerings
+Wheat,Tamil Nadu,Tiruppur,Autumn,Kharif,October,2023,Laterite,Medium,Navratri,3016,52,3,7,6,8,0,Traditional consumption and cultural preference during this period
+Sugarcane,Tamil Nadu,Tenkasi,Summer,Kharif,April,2024,Alluvial,High,Ugadi,40204,92,5,4,2,7,0,Traditional consumption and cultural preference during this period
+Millet,Tamil Nadu,Tiruchirappalli,Autumn,Kharif,July,2010,Black,Medium,Rath Yatra,1522,76,4,3,3,7,0,Traditional consumption and cultural preference during this period
+Sugarcane,Tamil Nadu,Vellore,Summer,Kharif,April,2016,Black,High,Vishu,40432,62,4,4,5,4,0,Traditional consumption and cultural preference during this period
+Jasmine,Tamil Nadu,Karur,Winter,Rabi,December,2013,Red,High,Christmas,2316,37,2,6,8,4,1,Traditional consumption and cultural preference during this period
+Wheat,Tamil Nadu,Karur,Summer,Kharif,April,2021,Red,High,Vishu,3302,26,2,3,2,6,0,Traditional consumption and cultural preference during this period
+Wheat,Tamil Nadu,Sivaganga,Winter,Rabi,November,2010,Red,High,Diwali,3121,68,4,3,2,4,0,Traditional consumption and cultural preference during this period
+Rice,Tamil Nadu,Virudhunagar,Summer,Kharif,June,2011,Alluvial,High,Rath Yatra,3754,76,4,6,4,7,0,Staple grain used widely in festive meals and offerings
+Jasmine,Tamil Nadu,Tiruppur,Autumn,Kharif,October,2020,Laterite,High,Dussehra,2386,77,4,4,6,7,1,High floral demand for garlands and decorations
+Banana,Tamil Nadu,Tirunelveli,Winter,Rabi,January,2010,Black,High,Pongal,2785,61,4,9,7,7,1,Banana fruits and leaves used in rituals and feasts
+Turmeric,Tamil Nadu,Theni,Spring,Rabi,March,2023,Alluvial,High,Ram Navami,2776,29,2,7,5,8,0,Traditional consumption and cultural preference during this period
+Sugarcane,Tamil Nadu,Tenkasi,Winter,Rabi,December,2010,Black,High,Christmas,40243,62,4,7,5,8,0,Traditional consumption and cultural preference during this period
+Groundnut,Tamil Nadu,Perambalur,Winter,Rabi,November,2015,Alluvial,High,Wedding Season,1251,41,3,5,6,8,0,Traditional consumption and cultural preference during this period
+Jasmine,Tamil Nadu,Ariyalur,Spring,Rabi,March,2022,Alluvial,High,Holi,2748,37,2,10,8,8,1,Traditional consumption and cultural preference during this period
+Wheat,Tamil Nadu,Kallakurichi,Summer,Kharif,April,2010,Alluvial,High,Ugadi,3186,36,2,4,5,6,0,Traditional consumption and cultural preference during this period
+Sesame,Tamil Nadu,Nilgiris,Autumn,Kharif,October,2019,Red,High,Navratri,724,62,4,4,3,6,0,Traditional consumption and cultural preference during this period
+Rice,Tamil Nadu,Vellore,Winter,Rabi,November,2010,Laterite,High,Diwali,3995,51,3,8,9,4,0,Staple grain used widely in festive meals and offerings
+Wheat,Tamil Nadu,Tiruvallur,Winter,Rabi,January,2024,Black,Medium,Makar Sankranti,3151,73,4,3,3,8,0,Traditional consumption and cultural preference during this period
+Wheat,Tamil Nadu,Chengalpattu,Summer,Kharif,May,2022,Black,High,Wedding Season,3138,50,3,5,5,7,0,Traditional consumption and cultural preference during this period
+Wheat,Tamil Nadu,Salem,Winter,Rabi,December,2020,Red,High,Christmas,3016,72,4,3,4,6,0,Traditional consumption and cultural preference during this period
+Wheat,Tamil Nadu,Karur,Winter,Rabi,December,2024,Alluvial,Medium,Christmas,2998,78,4,5,7,7,0,Traditional consumption and cultural preference during this period
+Turmeric,Tamil Nadu,Tiruppur,Autumn,Kharif,July,2022,Laterite,High,Rath Yatra,2854,60,3,4,6,6,0,Traditional consumption and cultural preference during this period
+Groundnut,Tamil Nadu,Pudukkottai,Autumn,Kharif,October,2021,Alluvial,High,Diwali,1084,70,4,3,4,8,0,Traditional consumption and cultural preference during this period
+Wheat,Tamil Nadu,Kancheepuram,Autumn,Kharif,October,2015,Alluvial,High,Navratri,3217,54,3,5,5,8,0,Traditional consumption and cultural preference during this period
+Rice,Tamil Nadu,Karur,Winter,Rabi,January,2020,Alluvial,High,Makar Sankranti,3699,67,4,8,8,7,0,Staple grain used widely in festive meals and offerings
+Jasmine,Tamil Nadu,Thoothukudi,Winter,Rabi,December,2017,Black,High,Wedding Season,2327,39,2,10,10,5,1,High floral demand for garlands and decorations
+Sugarcane,Tamil Nadu,Krishnagiri,Summer,Kharif,May,2015,Alluvial,Medium,Wedding Season,39923,79,4,9,8,7,0,Traditional consumption and cultural preference during this period
+Wheat,Tamil Nadu,Theni,Winter,Rabi,January,2017,Alluvial,Medium,Lohri,3079,77,4,4,3,5,0,Traditional consumption and cultural preference during this period
+Groundnut,Tamil Nadu,Salem,Spring,Rabi,March,2021,Red,Medium,Ram Navami,1255,42,3,5,6,7,0,Traditional consumption and cultural preference during this period
+Cotton,Tamil Nadu,Tiruvarur,Autumn,Kharif,October,2018,Laterite,Medium,Dussehra,767,78,4,6,3,8,0,Traditional consumption and cultural preference during this period
+Jasmine,Tamil Nadu,Tiruvannamalai,Autumn,Kharif,October,2010,Alluvial,Medium,Dussehra,2553,57,3,6,6,4,1,High floral demand for garlands and decorations
+Sugarcane,Tamil Nadu,Theni,Spring,Rabi,March,2012,Alluvial,Medium,Wedding Season,40020,48,3,10,10,7,0,Traditional consumption and cultural preference during this period
+Cotton,Tamil Nadu,Tiruvarur,Summer,Kharif,June,2013,Red,High,Rath Yatra,890,63,4,3,2,4,0,Traditional consumption and cultural preference during this period
+Rice,Tamil Nadu,Tiruvallur,Spring,Rabi,March,2018,Alluvial,Medium,Ugadi,3297,37,2,7,5,5,0,Staple grain used widely in festive meals and offerings
+Groundnut,Tamil Nadu,Tirupathur,Winter,Rabi,December,2010,Laterite,High,Christmas,1067,48,3,3,2,8,0,Traditional consumption and cultural preference during this period
+Jasmine,Tamil Nadu,Virudhunagar,Autumn,Kharif,July,2019,Black,Medium,Rath Yatra,2481,63,4,7,5,5,1,Traditional consumption and cultural preference during this period
+Sugarcane,Tamil Nadu,Erode,Winter,Rabi,January,2016,Red,Medium,Lohri,40065,50,3,3,4,6,0,Harvest festival rituals use sugarcane heavily
+Turmeric,Tamil Nadu,Nilgiris,Winter,Rabi,November,2016,Laterite,Medium,Diwali,2605,43,3,8,6,8,0,Traditional consumption and cultural preference during this period
+Millet,Tamil Nadu,Perambalur,Winter,Rabi,December,2022,Alluvial,High,Christmas,1462,42,3,6,4,8,0,Traditional consumption and cultural preference during this period
+Marigold,Tamil Nadu,Tenkasi,Spring,Rabi,March,2019,Alluvial,High,Holi,4852,58,3,10,10,4,1,Traditional consumption and cultural preference during this period
+Turmeric,Tamil Nadu,Virudhunagar,Summer,Kharif,April,2019,Alluvial,High,Ram Navami,3023,82,5,4,4,6,0,Traditional consumption and cultural preference during this period
+Banana,Tamil Nadu,Perambalur,Winter,Rabi,January,2022,Laterite,High,Lohri,2979,31,2,6,7,8,1,Traditional consumption and cultural preference during this period
+Marigold,Tamil Nadu,Chennai,Autumn,Kharif,October,2022,Black,High,Dussehra,5023,60,3,3,2,6,1,High floral demand for garlands and decorations
+Banana,Tamil Nadu,Chengalpattu,Winter,Rabi,December,2012,Red,High,Christmas,2772,44,3,3,1,5,1,Traditional consumption and cultural preference during this period
+Sugarcane,Tamil Nadu,Chennai,Winter,Rabi,November,2022,Red,High,Diwali,40461,64,4,8,6,5,0,Traditional consumption and cultural preference during this period
+Sesame,Tamil Nadu,Tiruvannamalai,Winter,Rabi,January,2019,Alluvial,Medium,Makar Sankranti,865,40,2,6,5,8,0,Til-based sweets and snacks drive demand
+Rice,Tamil Nadu,Nagapattinam,Winter,Rabi,November,2023,Red,Medium,Diwali,3430,46,3,8,10,7,0,Staple grain used widely in festive meals and offerings
+Marigold,Tamil Nadu,Theni,Winter,Rabi,January,2013,Laterite,High,Pongal,4784,36,2,9,8,6,1,Traditional consumption and cultural preference during this period
+Jasmine,Tamil Nadu,Kancheepuram,Autumn,Kharif,October,2012,Red,Medium,Dussehra,2286,77,4,4,3,6,1,High floral demand for garlands and decorations
+Groundnut,Tamil Nadu,Chennai,Winter,Rabi,January,2010,Black,Medium,Makar Sankranti,1029,34,2,5,6,7,0,Traditional consumption and cultural preference during this period
+Wheat,Tamil Nadu,Pudukkottai,Winter,Rabi,January,2022,Laterite,High,Makar Sankranti,3057,55,3,5,6,7,0,Traditional consumption and cultural preference during this period
+Banana,Tamil Nadu,Ranipet,Summer,Kharif,April,2016,Black,Medium,Ugadi,3056,83,5,7,6,5,1,Traditional consumption and cultural preference during this period
+Wheat,Tamil Nadu,Tirunelveli,Spring,Rabi,March,2013,Red,Medium,Ram Navami,3117,72,4,7,8,7,0,Traditional consumption and cultural preference during this period
+Groundnut,Tamil Nadu,Thanjavur,Winter,Rabi,January,2024,Red,High,Makar Sankranti,1202,45,3,3,1,8,0,Traditional consumption and cultural preference during this period
+Groundnut,Tamil Nadu,Tiruvannamalai,Winter,Rabi,January,2020,Alluvial,High,Pongal,1145,57,3,5,7,7,0,Traditional consumption and cultural preference during this period
+Banana,Tamil Nadu,Ranipet,Winter,Rabi,January,2011,Alluvial,High,Lohri,2804,35,2,5,6,7,1,Traditional consumption and cultural preference during this period
+Cotton,Tamil Nadu,Tiruvallur,Autumn,Kharif,October,2024,Red,High,Diwali,864,87,5,7,6,6,0,Used for diya wicks and traditional textiles
+Jasmine,Tamil Nadu,Tiruvarur,Summer,Kharif,April,2021,Red,High,Wedding Season,2602,72,4,10,10,5,1,High floral demand for garlands and decorations
+Sugarcane,Tamil Nadu,Chennai,Summer,Kharif,June,2022,Red,High,Rath Yatra,40156,84,5,4,4,8,0,Traditional consumption and cultural preference during this period
+Marigold,Tamil Nadu,Nilgiris,Summer,Kharif,April,2021,Red,High,Vishu,4849,78,4,4,5,7,1,Traditional consumption and cultural preference during this period
+Jasmine,Tamil Nadu,Mayiladuthurai,Summer,Kharif,June,2023,Black,High,Rath Yatra,2688,61,4,3,2,7,1,Traditional consumption and cultural preference during this period
+Cotton,Tamil Nadu,Kancheepuram,Winter,Rabi,January,2012,Red,High,Lohri,762,39,2,5,4,5,0,Traditional consumption and cultural preference during this period
+Marigold,Tamil Nadu,Kallakurichi,Spring,Rabi,March,2016,Laterite,High,Holi,4917,33,2,10,10,6,1,Traditional consumption and cultural preference during this period
+Cotton,Tamil Nadu,Kancheepuram,Summer,Kharif,April,2018,Red,High,Vishu,761,74,4,4,4,6,0,Traditional consumption and cultural preference during this period
+Jasmine,Tamil Nadu,Ramanathapuram,Spring,Rabi,March,2015,Black,High,Holi,2523,43,3,9,10,4,1,Traditional consumption and cultural preference during this period
+Sugarcane,Tamil Nadu,Tenkasi,Autumn,Kharif,July,2014,Black,Medium,Rath Yatra,40247,81,5,4,4,5,0,Traditional consumption and cultural preference during this period
+Millet,Tamil Nadu,Namakkal,Summer,Kharif,April,2018,Laterite,High,Ugadi,1392,75,4,6,4,5,0,Traditional consumption and cultural preference during this period
+Turmeric,Tamil Nadu,Tirunelveli,Autumn,Kharif,October,2021,Red,Medium,Dussehra,2848,76,4,4,4,6,0,Traditional consumption and cultural preference during this period
+Sugarcane,Tamil Nadu,Tenkasi,Winter,Rabi,January,2020,Laterite,Medium,Lohri,39838,45,3,3,3,6,0,Harvest festival rituals use sugarcane heavily
+Turmeric,Tamil Nadu,Tiruppur,Summer,Kharif,June,2011,Alluvial,High,Rath Yatra,2648,86,5,3,4,6,0,Traditional consumption and cultural preference during this period
+Turmeric,Tamil Nadu,Tiruvallur,Winter,Rabi,November,2022,Black,High,Diwali,2560,51,3,10,10,7,0,Traditional consumption and cultural preference during this period
+Wheat,Tamil Nadu,Salem,Winter,Rabi,January,2023,Black,Medium,Pongal,3411,73,4,3,2,4,0,Traditional consumption and cultural preference during this period
+Marigold,Tamil Nadu,Nagapattinam,Autumn,Kharif,October,2016,Alluvial,High,Diwali,5184,75,4,8,9,4,1,High floral demand for garlands and decorations
+Wheat,Tamil Nadu,Dharmapuri,Autumn,Kharif,July,2015,Laterite,High,Rath Yatra,3070,48,3,5,6,7,0,Traditional consumption and cultural preference during this period
+Banana,Tamil Nadu,Krishnagiri,Summer,Kharif,June,2019,Red,High,Rath Yatra,3048,86,5,4,6,4,1,Traditional consumption and cultural preference during this period
+Groundnut,Tamil Nadu,Mayiladuthurai,Spring,Rabi,March,2012,Laterite,High,Ugadi,996,38,2,4,4,6,0,Traditional consumption and cultural preference during this period
+Cotton,Tamil Nadu,Pudukkottai,Summer,Kharif,April,2017,Black,Medium,Vishu,1008,95,5,7,7,6,0,Traditional consumption and cultural preference during this period
+Turmeric,Tamil Nadu,Ranipet,Winter,Rabi,January,2011,Alluvial,High,Pongal,2568,39,2,8,9,4,0,Turmeric used in auspicious rituals and ceremonies
+Jasmine,Tamil Nadu,Nilgiris,Autumn,Kharif,July,2023,Alluvial,High,Rath Yatra,2418,69,4,3,1,6,1,Traditional consumption and cultural preference during this period
+Marigold,Tamil Nadu,Erode,Winter,Rabi,January,2012,Black,High,Pongal,4750,46,3,10,8,4,1,Traditional consumption and cultural preference during this period
+Sugarcane,Tamil Nadu,Tirupathur,Spring,Rabi,March,2014,Red,High,Holi,40103,47,3,8,8,5,0,Traditional consumption and cultural preference during this period
+Groundnut,Tamil Nadu,Viluppuram,Winter,Rabi,January,2015,Red,High,Pongal,1097,43,3,3,3,8,0,Traditional consumption and cultural preference during this period
+Turmeric,Tamil Nadu,Mayiladuthurai,Winter,Rabi,February,2010,Black,High,Wedding Season,2897,38,2,10,10,6,0,Turmeric used in auspicious rituals and ceremonies
+Groundnut,Tamil Nadu,Ariyalur,Autumn,Kharif,October,2014,Red,High,Dussehra,1156,75,4,4,3,7,0,Traditional consumption and cultural preference during this period
+Marigold,Tamil Nadu,Kancheepuram,Autumn,Kharif,October,2014,Alluvial,High,Diwali,5008,71,4,8,7,5,1,High floral demand for garlands and decorations
+Rice,Tamil Nadu,Theni,Autumn,Kharif,October,2016,Red,High,Navratri,3720,91,5,9,9,7,0,Staple grain used widely in festive meals and offerings
+Banana,Tamil Nadu,Tiruchirappalli,Winter,Rabi,January,2020,Alluvial,High,Pongal,2979,36,2,8,9,5,1,Banana fruits and leaves used in rituals and feasts
+Rice,Tamil Nadu,Ranipet,Autumn,Kharif,October,2015,Red,High,Dussehra,3816,77,4,5,7,6,0,Staple grain used widely in festive meals and offerings
+Sesame,Tamil Nadu,Dindigul,Winter,Rabi,December,2010,Laterite,Medium,Christmas,949,28,2,3,1,8,0,Traditional consumption and cultural preference during this period
+Wheat,Tamil Nadu,Vellore,Spring,Rabi,March,2015,Red,High,Wedding Season,3406,59,3,3,1,6,0,Traditional consumption and cultural preference during this period
+Sugarcane,Tamil Nadu,Tiruvallur,Summer,Kharif,April,2018,Red,High,Vishu,40166,76,4,5,5,7,0,Traditional consumption and cultural preference during this period
+Wheat,Tamil Nadu,Tiruchirappalli,Winter,Rabi,January,2019,Red,Medium,Makar Sankranti,3094,80,4,6,8,6,0,Traditional consumption and cultural preference during this period
+Banana,Tamil Nadu,Chennai,Summer,Kharif,April,2022,Alluvial,High,Vishu,2981,72,4,3,3,5,1,Banana fruits and leaves used in rituals and feasts
+Sugarcane,Tamil Nadu,Chennai,Autumn,Kharif,July,2018,Black,Medium,Rath Yatra,40019,69,4,7,7,7,0,Traditional consumption and cultural preference during this period
+Cotton,Tamil Nadu,Tiruppur,Autumn,Kharif,October,2013,Red,High,Dussehra,588,70,4,6,6,4,0,Traditional consumption and cultural preference during this period
+Jasmine,Tamil Nadu,Krishnagiri,Spring,Rabi,March,2023,Laterite,High,Ugadi,2313,35,2,4,4,5,1,Traditional consumption and cultural preference during this period
+Jasmine,Tamil Nadu,Vellore,Winter,Rabi,January,2019,Red,Medium,Pongal,2564,55,3,8,10,7,1,Traditional consumption and cultural preference during this period
+Marigold,Tamil Nadu,Tirupathur,Winter,Rabi,January,2018,Alluvial,Medium,Pongal,4996,41,3,10,8,8,1,Traditional consumption and cultural preference during this period
+Turmeric,Tamil Nadu,Chennai,Spring,Rabi,March,2020,Alluvial,High,Holi,2920,57,3,9,10,6,0,Traditional consumption and cultural preference during this period
+Wheat,Tamil Nadu,Virudhunagar,Winter,Rabi,January,2018,Alluvial,High,Lohri,2982,64,4,7,7,8,0,Traditional consumption and cultural preference during this period
+Banana,Tamil Nadu,Perambalur,Summer,Kharif,April,2011,Alluvial,High,Ram Navami,3158,78,4,6,8,7,1,Traditional consumption and cultural preference during this period
+Groundnut,Tamil Nadu,Tirupathur,Spring,Rabi,March,2013,Alluvial,Medium,Ram Navami,1397,45,3,3,3,7,0,Traditional consumption and cultural preference during this period
+Rice,Tamil Nadu,Coimbatore,Spring,Rabi,March,2024,Red,High,Holi,3921,65,4,8,6,6,0,Staple grain used widely in festive meals and offerings
+Sugarcane,Tamil Nadu,Viluppuram,Autumn,Kharif,October,2016,Alluvial,High,Navratri,40323,81,5,8,8,7,0,Traditional consumption and cultural preference during this period
+Turmeric,Tamil Nadu,Nagapattinam,Autumn,Kharif,July,2017,Red,High,Rath Yatra,3046,71,4,4,5,8,0,Traditional consumption and cultural preference during this period
+Millet,Tamil Nadu,Tirupathur,Summer,Kharif,June,2014,Red,High,Rath Yatra,1407,60,3,7,5,8,0,Traditional consumption and cultural preference during this period
+Sesame,Tamil Nadu,Tiruchirappalli,Spring,Rabi,March,2023,Black,High,Ram Navami,696,42,3,4,4,5,0,Traditional consumption and cultural preference during this period
+Groundnut,Tamil Nadu,Ranipet,Autumn,Kharif,October,2011,Black,High,Diwali,1197,80,4,5,7,4,0,Traditional consumption and cultural preference during this period
+Banana,Tamil Nadu,Kallakurichi,Autumn,Kharif,October,2010,Red,High,Dussehra,2913,85,5,7,8,7,1,Traditional consumption and cultural preference during this period
+Banana,Tamil Nadu,Salem,Autumn,Kharif,October,2018,Red,Medium,Navratri,2988,78,4,9,8,5,1,Traditional consumption and cultural preference during this period
+Sesame,Tamil Nadu,Namakkal,Summer,Kharif,April,2013,Alluvial,High,Ugadi,753,69,4,4,3,6,0,Traditional consumption and cultural preference during this period
+Turmeric,Tamil Nadu,Pudukkottai,Winter,Rabi,December,2019,Black,High,Christmas,2906,54,3,5,3,7,0,Traditional consumption and cultural preference during this period
+Sesame,Tamil Nadu,Perambalur,Winter,Rabi,January,2022,Red,High,Pongal,744,45,3,6,5,4,0,Traditional consumption and cultural preference during this period
+Sesame,Tamil Nadu,Kancheepuram,Spring,Rabi,March,2020,Laterite,High,Holi,919,42,3,7,4,8,0,Traditional consumption and cultural preference during this period
+Cotton,Tamil Nadu,Viluppuram,Autumn,Kharif,October,2023,Red,High,Navratri,577,68,4,4,4,4,0,Used for diya wicks and traditional textiles
+Turmeric,Tamil Nadu,Perambalur,Winter,Rabi,January,2016,Laterite,Medium,Makar Sankranti,2652,57,3,9,7,7,0,Traditional consumption and cultural preference during this period
+Jasmine,Tamil Nadu,Viluppuram,Autumn,Kharif,October,2015,Laterite,High,Navratri,2708,74,4,8,9,5,1,High floral demand for garlands and decorations
+Banana,Tamil Nadu,Tiruppur,Winter,Rabi,January,2020,Laterite,High,Pongal,3036,55,3,8,7,4,1,Banana fruits and leaves used in rituals and feasts
+Millet,Tamil Nadu,Cuddalore,Winter,Rabi,January,2010,Red,High,Pongal,1728,27,2,7,5,4,0,Traditional consumption and cultural preference during this period
+Rice,Tamil Nadu,Tenkasi,Spring,Rabi,March,2019,Black,High,Holi,3624,53,3,8,7,4,0,Staple grain used widely in festive meals and offerings
+Cotton,Tamil Nadu,Chengalpattu,Winter,Rabi,January,2018,Laterite,High,Pongal,1030,47,3,4,3,7,0,Traditional consumption and cultural preference during this period
+Millet,Tamil Nadu,Nilgiris,Winter,Rabi,January,2010,Laterite,High,Pongal,1606,29,2,3,2,7,0,Traditional consumption and cultural preference during this period
+Banana,Tamil Nadu,Nilgiris,Autumn,Kharif,July,2014,Alluvial,High,Rath Yatra,2822,70,4,5,4,5,1,Traditional consumption and cultural preference during this period
+Rice,Tamil Nadu,Coimbatore,Winter,Rabi,January,2011,Alluvial,High,Pongal,3993,43,3,8,9,4,0,Staple grain used widely in festive meals and offerings
+Jasmine,Tamil Nadu,Pudukkottai,Summer,Kharif,April,2022,Alluvial,Medium,Vishu,2744,63,4,6,4,5,1,Traditional consumption and cultural preference during this period
+Cotton,Tamil Nadu,Pudukkottai,Winter,Rabi,December,2017,Laterite,High,Christmas,560,60,3,4,5,6,0,Traditional consumption and cultural preference during this period
+Groundnut,Tamil Nadu,Virudhunagar,Winter,Rabi,November,2010,Black,Medium,Diwali,1105,40,2,6,6,6,0,Traditional consumption and cultural preference during this period
+Wheat,Tamil Nadu,Karur,Summer,Kharif,May,2015,Laterite,High,Wedding Season,3230,51,3,5,6,6,0,Traditional consumption and cultural preference during this period
+Wheat,Tamil Nadu,Sivaganga,Winter,Rabi,January,2013,Red,Medium,Makar Sankranti,3167,69,4,6,5,5,0,Traditional consumption and cultural preference during this period
+Sesame,Tamil Nadu,Erode,Spring,Rabi,March,2017,Laterite,High,Holi,990,43,3,7,5,5,0,Traditional consumption and cultural preference during this period
+Jasmine,Tamil Nadu,Tiruvallur,Autumn,Kharif,October,2014,Alluvial,Medium,Navratri,2642,74,4,8,7,8,1,High floral demand for garlands and decorations
+Banana,Tamil Nadu,Pudukkottai,Winter,Rabi,December,2023,Red,High,Christmas,2870,50,3,4,6,4,1,Traditional consumption and cultural preference during this period
+Millet,Tamil Nadu,Tirupathur,Winter,Rabi,January,2013,Laterite,High,Lohri,1328,50,3,5,5,4,0,Traditional consumption and cultural preference during this period
